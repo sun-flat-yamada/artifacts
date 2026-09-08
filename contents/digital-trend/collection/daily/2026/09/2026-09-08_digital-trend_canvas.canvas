@@ -1,0 +1,204 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-09-08 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n⭐ shareAI-lab/learn-claude-code — Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1 (★82/day)\n\n[出典リンク](https://github.com/shareAI-lab/learn-claude-code)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/diffusion|diffusion]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **5件**"
+    },
+    {
+      "id": "art_ai_research_efe42d15",
+      "type": "text",
+      "x": 940,
+      "y": -320,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Multi-Step Tool-Calling over Korean Open Public APIs: A Benchmark and a Data-Synthesis Recipe](https://arxiv.org/abs/2609.05395v1)**\n_Score: 17.1_"
+    },
+    {
+      "id": "art_ai_research_82611891",
+      "type": "text",
+      "x": 940,
+      "y": -220,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence](https://arxiv.org/abs/2609.05385v1)**\n_Score: 16.8_"
+    },
+    {
+      "id": "art_ai_research_6619a641",
+      "type": "text",
+      "x": 940,
+      "y": -120,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[When LLM Decompilers Recompile More and Preserve Less](https://arxiv.org/abs/2609.05370v1)**\n_Score: 14.4_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": 0,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_ai_dev_tools_ac472ffd",
+      "type": "text",
+      "x": 940,
+      "y": -60,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[⭐ shareAI-lab/learn-claude-code — Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1 (★82/day)](https://github.com/shareAI-lab/learn-claude-code)**\n_Score: 65.87_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_32fd1159",
+      "type": "text",
+      "x": 940,
+      "y": 200,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Trial over killing of Australian surfer brothers and US friend starts in Mexico](https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss)**\n_Score: 14.9_"
+    },
+    {
+      "id": "art_geopolitics_85b65ab5",
+      "type": "text",
+      "x": 940,
+      "y": 300,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Kenya moves to register frightened Burundians as tension over foreign traders rises](https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss)**\n_Score: 14.39_"
+    },
+    {
+      "id": "art_geopolitics_bd3c686b",
+      "type": "text",
+      "x": 940,
+      "y": 400,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[At least two people dead after Russian strikes on Kyiv](https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss)**\n_Score: 13.39_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_4e00fc7c",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_8329b9d5",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_1a93c2a4",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_efe42d15",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_6939c420",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_82611891",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_346adaa5",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_6619a641",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_0dd9cb1a",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_a58e2bea",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_ac472ffd",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_5bc2f4e2",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_eb11af93",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_32fd1159",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_71525ebe",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_85b65ab5",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_86bd9849",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_bd3c686b",
+      "toSide": "left"
+    }
+  ]
+}

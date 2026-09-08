@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Digital Trend Flow — Daily Summaries</title>
+  <subtitle>AI-powered daily technology trend analysis</subtitle>
+  <link href="https://github.com/artifacts/contents/digital-trend/collection/daily/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://github.com" rel="alternate" type="text/html"/>
+  <id>urn:digital-trend-flow:feed</id>
+  <updated>2026-09-08T12:41:42.995Z</updated>
+  <author>
+    <name>Digital Trend Flow</name>
+  </author>
+  <generator>Digital Trend Flow Pipeline</generator>
+  <entry>
+    <title>Daily Summary 2026-09-08</title>
+    <link href="https://github.com/artifacts/contents/digital-trend/collection/daily/2026/09/2026-09-08_digital-trend_daily_summary.md" rel="alternate" type="text/html"/>
+    <id>urn:digital-trend-flow:2026-09-08</id>
+    <updated>2026-09-08T04:00:00+09:00</updated>
+    <summary>9 articles processed</summary>
+  </entry>
+</feed>
