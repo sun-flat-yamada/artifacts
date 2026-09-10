@@ -1,0 +1,204 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-09-10 デイリートレンド\n\n**🔥 本日の最重要ニュース**\nMuted US response to UK's West Bank sanctions may reflect simmering frustration\n\n[出典リンク](https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/OpenAI|OpenAI]]\n- [[Entities/Microsoft|Microsoft]]\n\n"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_ai_dev_tools_3c690dba",
+      "type": "text",
+      "x": 940,
+      "y": -320,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Another researcher says OpenAI trained on conversations, then claimed breakthrou (HN: 217pts)](https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d)**\n_Score: 22.8_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 0,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_business_566cbc58",
+      "type": "text",
+      "x": 940,
+      "y": -60,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[When AI Agrees With Itself, Leaders Lose Their Edge](https://www.forbes.com/sites/garydrenik/2026/09/10/when-ai-agrees-with-itself-leaders-lose-their-edge/)**\n_Score: 14.15_"
+    },
+    {
+      "id": "art_business_6dc535ff",
+      "type": "text",
+      "x": 940,
+      "y": 40,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Microsoft Comes Out With AI Education Guides](https://www.forbes.com/sites/johnwerner/2026/09/10/microsoft-comes-out-with-ai-education-guides/)**\n_Score: 9.86_"
+    },
+    {
+      "id": "art_business_13e47ab4",
+      "type": "text",
+      "x": 940,
+      "y": 140,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[US Names Six Chinese AI Firms For Distilling America’s Top AI Models](https://www.forbes.com/sites/jonmarkman/2026/09/10/us-names-six-chinese-ai-firms-for-distilling-americas-top-ai-models/)**\n_Score: 9.83_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_656971c9",
+      "type": "text",
+      "x": 940,
+      "y": 200,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Muted US response to UK's West Bank sanctions may reflect simmering frustration](https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss)**\n_Score: 36.39_"
+    },
+    {
+      "id": "art_geopolitics_6eb0f669",
+      "type": "text",
+      "x": 940,
+      "y": 300,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Watch: How a community living under demolition orders from Israel view UK sanctions](https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss)**\n_Score: 27.54_"
+    },
+    {
+      "id": "art_geopolitics_c7defcd4",
+      "type": "text",
+      "x": 940,
+      "y": 400,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[UK plan to sanction Israel’s illegal West Bank settlements is a historic shift in tone and policy](https://theconversation.com/uk-plan-to-sanction-israels-illegal-west-bank-settlements-is-a-historic-shift-in-tone-and-policy-291577)**\n_Score: 21.24_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_d9ca37fa",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_51fb6750",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_6be50a45",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_3c690dba",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_40531273",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_0772a403",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_566cbc58",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_426a791e",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_6dc535ff",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_5081a002",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_13e47ab4",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_f43332db",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_ccf57b70",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_656971c9",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_c87f7f83",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_6eb0f669",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_4da644c7",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_c7defcd4",
+      "toSide": "left"
+    }
+  ]
+}
