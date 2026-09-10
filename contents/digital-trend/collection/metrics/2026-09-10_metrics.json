@@ -1,89 +1,62 @@
 {
-  "run_id": "2841485c-6bb0-4df6-8766-b832a6bc71d4",
+  "run_id": "ad886b96-9da7-4bc6-aa96-28b2e503f3da",
   "date": "2026-09-10",
-  "started_at": "2026-09-10T15:38:11.244Z",
-  "articles_ingested": 96,
-  "articles_scored": 20,
-  "articles_selected": 7,
+  "started_at": "2026-09-10T21:19:57.039Z",
+  "articles_ingested": 109,
+  "articles_scored": 26,
+  "articles_selected": 4,
   "articles_by_purpose": {
     "🌍 政治・地政学": 3,
-    "🛠️ 開発ツール・IDE統合": 1,
-    "💼 ビジネス動向": 3
+    "🛠️ 開発ツール・IDE統合": 1
   },
   "llm_calls": [
     {
       "phase": "map",
       "model": "gemini-3.5-flash-lite",
-      "input_tokens": 2662,
-      "output_tokens": 252,
-      "latency_ms": 1348,
-      "estimated_cost_usd": 0.001044
+      "input_tokens": 2537,
+      "output_tokens": 241,
+      "latency_ms": 1257,
+      "estimated_cost_usd": 0.000996
     },
     {
       "phase": "map",
       "model": "gemini-3.5-flash-lite",
-      "input_tokens": 572,
-      "output_tokens": 129,
-      "latency_ms": 941,
-      "estimated_cost_usd": 0.000337
+      "input_tokens": 2216,
+      "output_tokens": 191,
+      "latency_ms": 1880,
+      "estimated_cost_usd": 0.000841
     },
     {
       "phase": "map",
       "model": "gemini-3.5-flash-lite",
-      "input_tokens": 380,
-      "output_tokens": 85,
-      "latency_ms": 840,
-      "estimated_cost_usd": 0.000223
+      "input_tokens": 2811,
+      "output_tokens": 262,
+      "latency_ms": 1411,
+      "estimated_cost_usd": 0.001096
     },
     {
       "phase": "map",
       "model": "gemini-3.5-flash-lite",
-      "input_tokens": 2350,
-      "output_tokens": 160,
-      "latency_ms": 68360,
-      "estimated_cost_usd": 0.000828
-    },
-    {
-      "phase": "map",
-      "model": "gemini-3.5-flash-lite",
-      "input_tokens": 1676,
-      "output_tokens": 259,
-      "latency_ms": 12956,
-      "estimated_cost_usd": 0.000808
-    },
-    {
-      "phase": "map",
-      "model": "gemini-3.5-flash-lite",
-      "input_tokens": 361,
-      "output_tokens": 73,
-      "latency_ms": 10745,
-      "estimated_cost_usd": 0.0002
-    },
-    {
-      "phase": "map",
-      "model": "gemini-3.5-flash-lite",
-      "input_tokens": 395,
-      "output_tokens": 94,
-      "latency_ms": 10167,
-      "estimated_cost_usd": 0.00024
+      "input_tokens": 2413,
+      "output_tokens": 236,
+      "latency_ms": 1417,
+      "estimated_cost_usd": 0.000957
     },
     {
       "phase": "reduce",
-      "model": "gemini-3.5-flash-lite",
-      "input_tokens": 1679,
-      "output_tokens": 1608,
-      "latency_ms": 69021,
-      "estimated_cost_usd": 0.002832
+      "model": "gemini-3.8-flash",
+      "input_tokens": 1463,
+      "output_tokens": 2033,
+      "latency_ms": 16740,
+      "estimated_cost_usd": 0.008721
     }
   ],
   "total_tokens": {
-    "input": 10075,
-    "output": 2660
+    "input": 11440,
+    "output": 2963
   },
-  "total_cost_usd": 0.006512,
-  "errors": [
-    "google/latest-flash: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent: [503 Service Unavailable] This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
-  ],
+  "total_cost_usd": 0.012610999999999999,
+  "errors": [],
   "sources_status": [
     {
       "name": "Hugging Face Daily Papers",
@@ -118,8 +91,8 @@
     {
       "name": "Newsweek World",
       "type": "rss",
-      "status": "empty",
-      "article_count": 0
+      "status": "ok",
+      "article_count": 20
     },
     {
       "name": "BBC News World",
@@ -131,7 +104,7 @@
       "name": "The Conversation Global",
       "type": "rss",
       "status": "ok",
-      "article_count": 3
+      "article_count": 2
     },
     {
       "name": "Raindrop Inbox (手動クリップ)",
@@ -149,7 +122,7 @@
       "name": "Hacker News Top Stories",
       "type": "hackernews",
       "status": "ok",
-      "article_count": 20
+      "article_count": 14
     },
     {
       "name": "arXiv AI Papers",
@@ -177,6 +150,6 @@
     }
   ],
   "quality_score": 100,
-  "finished_at": "2026-09-10T15:51:21.021Z",
-  "duration_ms": 789777
+  "finished_at": "2026-09-10T21:25:20.265Z",
+  "duration_ms": 323226
 }
