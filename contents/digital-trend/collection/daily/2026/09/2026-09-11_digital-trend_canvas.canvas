@@ -1,0 +1,221 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-09-11 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n⭐ volcengine/OpenViking — Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. (★214/day)\n\n[出典リンク](https://github.com/volcengine/OpenViking)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/RAG|RAG]]"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_ai_dev_tools_c031d00e",
+      "type": "text",
+      "x": 940,
+      "y": -320,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[⭐ volcengine/OpenViking — Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. (★214/day)](https://github.com/volcengine/OpenViking)**\n_Score: 69.92_"
+    },
+    {
+      "id": "art_ai_dev_tools_078384b1",
+      "type": "text",
+      "x": 940,
+      "y": -220,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[⭐ bojieli/ai-agent-book — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 (★311/day)](https://github.com/bojieli/ai-agent-book)**\n_Score: 31.96_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 0,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_business_eb5bcbe7",
+      "type": "text",
+      "x": 940,
+      "y": -60,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[​Why Healthcare Needs An 'Application Undertaker'](https://www.forbes.com/councils/forbestechcouncil/2026/09/11/why-healthcare-needs-an-application-undertaker/)**\n_Score: 21.07_"
+    },
+    {
+      "id": "art_business_95ef84a0",
+      "type": "text",
+      "x": 940,
+      "y": 40,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Why Your AI Transformation Might Be Failing Before It Begins](https://www.forbes.com/councils/forbestechcouncil/2026/09/11/why-your-ai-transformation-might-be-failing-before-it-begins/)**\n_Score: 9.23_"
+    },
+    {
+      "id": "art_business_2a6ded5d",
+      "type": "text",
+      "x": 940,
+      "y": 140,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Where Quantum Technology Could Deliver Practical Value First](https://www.forbes.com/councils/forbestechcouncil/2026/09/11/where-quantum-technology-could-deliver-practical-value-first/)**\n_Score: 5.51_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_e81b93c8",
+      "type": "text",
+      "x": 940,
+      "y": 200,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi](https://www.bbc.co.uk/news/articles/c07lv53l7jjo?at_medium=RSS&at_campaign=rss)**\n_Score: 23.42_"
+    },
+    {
+      "id": "art_geopolitics_8c280b16",
+      "type": "text",
+      "x": 940,
+      "y": 300,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[How global trade and oil prices could be hit by Houthi advance](https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss)**\n_Score: 23.36_"
+    },
+    {
+      "id": "art_geopolitics_81f9cdbe",
+      "type": "text",
+      "x": 940,
+      "y": 400,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[\n\t\t\t\tMedicare Update: Trump Official Says Costs Are Going to Increase—Here&#039;s Why\n\t\t\t](https://www.newsweek.com/medicare-update-costs-will-increase-dr-oz-12433850)**\n_Score: 16.17_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_c09efce2",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_888bf439",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_cb34c7de",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_c031d00e",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_2d1b37a0",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_078384b1",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_a5fc3d2b",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_ea11ba62",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_eb5bcbe7",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_dd98e6e3",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_95ef84a0",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_1deb3bd2",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_2a6ded5d",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_ab3c2dda",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_a9761231",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_e81b93c8",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_5f71ca7f",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_8c280b16",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_34fd3eaa",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_81f9cdbe",
+      "toSide": "left"
+    }
+  ]
+}
