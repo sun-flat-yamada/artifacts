@@ -71,4 +71,6 @@ If you find these artifacts useful, please consider supporting our development.
 
 ## 📜 License
 
+Copyright (c) 2026 @sun-flat-yamada (Youhei Yamada)
+
 Unless otherwise noted, all content in this repository is intended for personal use only and redistribution is prohibited.
