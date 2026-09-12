@@ -1,0 +1,221 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-09-12 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n⭐ virgiliojr94/book-to-skill — Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. (★289/day)\n\n[出典リンク](https://github.com/virgiliojr94/book-to-skill)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/OpenAI|OpenAI]]\n- [[Entities/Google|Google]]\n- [[Entities/Anthropic|Anthropic]]\n- [[Entities/Apple|Apple]]\n- [[Entities/AWS|AWS]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/GPT|GPT]]\n- [[Technologies/RAG|RAG]]"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_ai_dev_tools_abe08bc1",
+      "type": "text",
+      "x": 940,
+      "y": -320,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[⭐ virgiliojr94/book-to-skill — Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. (★289/day)](https://github.com/virgiliojr94/book-to-skill)**\n_Score: 74.95_"
+    },
+    {
+      "id": "art_ai_dev_tools_657d5a6f",
+      "type": "text",
+      "x": 940,
+      "y": -220,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[⭐ Shubhamsaboo/awesome-llm-apps — 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. (★237/day)](https://github.com/Shubhamsaboo/awesome-llm-apps)**\n_Score: 53.97_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 0,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **4件**"
+    },
+    {
+      "id": "art_business_e867e9a1",
+      "type": "text",
+      "x": 940,
+      "y": -60,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Coxon’s AI Warning Is Mainstream. Now What?](https://www.forbes.com/sites/hamiltonmann/2026/09/12/coxons-ai-warning-is-mainstream-now-what/)**\n_Score: 13.14_"
+    },
+    {
+      "id": "art_business_088949ee",
+      "type": "text",
+      "x": 940,
+      "y": 40,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Google Chrome AI Flaws Prompt New 14 Day Security Update Cycle](https://www.forbes.com/sites/daveywinder/2026/09/12/google-chrome-ai-flaws-prompt-new-14-day-security-update-cycle/)**\n_Score: 12.99_"
+    },
+    {
+      "id": "art_business_20cd66f0",
+      "type": "text",
+      "x": 940,
+      "y": 140,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Hot Summers, Water Supply And Frivolous AI Use On Social Media](https://www.forbes.com/sites/marshallshepherd/2026/09/12/hot-summers-water-supply-and-frivolous-ai-use-on-social-media/)**\n_Score: 12.52_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_3dd95c2e",
+      "type": "text",
+      "x": 940,
+      "y": 200,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Anthropic boss Dario Amodei calls for AI development to slow down](https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss)**\n_Score: 24.74_"
+    },
+    {
+      "id": "art_geopolitics_f0a27145",
+      "type": "text",
+      "x": 940,
+      "y": 300,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat](https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss)**\n_Score: 16.27_"
+    },
+    {
+      "id": "art_geopolitics_c8b598ff",
+      "type": "text",
+      "x": 940,
+      "y": 400,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq](https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss)**\n_Score: 9.21_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_4a0dbeeb",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_e0c5376d",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_b5042d33",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_abe08bc1",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_8bb25ade",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_657d5a6f",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_df66ea81",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_924b782e",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_e867e9a1",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_96d5272e",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_088949ee",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_e56f0b0c",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_20cd66f0",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_53beca75",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_6dc362c9",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_3dd95c2e",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_6dfaead0",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_f0a27145",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_7c0c1981",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_c8b598ff",
+      "toSide": "left"
+    }
+  ]
+}
