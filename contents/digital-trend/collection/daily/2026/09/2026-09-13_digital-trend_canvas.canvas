@@ -1,0 +1,221 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-09-13 デイリートレンド\n\n**🔥 本日の最重要ニュース**\nDavid Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models (HN: 182pts)\n\n[出典リンク](https://twitter.com/DavidSacks/status/2098973625252708460)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/OpenAI|OpenAI]]\n- [[Entities/Anthropic|Anthropic]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/RLHF|RLHF]]\n- [[Technologies/DPO|DPO]]"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_ai_dev_tools_cfb7ae22",
+      "type": "text",
+      "x": 940,
+      "y": -320,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models (HN: 182pts)](https://twitter.com/DavidSacks/status/2098973625252708460)**\n_Score: 65.95_"
+    },
+    {
+      "id": "art_ai_dev_tools_bea37027",
+      "type": "text",
+      "x": 940,
+      "y": -220,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Why are AI agents lying, cheating and coordinating? (HN: 546pts)](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating)**\n_Score: 26.87_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 0,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **4件**"
+    },
+    {
+      "id": "art_business_42721d17",
+      "type": "text",
+      "x": 940,
+      "y": -60,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[VCs Invoke Thiel's Antichrist As AI Doom Warnings Hit Anthropic IPO](https://www.forbes.com/sites/josipamajic/2026/09/13/vcs-invoke-thiels-antichrist-as-ai-doom-warnings-hit-anthropic-ipo/)**\n_Score: 35.59_"
+    },
+    {
+      "id": "art_business_44aa22a6",
+      "type": "text",
+      "x": 940,
+      "y": 40,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[What Is AI-Assisted Coding And How To Make It A Valuable Skill](https://www.forbes.com/sites/technology/article/what-is-ai-coding-and-how-to-code-with-ai/)**\n_Score: 12.23_"
+    },
+    {
+      "id": "art_business_034e7efd",
+      "type": "text",
+      "x": 940,
+      "y": 140,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Kandao Launches 360-Degree AI Webcam  For Hybrid Meeting Spaces](https://www.forbes.com/sites/marksparrow/2026/09/13/kandao-launches-360-degree-ai-webcam--for-hybrid-meeting-spaces/)**\n_Score: 11.98_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_1dccc5bf",
+      "type": "text",
+      "x": 940,
+      "y": 200,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Trump downplays warnings of AI risks, citing rivalry with China](https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss)**\n_Score: 33.28_"
+    },
+    {
+      "id": "art_geopolitics_4ab12dfe",
+      "type": "text",
+      "x": 940,
+      "y": 300,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Questions mount over what an AI 'slowdown' would look like](https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss)**\n_Score: 19.81_"
+    },
+    {
+      "id": "art_geopolitics_714ba32c",
+      "type": "text",
+      "x": 940,
+      "y": 400,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Iran war reshapes Brics ties but also exposes divisions](https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss)**\n_Score: 17.24_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_7ee30e00",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_b6c3500c",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_e8083441",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_cfb7ae22",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_9fa24386",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_bea37027",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_dec4f192",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_2ad440f1",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_42721d17",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_5d4e2f86",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_44aa22a6",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_00bbdb61",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_034e7efd",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_756825b1",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_a4f31e41",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_1dccc5bf",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_97ad3a1d",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_4ab12dfe",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_a72bf782",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_714ba32c",
+      "toSide": "left"
+    }
+  ]
+}
