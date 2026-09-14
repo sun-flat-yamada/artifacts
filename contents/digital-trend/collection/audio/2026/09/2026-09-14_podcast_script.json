@@ -1,0 +1,63 @@
+{
+  "title": "Daily Audio Briefing (2026-09-14)",
+  "date": "2026-09-14",
+  "turns": [
+    {
+      "speaker": "HostA",
+      "speakerName": "ケンタ",
+      "text": "みなさんこんにちは！デジタル・トレンド・フローへようこそ。アナリストのケンタです。"
+    },
+    {
+      "speaker": "HostB",
+      "speakerName": "アオイ",
+      "text": "エンジニアのアオイです！本日2026-09-14の最新テクノロジー動向をコンパクトにお届けします。ケンタさん、今日のトップニュースは何でしょうか？"
+    },
+    {
+      "speaker": "HostA",
+      "speakerName": "ケンタ",
+      "text": "本日の最重要ニュースは、「[⭐ MadsLorentzen/ai-job-search — The job search that runs on your machine](https://github.com/MadsLorentzen/ai-job-search)」です。業界全体に大きなインパクトを与える動きとなっています。"
+    },
+    {
+      "speaker": "HostB",
+      "speakerName": "アオイ",
+      "text": "技術的なポイントや進歩はどこにあるんでしょうか？"
+    },
+    {
+      "speaker": "HostA",
+      "speakerName": "ケンタ",
+      "text": "Claude Codeを基盤としたマルチコマンド（スクレイピング、評価、応募、面接対策、外部API同期）の統合。ローカル環境での完全なデータ主権を維持しながら、複数ステップのエージェントワークフローを実用レベルで実現。という点が非常に注目されています。"
+    },
+    {
+      "speaker": "HostB",
+      "speakerName": "アオイ",
+      "text": "私たち開発者やエンジニアとしては、どう向き合うべきですか？"
+    },
+    {
+      "speaker": "HostA",
+      "speakerName": "ケンタ",
+      "text": "推奨アクションとしては、キャリア構築の自動化に関心があるエンジニアは、リポジトリをForkして自身の求職・採用パイプライン（Notion/Gmail連携含む）のPoCとして今すぐ検証すべきである。また、高度なエージェント設計のアーキテクチャとしても大いに参考になる。とのことです。ぜひチェックしておきたいですね。"
+    },
+    {
+      "speaker": "HostB",
+      "speakerName": "アオイ",
+      "text": "他にはどのような分野で動きがありましたか？"
+    },
+    {
+      "speaker": "HostA",
+      "speakerName": "ケンタ",
+      "text": "本日は特に、[⭐ MadsLorentzen/ai-job-search — The job search that runs on your machine](https://github.com/MadsLorentzen/ai-job-search)、そして🌍 政治・地政学のカテゴリでも興味深い発表や論文が複数ありました。詳細は日次サマリーのノートにまとめています。"
+    },
+    {
+      "speaker": "HostB",
+      "speakerName": "アオイ",
+      "text": "気になった方はぜひリンク元の一次情報もあわせてご覧くださいね！"
+    },
+    {
+      "speaker": "HostA",
+      "speakerName": "ケンタ",
+      "text": "それでは、また明日のデイリーブリーフィングでお会いしましょう。良い一日を！"
+    }
+  ],
+  "markdown": "# 🎙️ デイリーAIポッドキャスト (2026-09-14)\n**出演**: ケンタ（解説アナリスト）、アオイ（エンジニア） | **想定再生時間**: 約3分\n\n---\n\n**ケンタ**: みなさんこんにちは！デジタル・トレンド・フローへようこそ。アナリストのケンタです。\n\n**アオイ**: エンジニアのアオイです！本日2026-09-14の最新テクノロジー動向をコンパクトにお届けします。ケンタさん、今日のトップニュースは何でしょうか？\n\n**ケンタ**: 本日の最重要ニュースは、「[⭐ MadsLorentzen/ai-job-search — The job search that runs on your machine](https://github.com/MadsLorentzen/ai-job-search)」です。業界全体に大きなインパクトを与える動きとなっています。\n\n**アオイ**: 技術的なポイントや進歩はどこにあるんでしょうか？\n\n**ケンタ**: Claude Codeを基盤としたマルチコマンド（スクレイピング、評価、応募、面接対策、外部API同期）の統合。ローカル環境での完全なデータ主権を維持しながら、複数ステップのエージェントワークフローを実用レベルで実現。という点が非常に注目されています。\n\n**アオイ**: 私たち開発者やエンジニアとしては、どう向き合うべきですか？\n\n**ケンタ**: 推奨アクションとしては、キャリア構築の自動化に関心があるエンジニアは、リポジトリをForkして自身の求職・採用パイプライン（Notion/Gmail連携含む）のPoCとして今すぐ検証すべきである。また、高度なエージェント設計のアーキテクチャとしても大いに参考になる。とのことです。ぜひチェックしておきたいですね。\n\n**アオイ**: 他にはどのような分野で動きがありましたか？\n\n**ケンタ**: 本日は特に、[⭐ MadsLorentzen/ai-job-search — The job search that runs on your machine](https://github.com/MadsLorentzen/ai-job-search)、そして🌍 政治・地政学のカテゴリでも興味深い発表や論文が複数ありました。詳細は日次サマリーのノートにまとめています。\n\n**アオイ**: 気になった方はぜひリンク元の一次情報もあわせてご覧くださいね！\n\n**ケンタ**: それでは、また明日のデイリーブリーフィングでお会いしましょう。良い一日を！\n",
+  "estimatedDurationSec": 149
+}

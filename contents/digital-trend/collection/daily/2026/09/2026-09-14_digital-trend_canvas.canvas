@@ -1,0 +1,289 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-09-14 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n⭐ MadsLorentzen/ai-job-search — The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. (★488/day)\n\n[出典リンク](https://github.com/MadsLorentzen/ai-job-search)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/OpenAI|OpenAI]]\n- [[Entities/GitHub|GitHub]]\n- [[Entities/Cloudflare|Cloudflare]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/diffusion|diffusion]]\n- [[Technologies/agentic|agentic]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_ai_research_8c21fe19",
+      "type": "text",
+      "x": 940,
+      "y": -450,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[MAxBench: A Multinomial Concept Recovery Benchmark](https://arxiv.org/abs/2609.13072v1)**\n_Score: 11.7_"
+    },
+    {
+      "id": "art_ai_research_2fb1b5b7",
+      "type": "text",
+      "x": 940,
+      "y": -350,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[CanvasAnneal: Curriculum Reinforcement Learning for Diffusion Language Models](https://arxiv.org/abs/2609.13060v1)**\n_Score: 10.2_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_ai_dev_tools_b9faebb0",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[⭐ MadsLorentzen/ai-job-search — The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. (★488/day)](https://github.com/MadsLorentzen/ai-job-search)**\n_Score: 61.92_"
+    },
+    {
+      "id": "art_ai_dev_tools_772fd93e",
+      "type": "text",
+      "x": 940,
+      "y": -90,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[⭐ Panniantong/Agent-Reach — Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. (★640/day)](https://github.com/Panniantong/Agent-Reach)**\n_Score: 57.93_"
+    },
+    {
+      "id": "art_ai_dev_tools_f8b7f77c",
+      "type": "text",
+      "x": 940,
+      "y": 10,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[OpenAI bots knew about the RubyGems caching vulnerability (HN: 318pts)](https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/)**\n_Score: 26.41_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **4件**"
+    },
+    {
+      "id": "art_business_10e5ef9a",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Cornelis Unveils Active Compute Fabric To Maximize AI Rack Utilization](https://www.forbes.com/sites/marcochiappetta/2026/09/14/cornelis-unveils-active-compute-fabric-to-maximize-ai-rack-utilization/)**\n_Score: 13.78_"
+    },
+    {
+      "id": "art_business_ef034536",
+      "type": "text",
+      "x": 940,
+      "y": 170,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Suki Is Bringing Researchers Together To Define What ‘Good’ AI Means](https://www.forbes.com/sites/demetrigiannikopoulos/2026/09/14/suki-is-bringing-researchers-together-to-define-what-good-ai-means/)**\n_Score: 12.82_"
+    },
+    {
+      "id": "art_business_e380045b",
+      "type": "text",
+      "x": 940,
+      "y": 270,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[How To Turn Pen Tests Into Real Security Improvements](https://www.forbes.com/councils/forbestechcouncil/2026/09/14/how-to-turn-pen-tests-into-real-security-improvements/)**\n_Score: 10.86_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_8b1a0c84",
+      "type": "text",
+      "x": 940,
+      "y": 330,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[China criticises idea it is in 'malicious competition' over AI](https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss)**\n_Score: 35.81_"
+    },
+    {
+      "id": "art_geopolitics_cc068ea9",
+      "type": "text",
+      "x": 940,
+      "y": 430,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Why strengthening ties with the Global South was a top priority for Putin’s recent diplomacy blitz](https://theconversation.com/why-strengthening-ties-with-the-global-south-was-a-top-priority-for-putins-recent-diplomacy-blitz-290946)**\n_Score: 34.76_"
+    },
+    {
+      "id": "art_geopolitics_67a2ab1a",
+      "type": "text",
+      "x": 940,
+      "y": 530,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Houthi rebels’ control of Red Sea oil chokepoint exposes deep divisions in Brics](https://theconversation.com/houthi-rebels-control-of-red-sea-oil-chokepoint-exposes-deep-divisions-in-brics-291576)**\n_Score: 23.63_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_6104b467",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_1cd31179",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_b95cfaa9",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_8c21fe19",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_ff46e93e",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_2fb1b5b7",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_8afb4f56",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_8e563a6c",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_b9faebb0",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_33c39715",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_772fd93e",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_f47523fe",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_f8b7f77c",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_a6eeb494",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_c15052db",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_10e5ef9a",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_d02317b0",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_ef034536",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_112638c1",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_e380045b",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_76689eb8",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_950957c8",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_8b1a0c84",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_6caccfb0",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_cc068ea9",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_d6600009",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_67a2ab1a",
+      "toSide": "left"
+    }
+  ]
+}

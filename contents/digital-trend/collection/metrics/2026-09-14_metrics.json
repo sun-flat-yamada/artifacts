@@ -1,0 +1,223 @@
+{
+  "run_id": "a0124442-f1e0-4686-8ffe-af4793f43a0f",
+  "date": "2026-09-14",
+  "started_at": "2026-09-14T22:13:35.788Z",
+  "articles_ingested": 126,
+  "articles_scored": 42,
+  "articles_selected": 12,
+  "articles_by_purpose": {
+    "🛠️ 開発ツール・IDE統合": 3,
+    "🌍 政治・地政学": 3,
+    "💼 ビジネス動向": 4,
+    "🔬 AI・LLM 研究": 2
+  },
+  "llm_calls": [
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2819,
+      "output_tokens": 246,
+      "latency_ms": 1150,
+      "estimated_cost_usd": 0.001074
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2776,
+      "output_tokens": 226,
+      "latency_ms": 1178,
+      "estimated_cost_usd": 0.001033
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 390,
+      "output_tokens": 91,
+      "latency_ms": 731,
+      "estimated_cost_usd": 0.000234
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 761,
+      "output_tokens": 206,
+      "latency_ms": 1398,
+      "estimated_cost_usd": 0.000499
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 1750,
+      "output_tokens": 183,
+      "latency_ms": 1072,
+      "estimated_cost_usd": 0.000712
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 5338,
+      "output_tokens": 273,
+      "latency_ms": 1476,
+      "estimated_cost_usd": 0.001744
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 1792,
+      "output_tokens": 266,
+      "latency_ms": 1205,
+      "estimated_cost_usd": 0.000847
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 1519,
+      "output_tokens": 200,
+      "latency_ms": 1215,
+      "estimated_cost_usd": 0.00068
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 1795,
+      "output_tokens": 316,
+      "latency_ms": 1449,
+      "estimated_cost_usd": 0.000923
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 394,
+      "output_tokens": 93,
+      "latency_ms": 1086,
+      "estimated_cost_usd": 0.000238
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2286,
+      "output_tokens": 236,
+      "latency_ms": 1234,
+      "estimated_cost_usd": 0.000925
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 380,
+      "output_tokens": 85,
+      "latency_ms": 1084,
+      "estimated_cost_usd": 0.000223
+    },
+    {
+      "phase": "reduce",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2863,
+      "output_tokens": 1896,
+      "latency_ms": 6672,
+      "estimated_cost_usd": 0.00356
+    }
+  ],
+  "total_tokens": {
+    "input": 24863,
+    "output": 4317
+  },
+  "total_cost_usd": 0.012691999999999998,
+  "errors": [
+    "google/latest-flash: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent: [503 Service Unavailable] This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
+  ],
+  "sources_status": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "type": "rss",
+      "status": "empty",
+      "article_count": 0
+    },
+    {
+      "name": "Reuters Technology",
+      "type": "rss",
+      "status": "empty",
+      "article_count": 0
+    },
+    {
+      "name": "VentureBeat",
+      "type": "rss",
+      "status": "empty",
+      "article_count": 0
+    },
+    {
+      "name": "Forbes Tech",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 25
+    },
+    {
+      "name": "Ledge.ai (LEDGE)",
+      "type": "rss",
+      "status": "empty",
+      "article_count": 0
+    },
+    {
+      "name": "Newsweek World",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 20
+    },
+    {
+      "name": "BBC News World",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 28
+    },
+    {
+      "name": "The Conversation Global",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 7
+    },
+    {
+      "name": "Raindrop Inbox (手動クリップ)",
+      "type": "raindrop",
+      "status": "empty",
+      "article_count": 0
+    },
+    {
+      "name": "X (旧Twitter) AI Trends via Grok",
+      "type": "xai_grok",
+      "status": "empty",
+      "article_count": 0
+    },
+    {
+      "name": "Hacker News Top Stories",
+      "type": "hackernews",
+      "status": "ok",
+      "article_count": 13
+    },
+    {
+      "name": "arXiv AI Papers",
+      "type": "arxiv",
+      "status": "ok",
+      "article_count": 15
+    },
+    {
+      "name": "GitHub Trending (Python)",
+      "type": "github_trending",
+      "status": "ok",
+      "article_count": 18
+    },
+    {
+      "name": "Reddit r/LocalLLaMA",
+      "type": "reddit",
+      "status": "empty",
+      "article_count": 0
+    },
+    {
+      "name": "Bluesky AI Trends",
+      "type": "bluesky",
+      "status": "empty",
+      "article_count": 0
+    }
+  ],
+  "quality_score": 98.85714285714286,
+  "finished_at": "2026-09-14T22:22:22.382Z",
+  "duration_ms": 526594
+}
