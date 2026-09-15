@@ -1,0 +1,238 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-09-15 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n⭐ anthropics/claude-plugins-official — Official, Anthropic-managed directory of high quality Claude Code Plugins. (★62/day)\n\n[出典リンク](https://github.com/anthropics/claude-plugins-official)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/OpenAI|OpenAI]]\n- [[Entities/Anthropic|Anthropic]]\n- [[Entities/Meta|Meta]]\n- [[Entities/Apple|Apple]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_ai_dev_tools_f7a598d9",
+      "type": "text",
+      "x": 940,
+      "y": -320,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[⭐ anthropics/claude-plugins-official — Official, Anthropic-managed directory of high quality Claude Code Plugins. (★62/day)](https://github.com/anthropics/claude-plugins-official)**\n_Score: 71.91_"
+    },
+    {
+      "id": "art_ai_dev_tools_30ba21df",
+      "type": "text",
+      "x": 940,
+      "y": -220,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[⭐ Jeffallan/claude-skills — 67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer. (★22/day)](https://github.com/Jeffallan/claude-skills)**\n_Score: 53.93_"
+    },
+    {
+      "id": "art_ai_dev_tools_8248aca7",
+      "type": "text",
+      "x": 940,
+      "y": -120,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[A single firm is behind OpenAI, Anthropic, and Meta hacking scandals (HN: 362pts)](https://www.effort.news/irregular)**\n_Score: 29.3_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 0,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **4件**"
+    },
+    {
+      "id": "art_business_e445d784",
+      "type": "text",
+      "x": 940,
+      "y": -60,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Better Cybersecurity Should Be Responsible For Containing AI Threats](https://www.forbes.com/sites/chuckbrooks/2026/09/15/better-cybersecurity-should-be-responsible-for-containing-ai-threats/)**\n_Score: 13.93_"
+    },
+    {
+      "id": "art_business_1aa635a2",
+      "type": "text",
+      "x": 940,
+      "y": 40,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Apple’s Foldable iPhone Was The Headline. AI Was The Story.](https://www.forbes.com/sites/timbajarin/2026/09/15/apples-foldable-iphone-was-the-headline-ai-was-the-story/)**\n_Score: 12.81_"
+    },
+    {
+      "id": "art_business_c36888c6",
+      "type": "text",
+      "x": 940,
+      "y": 140,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[How Better Data Helps AI Find Its Rhythm](https://www.forbes.com/sites/garydrenik/2026/09/15/how-better-data-helps-ai-find-its-rhythm/)**\n_Score: 12.81_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_ae1833cb",
+      "type": "text",
+      "x": 940,
+      "y": 200,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[AI regulation faces political deadlock as calls grow for Congress to act](https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss)**\n_Score: 52.76_"
+    },
+    {
+      "id": "art_geopolitics_03758ea7",
+      "type": "text",
+      "x": 940,
+      "y": 300,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[\n\t\t\t\tRepublican Wants Senate to Pass AI ‘Kill Switch’—How Could That Work?\n\t\t\t](https://www.newsweek.com/republican-wants-senate-to-pass-ai-kill-switch-how-could-that-work-12446808)**\n_Score: 35.64_"
+    },
+    {
+      "id": "art_geopolitics_73c81e6b",
+      "type": "text",
+      "x": 940,
+      "y": 400,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Iran war has led to US munitions shortfalls, Pentagon inspector confirms](https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss)**\n_Score: 30.67_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_f7e9023a",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_af0f0d5c",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_a0d18583",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_f7a598d9",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_f9960be7",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_30ba21df",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_589ca8ef",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_8248aca7",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_cae0cece",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_f7c29c41",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_e445d784",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_b2c85f44",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_1aa635a2",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_7baa5b5d",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_c36888c6",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_010bec25",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_d03db45f",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_ae1833cb",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_47fae480",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_03758ea7",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_c06597f6",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_73c81e6b",
+      "toSide": "left"
+    }
+  ]
+}
