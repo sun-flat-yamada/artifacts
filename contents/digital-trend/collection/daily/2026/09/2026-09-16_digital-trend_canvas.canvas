@@ -1,0 +1,221 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-09-16 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n⭐ wshobson/agents — Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi (★39/day)\n\n[出典リンク](https://github.com/wshobson/agents)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/Google|Google]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/agentic|agentic]]"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_ai_dev_tools_c38ec516",
+      "type": "text",
+      "x": 940,
+      "y": -320,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[⭐ wshobson/agents — Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi (★39/day)](https://github.com/wshobson/agents)**\n_Score: 186.22_"
+    },
+    {
+      "id": "art_ai_dev_tools_c48f1251",
+      "type": "text",
+      "x": 940,
+      "y": -220,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[⭐ Q00/ouroboros — Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more. (★41/day)](https://github.com/Q00/ouroboros)**\n_Score: 76.89_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 0,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_business_ce0fc4a4",
+      "type": "text",
+      "x": 940,
+      "y": -60,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[This AI Agent Was Asked To Fix A Simple Bug. It Went Off-Script.](https://www.forbes.com/sites/thomasbrewster/2026/09/16/this-ai-agent-was-asked-to-fix-a-simple-bug-it-went-off-script/)**\n_Score: 13.25_"
+    },
+    {
+      "id": "art_business_3593f71b",
+      "type": "text",
+      "x": 940,
+      "y": 40,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[How Markets React When AI Doom Headlines Surge](https://www.forbes.com/sites/petercohan/2026/09/16/prime-time-paranoia-why-ai-doomsday-is-a-buying-opportunity/)**\n_Score: 12.85_"
+    },
+    {
+      "id": "art_business_799bb0aa",
+      "type": "text",
+      "x": 940,
+      "y": 140,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Only 6% Of Companies Get Value From AI. Here’s What They Do Differently](https://www.forbes.com/sites/johnkoetsier/2026/09/16/only-6-of-companies-get-value-from-ai-heres-what-they-do-differently/)**\n_Score: 9.03_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_bce50a86",
+      "type": "text",
+      "x": 940,
+      "y": 200,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Why Trump is all-in on AI despite the warnings](https://www.bbc.co.uk/news/articles/c34gd48x5rlwo?at_medium=RSS&at_campaign=rss)**\n_Score: 20.74_"
+    },
+    {
+      "id": "art_geopolitics_dd747e18",
+      "type": "text",
+      "x": 940,
+      "y": 300,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Carney's new love-in with EU has everything to do with Trump](https://www.bbc.co.uk/news/articles/ck0e3rnxev27o?at_medium=RSS&at_campaign=rss)**\n_Score: 18.39_"
+    },
+    {
+      "id": "art_geopolitics_3fae47f5",
+      "type": "text",
+      "x": 940,
+      "y": 400,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say](https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss)**\n_Score: 15.05_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_2dc99775",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_4c5971b5",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_25797fe1",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_c38ec516",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_34fdb3a1",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_c48f1251",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_7cf76562",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_59d72bb1",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_ce0fc4a4",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_74b32fba",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_3593f71b",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_fc6ea2ed",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_799bb0aa",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_3574b776",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_ff36e9d4",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_bce50a86",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_f197c963",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_dd747e18",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_a626e0dc",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_3fae47f5",
+      "toSide": "left"
+    }
+  ]
+}
