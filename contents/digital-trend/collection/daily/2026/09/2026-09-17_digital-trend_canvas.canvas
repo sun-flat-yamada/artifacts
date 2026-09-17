@@ -1,0 +1,238 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-09-17 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n⭐ trailofbits/skills — Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows (★15/day)\n\n[出典リンク](https://github.com/trailofbits/skills)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/Anthropic|Anthropic]]\n- [[Entities/Mistral|Mistral]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/GPT|GPT]]\n- [[Technologies/BERT|BERT]]\n- [[Technologies/RAG|RAG]]\n- [[Technologies/DPO|DPO]]\n- [[Technologies/chain-of-thought|chain-of-thought]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_ai_research_07c303ff",
+      "type": "text",
+      "x": 940,
+      "y": -450,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Monitoring and Discovering Reward Hacking with Internal Representations during LLM Evaluations](https://arxiv.org/abs/2609.19101v1)**\n_Score: 27.2_"
+    },
+    {
+      "id": "art_ai_research_08315945",
+      "type": "text",
+      "x": 940,
+      "y": -350,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[A Zeroth-Order Paradigm for LLM Preference Alignment](https://arxiv.org/abs/2609.19144v1)**\n_Score: 26.31_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_ai_dev_tools_d0042ee2",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[⭐ trailofbits/skills — Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows (★15/day)](https://github.com/trailofbits/skills)**\n_Score: 51.92_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_business_5128c3d3",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[AI Agents Are Only As Good As The Foundation They Run On](https://www.forbes.com/sites/garydrenik/2026/09/17/ai-agents-are-only-as-good-as-the-foundation-they-run-on/)**\n_Score: 12.81_"
+    },
+    {
+      "id": "art_business_58cc0cb6",
+      "type": "text",
+      "x": 940,
+      "y": 170,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[AI Changes Governance More Than It Changes Software](https://www.forbes.com/sites/robertkramer/2026/09/17/ai-changes-governance-more-than-it-changes-software/)**\n_Score: 9.08_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_c0f6084f",
+      "type": "text",
+      "x": 940,
+      "y": 330,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Houthi advance boosts Iran’s leverage over the US and Saudi Arabia – but may cost rebel group its legitimacy back in Yemen](https://theconversation.com/houthi-advance-boosts-irans-leverage-over-the-us-and-saudi-arabia-but-may-cost-rebel-group-its-legitimacy-back-in-yemen-291930)**\n_Score: 24.27_"
+    },
+    {
+      "id": "art_geopolitics_045ccdda",
+      "type": "text",
+      "x": 940,
+      "y": 430,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting ](https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss)**\n_Score: 23.18_"
+    },
+    {
+      "id": "art_geopolitics_264d7ae9",
+      "type": "text",
+      "x": 940,
+      "y": 530,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[India faces 100% tariff threat over Russian oil after US House vote](https://www.bbc.co.uk/news/articles/c3lyrn4p870yo?at_medium=RSS&at_campaign=rss)**\n_Score: 17.35_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_aed62d97",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_50f72711",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_068c7bb1",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_07c303ff",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_95f3307a",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_08315945",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_d9edc8b6",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_58e72d63",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_d0042ee2",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_3f0f5a09",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_5f6043b7",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_5128c3d3",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_9315196a",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_58cc0cb6",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_d2f0055f",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_8a52262d",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_c0f6084f",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_02ca88f5",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_045ccdda",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_af1e7c3f",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_264d7ae9",
+      "toSide": "left"
+    }
+  ]
+}
