@@ -1,0 +1,272 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-09-18 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n⭐ NVIDIA/SkillSpector — Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them. (★157/day)\n\n[出典リンク](https://github.com/NVIDIA/SkillSpector)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/OpenAI|OpenAI]]\n- [[Entities/Anthropic|Anthropic]]\n- [[Entities/Microsoft|Microsoft]]\n- [[Entities/NVIDIA|NVIDIA]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/GPT|GPT]]\n- [[Technologies/agentic|agentic]]\n- [[Technologies/Kubernetes|Kubernetes]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_ai_research_f552626f",
+      "type": "text",
+      "x": 940,
+      "y": -450,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Harm Laundering in GPT Models: Evidence That Gender Discrimination Is Transformed Rather Than Reduced Across Safety-Trained Generations](https://arxiv.org/abs/2609.20779v1)**\n_Score: 20.73_"
+    },
+    {
+      "id": "art_ai_research_592177c0",
+      "type": "text",
+      "x": 940,
+      "y": -350,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Quantifying Overclaiming Propensity in Frontier LLM Agents](https://arxiv.org/abs/2609.20812v1)**\n_Score: 18.48_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_ai_dev_tools_1e3f0fde",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[⭐ NVIDIA/SkillSpector — Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them. (★157/day)](https://github.com/NVIDIA/SkillSpector)**\n_Score: 81.91_"
+    },
+    {
+      "id": "art_ai_dev_tools_e38608e4",
+      "type": "text",
+      "x": 940,
+      "y": -90,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[⭐ microsoft/agent-lightning — The absolute trainer to light up AI agents. (★70/day)](https://github.com/microsoft/agent-lightning)**\n_Score: 47.95_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **4件**"
+    },
+    {
+      "id": "art_business_0c6e816c",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Washington Wants To Win The AI Race—Is It Accelerating AI Safety?](https://www.forbes.com/sites/andreamorris/2026/09/18/washington-wants-to-win-the-ai-race-is-it-accelerating-ai-safety-too/)**\n_Score: 14.54_"
+    },
+    {
+      "id": "art_business_02746983",
+      "type": "text",
+      "x": 940,
+      "y": 170,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[AI Agents Outread Humans, VCs Fund The Knowledge Engineers Fixing Docs](https://www.forbes.com/sites/josipamajic/2026/09/18/ai-agents-outread-humans-vcs-fund-the-knowledge-engineers-fixing-docs/)**\n_Score: 13.72_"
+    },
+    {
+      "id": "art_business_4b7322e8",
+      "type": "text",
+      "x": 940,
+      "y": 270,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Amodei Wants To Pace The AI Frontier — But He’s Not Going Far Enough](https://www.forbes.com/sites/moorinsights/2026/09/18/amodei-wants-to-pace-the-ai-frontier---but-hes-not-going-far-enough/)**\n_Score: 13.17_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_95b1e8be",
+      "type": "text",
+      "x": 940,
+      "y": 330,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Is the Kennedy Center losing 'hundreds of millions of dollars'?](https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss)**\n_Score: 11.42_"
+    },
+    {
+      "id": "art_geopolitics_9b3121dd",
+      "type": "text",
+      "x": 940,
+      "y": 430,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Why US plan to sell F-35 warplanes to Saudi Arabia is controversial](https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss)**\n_Score: 11.08_"
+    },
+    {
+      "id": "art_geopolitics_70aa11e7",
+      "type": "text",
+      "x": 940,
+      "y": 530,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Is Canada about to join the EU?](https://www.bbc.co.uk/news/videos/c6wyz8kk2nepo?at_medium=RSS&at_campaign=rss)**\n_Score: 10.06_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_3be8a355",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_24bdb48c",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_6ef5ea73",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_f552626f",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_528991fe",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_592177c0",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_06f128b6",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_6920bc6a",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_1e3f0fde",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_1301ccd3",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_e38608e4",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_f812e413",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_8c5194bf",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_0c6e816c",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_96774502",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_02746983",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_06a196fd",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_4b7322e8",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_227ad43f",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_9636d8ce",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_95b1e8be",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_68f274b6",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_9b3121dd",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_67099485",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_70aa11e7",
+      "toSide": "left"
+    }
+  ]
+}
