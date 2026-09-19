@@ -1,0 +1,205 @@
+{
+  "run_id": "57aa99ee-7366-453a-b7d5-d89684143125",
+  "date": "2026-09-19",
+  "started_at": "2026-09-19T21:13:07.355Z",
+  "articles_ingested": 96,
+  "articles_scored": 22,
+  "articles_selected": 10,
+  "articles_by_purpose": {
+    "🛠️ 開発ツール・IDE統合": 2,
+    "💼 ビジネス動向": 3,
+    "🌍 政治・地政学": 3,
+    "🔬 AI・LLM 研究": 2
+  },
+  "llm_calls": [
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 3127,
+      "output_tokens": 267,
+      "latency_ms": 1521,
+      "estimated_cost_usd": 0.001182
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 400,
+      "output_tokens": 97,
+      "latency_ms": 794,
+      "estimated_cost_usd": 0.000246
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 954,
+      "output_tokens": 220,
+      "latency_ms": 1100,
+      "estimated_cost_usd": 0.000569
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 867,
+      "output_tokens": 252,
+      "latency_ms": 1186,
+      "estimated_cost_usd": 0.000595
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 843,
+      "output_tokens": 219,
+      "latency_ms": 1179,
+      "estimated_cost_usd": 0.000539
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 3115,
+      "output_tokens": 186,
+      "latency_ms": 1129,
+      "estimated_cost_usd": 0.001058
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2776,
+      "output_tokens": 229,
+      "latency_ms": 1313,
+      "estimated_cost_usd": 0.001038
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 1015,
+      "output_tokens": 262,
+      "latency_ms": 1243,
+      "estimated_cost_usd": 0.000647
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 380,
+      "output_tokens": 125,
+      "latency_ms": 843,
+      "estimated_cost_usd": 0.000283
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 413,
+      "output_tokens": 107,
+      "latency_ms": 848,
+      "estimated_cost_usd": 0.000264
+    },
+    {
+      "phase": "reduce",
+      "model": "gemini-3.8-flash",
+      "input_tokens": 2438,
+      "output_tokens": 2675,
+      "latency_ms": 10966,
+      "estimated_cost_usd": 0.01186
+    }
+  ],
+  "total_tokens": {
+    "input": 16328,
+    "output": 4639
+  },
+  "total_cost_usd": 0.018281000000000002,
+  "errors": [],
+  "sources_status": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "type": "rss",
+      "status": "empty",
+      "article_count": 0
+    },
+    {
+      "name": "Reuters Technology",
+      "type": "rss",
+      "status": "empty",
+      "article_count": 0
+    },
+    {
+      "name": "VentureBeat",
+      "type": "rss",
+      "status": "empty",
+      "article_count": 0
+    },
+    {
+      "name": "Forbes Tech",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 25
+    },
+    {
+      "name": "Ledge.ai (LEDGE)",
+      "type": "rss",
+      "status": "empty",
+      "article_count": 0
+    },
+    {
+      "name": "Newsweek World",
+      "type": "rss",
+      "status": "empty",
+      "article_count": 0
+    },
+    {
+      "name": "BBC News World",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 21
+    },
+    {
+      "name": "The Conversation Global",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 5
+    },
+    {
+      "name": "Raindrop Inbox (手動クリップ)",
+      "type": "raindrop",
+      "status": "empty",
+      "article_count": 0
+    },
+    {
+      "name": "X (旧Twitter) AI Trends via Grok",
+      "type": "xai_grok",
+      "status": "empty",
+      "article_count": 0
+    },
+    {
+      "name": "Hacker News Top Stories",
+      "type": "hackernews",
+      "status": "ok",
+      "article_count": 16
+    },
+    {
+      "name": "arXiv AI Papers",
+      "type": "arxiv",
+      "status": "ok",
+      "article_count": 15
+    },
+    {
+      "name": "GitHub Trending (Python)",
+      "type": "github_trending",
+      "status": "ok",
+      "article_count": 14
+    },
+    {
+      "name": "Reddit r/LocalLLaMA",
+      "type": "reddit",
+      "status": "empty",
+      "article_count": 0
+    },
+    {
+      "name": "Bluesky AI Trends",
+      "type": "bluesky",
+      "status": "empty",
+      "article_count": 0
+    }
+  ],
+  "quality_score": 100,
+  "finished_at": "2026-09-19T21:17:53.475Z",
+  "duration_ms": 286120
+}

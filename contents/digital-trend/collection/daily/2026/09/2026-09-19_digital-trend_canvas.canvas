@@ -1,0 +1,272 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-09-19 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n⭐ mem0ai/mem0 — The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production. (★75/day)\n\n[出典リンク](https://github.com/mem0ai/mem0)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/OpenAI|OpenAI]]\n- [[Entities/Google|Google]]\n- [[Entities/Anthropic|Anthropic]]\n- [[Entities/GitHub|GitHub]]\n- [[Entities/Vercel|Vercel]]\n- [[Entities/Cloudflare|Cloudflare]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/GPT|GPT]]\n- [[Technologies/RAG|RAG]]\n- [[Technologies/embedding|embedding]]\n- [[Technologies/Kubernetes|Kubernetes]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_ai_research_b18d907b",
+      "type": "text",
+      "x": 940,
+      "y": -450,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Harm Laundering in GPT Models: Evidence That Gender Discrimination Is Transformed Rather Than Reduced Across Safety-Trained Generations](https://arxiv.org/abs/2609.20779v1)**\n_Score: 12.87_"
+    },
+    {
+      "id": "art_ai_research_d14d23a8",
+      "type": "text",
+      "x": 940,
+      "y": -350,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Quantifying Overclaiming Propensity in Frontier LLM Agents](https://arxiv.org/abs/2609.20812v1)**\n_Score: 11.48_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_ai_dev_tools_2e7d3d31",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[⭐ mem0ai/mem0 — The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production. (★75/day)](https://github.com/mem0ai/mem0)**\n_Score: 62.96_"
+    },
+    {
+      "id": "art_ai_dev_tools_7ae6956a",
+      "type": "text",
+      "x": 940,
+      "y": -90,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[⭐ openai/openai-python — The official Python library for the OpenAI API (★12/day)](https://github.com/openai/openai-python)**\n_Score: 33.98_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_business_08f574a0",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Ex Reddit CEO Splits AI Risk In Two And Venture Capital Is Funding Both](https://www.forbes.com/sites/josipamajic/2026/09/19/ex-reddit-ceo-splits-ai-risk-in-two-and-venture-capital-is-funding-both/)**\n_Score: 29.63_"
+    },
+    {
+      "id": "art_business_706a21e9",
+      "type": "text",
+      "x": 940,
+      "y": 170,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[AI Can Cut Your Costs And Still Leave You Behind](https://www.forbes.com/sites/johnsviokla/2026/09/19/ai-can-cut-your-costs-and-still-leave-you-behind/)**\n_Score: 13.24_"
+    },
+    {
+      "id": "art_business_46b6a76e",
+      "type": "text",
+      "x": 940,
+      "y": 270,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Jev Cuts AI Decision Costs 100x And Vercel, Cloudflare Rushed To Add It](https://www.forbes.com/sites/josipamajic/2026/09/19/jev-cuts-ai-decision-costs-100x-and-vercel-cloudflare-rushed-to-add-it/)**\n_Score: 8.86_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_240c149b",
+      "type": "text",
+      "x": 940,
+      "y": 330,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Google's Gemini AI hacked three companies in security test](https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss)**\n_Score: 24.71_"
+    },
+    {
+      "id": "art_geopolitics_bd18efdf",
+      "type": "text",
+      "x": 940,
+      "y": 430,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Journalists denied White House access after Trump banned some media outlets](https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss)**\n_Score: 21.62_"
+    },
+    {
+      "id": "art_geopolitics_cdb1fc7a",
+      "type": "text",
+      "x": 940,
+      "y": 530,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Millions without power as Cuba hit by latest major blackout](https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss)**\n_Score: 15.72_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_f56d6f6a",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_35faa4c6",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_cbde99c8",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_b18d907b",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_264c01d2",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_d14d23a8",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_cacda188",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_c1e4006e",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_2e7d3d31",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_c4ea0716",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_7ae6956a",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_98d789c9",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_814ad292",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_08f574a0",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_084c9950",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_706a21e9",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_1c40ef8f",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_46b6a76e",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_fd1a2db5",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_5ca055da",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_240c149b",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_ea153551",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_bd18efdf",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_8527b550",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_cdb1fc7a",
+      "toSide": "left"
+    }
+  ]
+}
