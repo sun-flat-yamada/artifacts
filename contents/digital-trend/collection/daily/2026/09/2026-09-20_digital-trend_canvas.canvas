@@ -1,0 +1,221 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-09-20 デイリートレンド\n\n**🔥 本日の最重要ニュース**\nTrump says triumphal arch will be military complex with drones and snipers\n\n[出典リンク](https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/OpenAI|OpenAI]]\n- [[Entities/Google|Google]]\n- [[Entities/Anthropic|Anthropic]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/GPT|GPT]]\n- [[Technologies/RLHF|RLHF]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_ai_research_522c8132",
+      "type": "text",
+      "x": 940,
+      "y": -320,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Harm Laundering in GPT Models: Evidence That Gender Discrimination Is Transformed Rather Than Reduced Across Safety-Trained Generations](https://arxiv.org/abs/2609.20779v1)**\n_Score: 10.8_"
+    },
+    {
+      "id": "art_ai_research_00e1e0b0",
+      "type": "text",
+      "x": 940,
+      "y": -220,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Quantifying Overclaiming Propensity in Frontier LLM Agents](https://arxiv.org/abs/2609.20812v1)**\n_Score: 9.6_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 0,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_business_c222f879",
+      "type": "text",
+      "x": 940,
+      "y": -60,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[7 Ways AI Is Accelerating Cancer Cures—From A Doctor](https://www.forbes.com/sites/jessepines/2026/09/20/7-ways-ai-is-accelerating-cancer-cures-from-a-doctor/)**\n_Score: 12.12_"
+    },
+    {
+      "id": "art_business_91cdff66",
+      "type": "text",
+      "x": 940,
+      "y": 40,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[AI And The Ongoing Divisional Debate Between Mindfulness Versus Meditation](https://www.forbes.com/sites/lanceeliot/2026/09/20/ai-and-the-ongoing-divisional-debate-between-mindfulness-versus-meditation/)**\n_Score: 11.36_"
+    },
+    {
+      "id": "art_business_98e99255",
+      "type": "text",
+      "x": 940,
+      "y": 140,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Why The U.S. Needs The Gulf States’ AI Minerals Bet](https://www.forbes.com/sites/kensilverstein/2026/09/20/why-the-us-needs-the-gulf-states-ai-minerals-bet/)**\n_Score: 8.45_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_6e84bd4a",
+      "type": "text",
+      "x": 940,
+      "y": 200,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Trump says triumphal arch will be military complex with drones and snipers](https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss)**\n_Score: 20.39_"
+    },
+    {
+      "id": "art_geopolitics_dd74e62e",
+      "type": "text",
+      "x": 940,
+      "y": 300,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Trump says US will form 'AI Force' and appoint an artificial intelligence tsar](https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss)**\n_Score: 16.35_"
+    },
+    {
+      "id": "art_geopolitics_d2e6012d",
+      "type": "text",
+      "x": 940,
+      "y": 400,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'](https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss)**\n_Score: 15.89_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_0fdd7c09",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_faa9ad96",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_ca5dc97e",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_522c8132",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_422bea60",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_00e1e0b0",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_707f24f8",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_7bb4116d",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_c222f879",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_c8493317",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_91cdff66",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_fac6e2c1",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_98e99255",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_e0f419ae",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_0a68c01d",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_6e84bd4a",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_dd4c9d33",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_dd74e62e",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_4b212ea1",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_d2e6012d",
+      "toSide": "left"
+    }
+  ]
+}
