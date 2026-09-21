@@ -1,0 +1,153 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-09-21 デイリートレンド\n\n**🔥 本日の最重要ニュース**\nCould AI really kill all humans? Most scenarios require physical access, making AI armageddon unlikely\n\n[出典リンク](https://theconversation.com/could-ai-really-kill-all-humans-most-scenarios-require-physical-access-making-ai-armageddon-unlikely-292379)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/Google|Google]]\n- [[Entities/Anthropic|Anthropic]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/RAG|RAG]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_ai_research_03206fde",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[QuranicMMLU: A Cognitively-Aware Benchmark for Evaluating Generative AI Solutions on Quranic Linguistic Knowledge](https://arxiv.org/abs/2609.22038v1)**\n_Score: 12.6_"
+    },
+    {
+      "id": "art_ai_research_4686a690",
+      "type": "text",
+      "x": 940,
+      "y": -90,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[An Interpretable Memory Decision Controller for LLM Agents Based on Three-Signal Complementarity: Decoupling Confidence and Consistency](https://arxiv.org/abs/2609.22043v1)**\n_Score: 9.6_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_ee5c1296",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Could AI really kill all humans? Most scenarios require physical access, making AI armageddon unlikely](https://theconversation.com/could-ai-really-kill-all-humans-most-scenarios-require-physical-access-making-ai-armageddon-unlikely-292379)**\n_Score: 21.34_"
+    },
+    {
+      "id": "art_geopolitics_89dde1fa",
+      "type": "text",
+      "x": 940,
+      "y": 170,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen](https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&at_campaign=rss)**\n_Score: 20.75_"
+    },
+    {
+      "id": "art_geopolitics_7406e27a",
+      "type": "text",
+      "x": 940,
+      "y": 270,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Google hit with €403m fine by Irish data watchdog over GDPR violations](https://www.bbc.co.uk/news/articles/ck1e52v16ngxo?at_medium=RSS&at_campaign=rss)**\n_Score: 17.74_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_c7e30dfd",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_4658edef",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_91f44be0",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_03206fde",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_bef32027",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_4686a690",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_d75de316",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_c5b27639",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_ee5c1296",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_eef9148c",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_89dde1fa",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_26ffc525",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_7406e27a",
+      "toSide": "left"
+    }
+  ]
+}
