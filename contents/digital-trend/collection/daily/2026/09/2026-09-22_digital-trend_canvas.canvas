@@ -1,0 +1,272 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-09-22 デイリートレンド\n\n**🔥 本日の最重要ニュース**\nThis 25-Year-Old Raised Over $100 Million For His AI Data Startup At A $4 Billion Valuation\n\n[出典リンク](https://www.forbes.com/sites/annatong/2026/09/22/this-25-year-old-raised-over-100-million-for-his-ai-data-startup-at-a-4-billion-valuation/)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/OpenAI|OpenAI]]\n- [[Entities/Vercel|Vercel]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/GPT|GPT]]\n- [[Technologies/LoRA|LoRA]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_ai_research_52782595",
+      "type": "text",
+      "x": 940,
+      "y": -450,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Emergent Collusion in Long-Horizon LLM Agent Interaction](https://arxiv.org/abs/2609.24967v1)**\n_Score: 30.89_"
+    },
+    {
+      "id": "art_ai_research_a7f66bea",
+      "type": "text",
+      "x": 940,
+      "y": -350,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[LoRA-generating hypernetworks for efficient on-device LLM generative personalization](https://arxiv.org/abs/2609.24979v1)**\n_Score: 26.34_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_ai_dev_tools_8be633a1",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005 (HN: 500pts)](https://www.cryptocellar.org/bgac/the-mvueh-break.html)**\n_Score: 30.72_"
+    },
+    {
+      "id": "art_ai_dev_tools_0b1c3d4c",
+      "type": "text",
+      "x": 940,
+      "y": -90,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[OpenAI is well positioned to fast-follow Jev (HN: 231pts)](https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/)**\n_Score: 26.04_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **4件**"
+    },
+    {
+      "id": "art_business_37284f4b",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[This 25-Year-Old Raised Over $100 Million For His AI Data Startup At A $4 Billion Valuation](https://www.forbes.com/sites/annatong/2026/09/22/this-25-year-old-raised-over-100-million-for-his-ai-data-startup-at-a-4-billion-valuation/)**\n_Score: 42.04_"
+    },
+    {
+      "id": "art_business_1b7a451a",
+      "type": "text",
+      "x": 940,
+      "y": 170,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Investors Say There's One Facebook For Every Startup Failure. Is That True?](https://www.forbes.com/sites/dileeprao/2026/09/22/investors-say-theres-one-facebook-for-every-startup-failure-is-that-true/)**\n_Score: 17.05_"
+    },
+    {
+      "id": "art_business_b81c0b47",
+      "type": "text",
+      "x": 940,
+      "y": 270,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Breaking Through With AI: Real Healthcare Advances Today](https://www.forbes.com/sites/johnwerner/2026/09/22/breaking-through-with-ai-real-healthcare-advances-today/)**\n_Score: 12.92_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_ff1f8588",
+      "type": "text",
+      "x": 940,
+      "y": 330,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Three Ts will dominate Trump-Xi summit – but expect little movement on trade, less on Taiwan and who knows on tech](https://theconversation.com/three-ts-will-dominate-trump-xi-summit-but-expect-little-movement-on-trade-less-on-taiwan-and-who-knows-on-tech-291819)**\n_Score: 41.51_"
+    },
+    {
+      "id": "art_geopolitics_ec6ede2c",
+      "type": "text",
+      "x": 940,
+      "y": 430,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Ukraine anger as EU removes Russian oligarchs from sanctions list](https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss)**\n_Score: 26.06_"
+    },
+    {
+      "id": "art_geopolitics_1578a180",
+      "type": "text",
+      "x": 940,
+      "y": 530,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Trump tells UN he has 'big decision' on whether to 'annihilate' Iran or make peace deal](https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss)**\n_Score: 24.76_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_1b30205e",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_a3740eb7",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_f2714b48",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_52782595",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_a0fbe6c3",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_a7f66bea",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_fae4093e",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_9a1c762b",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_8be633a1",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_a6372fbc",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_0b1c3d4c",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_4479b378",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_a2346701",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_37284f4b",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_5204d34a",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_1b7a451a",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_d323e157",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_b81c0b47",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_b581a3e1",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_d9fccabf",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_ff1f8588",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_b0ffc1f8",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_ec6ede2c",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_0966c5d4",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_1578a180",
+      "toSide": "left"
+    }
+  ]
+}
