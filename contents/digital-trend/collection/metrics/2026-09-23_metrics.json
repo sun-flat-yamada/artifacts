@@ -1,0 +1,120 @@
+{
+  "run_id": "17c3c967-b97d-46e8-bcb9-75fc324f1f94",
+  "date": "2026-09-23",
+  "started_at": "2026-09-23T21:55:29.223Z",
+  "articles_ingested": 126,
+  "articles_scored": 31,
+  "articles_selected": 13,
+  "articles_by_purpose": {
+    "🛠️ 開発ツール・IDE統合": 4,
+    "🌍 政治・地政学": 3,
+    "🔬 AI・LLM 研究": 3,
+    "💼 ビジネス動向": 3
+  },
+  "llm_calls": [],
+  "total_tokens": {
+    "input": 0,
+    "output": 0
+  },
+  "total_cost_usd": 0,
+  "errors": [
+    "google/latest-flash-lite: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash-lite-tts:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 10, model: gemini-3.8-flash-lite-tts\nPlease retry in 51.757175475s. [{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"model\":\"gemini-3.8-flash-lite-tts\",\"location\":\"global\"},\"quotaValue\":\"10\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"51s\"}]",
+    "google/latest-flash: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent: [503 Service Unavailable] This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "google/latest-flash-lite: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash-lite-tts:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 10, model: gemini-3.8-flash-lite-tts\nPlease retry in 51.804606467s. [{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-3.8-flash-lite-tts\"},\"quotaValue\":\"10\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"51s\"}]"
+  ],
+  "sources_status": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "type": "rss",
+      "status": "empty",
+      "article_count": 0
+    },
+    {
+      "name": "Reuters Technology",
+      "type": "rss",
+      "status": "empty",
+      "article_count": 0
+    },
+    {
+      "name": "VentureBeat",
+      "type": "rss",
+      "status": "empty",
+      "article_count": 0
+    },
+    {
+      "name": "Forbes Tech",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 25
+    },
+    {
+      "name": "Ledge.ai (LEDGE)",
+      "type": "rss",
+      "status": "empty",
+      "article_count": 0
+    },
+    {
+      "name": "Newsweek World",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 20
+    },
+    {
+      "name": "BBC News World",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 22
+    },
+    {
+      "name": "The Conversation Global",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 13
+    },
+    {
+      "name": "Raindrop Inbox (手動クリップ)",
+      "type": "raindrop",
+      "status": "empty",
+      "article_count": 0
+    },
+    {
+      "name": "X (旧Twitter) AI Trends via Grok",
+      "type": "xai_grok",
+      "status": "empty",
+      "article_count": 0
+    },
+    {
+      "name": "Hacker News Top Stories",
+      "type": "hackernews",
+      "status": "ok",
+      "article_count": 19
+    },
+    {
+      "name": "arXiv AI Papers",
+      "type": "arxiv",
+      "status": "ok",
+      "article_count": 15
+    },
+    {
+      "name": "GitHub Trending (Python)",
+      "type": "github_trending",
+      "status": "ok",
+      "article_count": 12
+    },
+    {
+      "name": "Reddit r/LocalLLaMA",
+      "type": "reddit",
+      "status": "empty",
+      "article_count": 0
+    },
+    {
+      "name": "Bluesky AI Trends",
+      "type": "bluesky",
+      "status": "empty",
+      "article_count": 0
+    }
+  ],
+  "quality_score": 75.57142857142857,
+  "finished_at": "2026-09-23T22:08:08.215Z",
+  "duration_ms": 758992
+}

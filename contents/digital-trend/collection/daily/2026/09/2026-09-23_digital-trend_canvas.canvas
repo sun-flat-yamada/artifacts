@@ -1,0 +1,306 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-09-23 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n⭐ mukul975/Anthropic-Cybersecurity-Skills — 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0 (★98/day)\n\n[出典リンク](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/Anthropic|Anthropic]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/BERT|BERT]]\n- [[Technologies/diffusion|diffusion]]\n- [[Technologies/attention|attention]]\n- [[Technologies/TypeScript|TypeScript]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_ai_research_9c12cdb7",
+      "type": "text",
+      "x": 940,
+      "y": -450,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Diffusion-Induced Spatial Attention Overlapping Community Detection](https://arxiv.org/abs/2609.26737v1)**\n_Score: 25.42_"
+    },
+    {
+      "id": "art_ai_research_3b397641",
+      "type": "text",
+      "x": 940,
+      "y": -350,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Metrics Failure in LLM-Based Code Vulnerability Repair: An Empirical Study and a Change-Aware Screen](https://arxiv.org/abs/2609.26749v1)**\n_Score: 20.38_"
+    },
+    {
+      "id": "art_ai_research_144450ef",
+      "type": "text",
+      "x": 940,
+      "y": -250,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs](https://arxiv.org/abs/2609.26796v1)**\n_Score: 14.86_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **4件**"
+    },
+    {
+      "id": "art_ai_dev_tools_0dc01968",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[⭐ mukul975/Anthropic-Cybersecurity-Skills — 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0 (★98/day)](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)**\n_Score: 230.7_"
+    },
+    {
+      "id": "art_ai_dev_tools_8af55baa",
+      "type": "text",
+      "x": 940,
+      "y": -90,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[⭐ anthropics/financial-services — CLI tool for configuring and monitoring Claude Code (★665/day)](https://github.com/anthropics/financial-services)**\n_Score: 65.92_"
+    },
+    {
+      "id": "art_ai_dev_tools_d7fd47b7",
+      "type": "text",
+      "x": 940,
+      "y": 10,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[⭐ strands-agents/harness-sdk — Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python &amp; TypeScript - any model, any cloud. (★96/day)](https://github.com/strands-agents/harness-sdk)**\n_Score: 43.95_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_business_39660774",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Making A Useful AI Pilot: Business Tips And More](https://www.forbes.com/sites/johnwerner/2026/09/23/making-a-useful-ai-pilot-business-tips-and-more/)**\n_Score: 14.26_"
+    },
+    {
+      "id": "art_business_793bf23d",
+      "type": "text",
+      "x": 940,
+      "y": 170,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[From Steel To Physical AI, Pittsburgh Is Building Again](https://www.forbes.com/sites/robertszczerba/2026/09/23/from-steel-to-physical-ai-pittsburgh-is-building-again/)**\n_Score: 9.78_"
+    },
+    {
+      "id": "art_business_c6a08fb1",
+      "type": "text",
+      "x": 940,
+      "y": 270,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Technology Investments That Can Create Hidden Costs And Risks](https://www.forbes.com/councils/forbestechcouncil/2026/09/23/technology-investments-that-can-create-hidden-costs-and-risks/)**\n_Score: 5.46_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_2163274e",
+      "type": "text",
+      "x": 940,
+      "y": 330,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Azerbaijan pardons Frenchman after EU lifts sanctions on Russian billionaire](https://www.bbc.co.uk/news/articles/cwp84rrrymd0o?at_medium=RSS&at_campaign=rss)**\n_Score: 40.08_"
+    },
+    {
+      "id": "art_geopolitics_6303a3f4",
+      "type": "text",
+      "x": 940,
+      "y": 430,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Iran's president tells Trump it will never 'bend the knee'](https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss)**\n_Score: 23.21_"
+    },
+    {
+      "id": "art_geopolitics_162dcdb1",
+      "type": "text",
+      "x": 940,
+      "y": 530,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction](https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss)**\n_Score: 16.33_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_37980ca3",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_8251f029",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_94267ced",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_9c12cdb7",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_c9e09c0a",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_3b397641",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_64a6a14b",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_144450ef",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_73c72dd0",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_f4edf67a",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_0dc01968",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_39f7400d",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_8af55baa",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_3ed1e33e",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_d7fd47b7",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_8912b572",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_b6343486",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_39660774",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_a55c8f19",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_793bf23d",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_96eafe44",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_c6a08fb1",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_cd727ac6",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_b9a10e14",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_2163274e",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_510d6d6a",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_6303a3f4",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_36dd3f4c",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_162dcdb1",
+      "toSide": "left"
+    }
+  ]
+}
