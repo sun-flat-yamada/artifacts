@@ -1,0 +1,117 @@
+{
+  "run_id": "21d61a32-96ff-4b0e-8a9c-eaab82dc076e",
+  "date": "2026-09-24",
+  "started_at": "2026-09-24T21:54:57.546Z",
+  "articles_ingested": 117,
+  "articles_scored": 45,
+  "articles_selected": 10,
+  "articles_by_purpose": {
+    "🛠️ 開発ツール・IDE統合": 3,
+    "🌍 政治・地政学": 3,
+    "💼 ビジネス動向": 4
+  },
+  "llm_calls": [],
+  "total_tokens": {
+    "input": 0,
+    "output": 0
+  },
+  "total_cost_usd": 0,
+  "errors": [
+    "google/latest-flash: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent: [503 Service Unavailable] This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
+  ],
+  "sources_status": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "type": "rss",
+      "status": "empty",
+      "article_count": 0
+    },
+    {
+      "name": "Reuters Technology",
+      "type": "rss",
+      "status": "empty",
+      "article_count": 0
+    },
+    {
+      "name": "VentureBeat",
+      "type": "rss",
+      "status": "empty",
+      "article_count": 0
+    },
+    {
+      "name": "Forbes Tech",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 25
+    },
+    {
+      "name": "Ledge.ai (LEDGE)",
+      "type": "rss",
+      "status": "empty",
+      "article_count": 0
+    },
+    {
+      "name": "Newsweek World",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 20
+    },
+    {
+      "name": "BBC News World",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 33
+    },
+    {
+      "name": "The Conversation Global",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 13
+    },
+    {
+      "name": "Raindrop Inbox (手動クリップ)",
+      "type": "raindrop",
+      "status": "empty",
+      "article_count": 0
+    },
+    {
+      "name": "X (旧Twitter) AI Trends via Grok",
+      "type": "xai_grok",
+      "status": "empty",
+      "article_count": 0
+    },
+    {
+      "name": "Hacker News Top Stories",
+      "type": "hackernews",
+      "status": "ok",
+      "article_count": 8
+    },
+    {
+      "name": "arXiv AI Papers",
+      "type": "arxiv",
+      "status": "empty",
+      "article_count": 0
+    },
+    {
+      "name": "GitHub Trending (Python)",
+      "type": "github_trending",
+      "status": "ok",
+      "article_count": 18
+    },
+    {
+      "name": "Reddit r/LocalLLaMA",
+      "type": "reddit",
+      "status": "empty",
+      "article_count": 0
+    },
+    {
+      "name": "Bluesky AI Trends",
+      "type": "bluesky",
+      "status": "empty",
+      "article_count": 0
+    }
+  ],
+  "quality_score": 76.28571428571429,
+  "finished_at": "2026-09-24T22:02:27.385Z",
+  "duration_ms": 449839
+}

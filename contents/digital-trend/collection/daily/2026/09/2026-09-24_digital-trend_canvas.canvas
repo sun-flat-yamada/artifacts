@@ -1,0 +1,238 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-09-24 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n⭐ alirezarezvani/claude-skills — 380 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills. (★96/day)\n\n[出典リンク](https://github.com/alirezarezvani/claude-skills)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/OpenAI|OpenAI]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/BERT|BERT]]"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_ai_dev_tools_2acc6ff3",
+      "type": "text",
+      "x": 940,
+      "y": -320,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[⭐ alirezarezvani/claude-skills — 380 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills. (★96/day)](https://github.com/alirezarezvani/claude-skills)**\n_Score: 103.86_"
+    },
+    {
+      "id": "art_ai_dev_tools_f68315e9",
+      "type": "text",
+      "x": 940,
+      "y": -220,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[⭐ op7418/Humanizer-zh — Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。 (★290/day)](https://github.com/op7418/Humanizer-zh)**\n_Score: 35.95_"
+    },
+    {
+      "id": "art_ai_dev_tools_31e996b5",
+      "type": "text",
+      "x": 940,
+      "y": -120,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Early rogue AI agent activity and attempts to hack found on urlquery.net (HN: 223pts)](https://transluce.org/agent-activity)**\n_Score: 22.95_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 0,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **4件**"
+    },
+    {
+      "id": "art_business_a2ebf865",
+      "type": "text",
+      "x": 940,
+      "y": -60,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[QAD|Redzone Puts Federated Intelligence At Center Of Manufacturing AI](https://www.forbes.com/sites/robertkramer/2026/09/24/qadredzone-puts-federated-intelligence-at-center-of-manufacturing-ai/)**\n_Score: 13.08_"
+    },
+    {
+      "id": "art_business_10652753",
+      "type": "text",
+      "x": 940,
+      "y": 40,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[DHS Overestimated Revenue In H-1B Fee Immigration Rule By $6.1 Billion](https://www.forbes.com/sites/stuartanderson/2026/09/24/dhs-overestimated-revenue-in-h-1b-fee-immigration-rule-by-61-billion/)**\n_Score: 13_"
+    },
+    {
+      "id": "art_business_db3feac8",
+      "type": "text",
+      "x": 940,
+      "y": 140,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[AI Makes Traditional Business Controls Fashionable Again](https://www.forbes.com/sites/paulocarvao/2026/09/24/ai-makes-traditional-business-controls-fashionable-again/)**\n_Score: 9.22_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_75ca23c5",
+      "type": "text",
+      "x": 940,
+      "y": 200,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Why Australia chose the world's biggest political stage to reveal OpenAI hack](https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss)**\n_Score: 28.14_"
+    },
+    {
+      "id": "art_geopolitics_7322f723",
+      "type": "text",
+      "x": 940,
+      "y": 300,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Rogue OpenAI agent 'infiltrated' Australian government website in world first](https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss)**\n_Score: 26.01_"
+    },
+    {
+      "id": "art_geopolitics_01771fd6",
+      "type": "text",
+      "x": 940,
+      "y": 400,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Trump and Xi come face-to-face as US and China battle to win the AI race](https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss)**\n_Score: 21.28_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_fa4a6da6",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_9afca325",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_82753537",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_2acc6ff3",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_152b8fb2",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_f68315e9",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_76d71935",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_31e996b5",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_992ef18e",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_c2c40a8d",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_a2ebf865",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_67177504",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_10652753",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_44bac661",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_db3feac8",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_2ed298cf",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_51119e16",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_75ca23c5",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_aa00b92f",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_7322f723",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_ddbda45f",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_01771fd6",
+      "toSide": "left"
+    }
+  ]
+}
