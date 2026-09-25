@@ -1,0 +1,187 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-09-25 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n⭐ Alishahryar1/free-claude-code — Use Claude Code, Codex, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly) (★111/day)\n\n[出典リンク](https://github.com/Alishahryar1/free-claude-code)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/Anthropic|Anthropic]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_ai_dev_tools_00c796af",
+      "type": "text",
+      "x": 940,
+      "y": -320,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[⭐ Alishahryar1/free-claude-code — Use Claude Code, Codex, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly) (★111/day)](https://github.com/Alishahryar1/free-claude-code)**\n_Score: 120.83_"
+    },
+    {
+      "id": "art_ai_dev_tools_cd84b035",
+      "type": "text",
+      "x": 940,
+      "y": -220,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design (HN: 389pts)](https://github.com/devdotfast/whiteboard)**\n_Score: 16.92_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 0,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_business_61808a69",
+      "type": "text",
+      "x": 940,
+      "y": -60,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Untapped Healthcare Technology Value Hiding In Plain Sight](https://www.forbes.com/councils/forbestechcouncil/2026/09/25/untapped-healthcare-technology-value-hiding-in-plain-sight/)**\n_Score: 9.11_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_e399ec82",
+      "type": "text",
+      "x": 940,
+      "y": 200,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Trump and Xi face an AI security dilemma – but face-to-face diplomacy could be a start in mitigating it](https://theconversation.com/trump-and-xi-face-an-ai-security-dilemma-but-face-to-face-diplomacy-could-be-a-start-in-mitigating-it-292644)**\n_Score: 34.05_"
+    },
+    {
+      "id": "art_geopolitics_cf58e0bf",
+      "type": "text",
+      "x": 940,
+      "y": 300,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Man shot during 2024 Trump campaign rally in Butler dies](https://www.bbc.co.uk/news/articles/c5dj401d88l3o?at_medium=RSS&at_campaign=rss)**\n_Score: 22.33_"
+    },
+    {
+      "id": "art_geopolitics_80796e89",
+      "type": "text",
+      "x": 940,
+      "y": 400,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Supreme Court allows Trump to use controversial database to check voter citizenship](https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss)**\n_Score: 21.65_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_b0b6ff5f",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_901f052e",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_55f40051",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_00c796af",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_71e3de26",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_cd84b035",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_70ef9387",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_35e3ed9b",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_61808a69",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_4d6cdd9d",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_9b483e83",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_e399ec82",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_0e819300",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_cf58e0bf",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_03b324cd",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_80796e89",
+      "toSide": "left"
+    }
+  ]
+}
