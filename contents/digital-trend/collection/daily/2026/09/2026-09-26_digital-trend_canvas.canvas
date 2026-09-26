@@ -1,0 +1,136 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-09-26 デイリートレンド\n\n**🔥 本日の最重要ニュース**\nTrump rejects Iran deal to reopen Strait of Hormuz in seven days\n\n[出典リンク](https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/quantization|quantization]]"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_business_54bcb24f",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Corgi Is Now Worth $5 Billion Thanks To Four Funding Rounds In Five Months](https://www.forbes.com/sites/richardnieva/2026/09/26/corgi-5-billion-valuation/)**\n_Score: 15.97_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_dca61742",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Trump rejects Iran deal to reopen Strait of Hormuz in seven days](https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss)**\n_Score: 17.73_"
+    },
+    {
+      "id": "art_geopolitics_e5964a94",
+      "type": "text",
+      "x": 940,
+      "y": 170,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Republic of Ireland confirm rescheduled news conference before controversial Israel game](https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss)**\n_Score: 16.85_"
+    },
+    {
+      "id": "art_geopolitics_f0a09ac6",
+      "type": "text",
+      "x": 940,
+      "y": 270,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Security lapses at Utah campus where Charlie Kirk was killed, review says](https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss)**\n_Score: 16.45_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_c26f0d08",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_fe44d3c6",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_4f3f606c",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_54bcb24f",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_39455193",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_51187ed2",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_dca61742",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_ee7d3446",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_e5964a94",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_ae405f1c",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_f0a09ac6",
+      "toSide": "left"
+    }
+  ]
+}
