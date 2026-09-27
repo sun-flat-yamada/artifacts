@@ -1,0 +1,204 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-09-27 デイリートレンド\n\n**🔥 本日の最重要ニュース**\nThere are no \"rogue\" AI agents (HN: 303pts)\n\n[出典リンク](https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/OpenAI|OpenAI]]\n- [[Entities/Meta|Meta]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_ai_dev_tools_e6423d78",
+      "type": "text",
+      "x": 940,
+      "y": -320,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[There are no \"rogue\" AI agents (HN: 303pts)](https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents)**\n_Score: 35.84_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 0,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **4件**"
+    },
+    {
+      "id": "art_business_a7ec0960",
+      "type": "text",
+      "x": 940,
+      "y": -60,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Meta’s Muse AI Agent Tests Who Controls Digital Distribution](https://www.forbes.com/sites/maureenkerr/2026/09/27/metas-muse-ai-agent-tests-who-controls-digital-distribution/)**\n_Score: 12.88_"
+    },
+    {
+      "id": "art_business_63addad9",
+      "type": "text",
+      "x": 940,
+      "y": 40,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[AI Agent Spam Grows As OpenAI’s Agents And Others Overstep Boundaries](https://www.forbes.com/sites/sandycarter/2026/09/27/ai-agent-spam-grows-as-openais-agents-and-others-overstep-boundaries/)**\n_Score: 12.77_"
+    },
+    {
+      "id": "art_business_9093d3eb",
+      "type": "text",
+      "x": 940,
+      "y": 140,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[How AI Can Find Weaknesses In Corporate Crisis Management Plans](https://www.forbes.com/sites/edwardsegal/2026/09/27/how-ai-can-find-weaknesses-in-corporate-crisis-management-plans/)**\n_Score: 12.22_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_bd48f48c",
+      "type": "text",
+      "x": 940,
+      "y": 200,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Watch: BBC reports from the front-line of an escalating war in Yemen](https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss)**\n_Score: 28.67_"
+    },
+    {
+      "id": "art_geopolitics_199366f5",
+      "type": "text",
+      "x": 940,
+      "y": 300,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Venezuela releases dozens of political prisoners as election calls grow](https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss)**\n_Score: 23.73_"
+    },
+    {
+      "id": "art_geopolitics_7cbc273e",
+      "type": "text",
+      "x": 940,
+      "y": 400,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal](https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss)**\n_Score: 18.49_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_bb47b07b",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_aa164e63",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_9f8e54b8",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_e6423d78",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_802e0a6b",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_4f4ac347",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_a7ec0960",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_8ee1cded",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_63addad9",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_03cee44d",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_9093d3eb",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_b5b7c03a",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_d2ec5bb0",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_bd48f48c",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_68bd6ab0",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_199366f5",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_c4d34ada",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_7cbc273e",
+      "toSide": "left"
+    }
+  ]
+}
