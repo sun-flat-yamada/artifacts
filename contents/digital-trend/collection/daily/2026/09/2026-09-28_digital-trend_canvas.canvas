@@ -1,0 +1,272 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-09-28 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n⭐ topoteretes/cognee — Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small models for free (★103/day)\n\n[出典リンク](https://github.com/topoteretes/cognee)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/OpenAI|OpenAI]]\n- [[Entities/Apple|Apple]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/transformer|transformer]]\n- [[Technologies/LLM|LLM]]\n- [[Technologies/GPT|GPT]]\n- [[Technologies/RAG|RAG]]\n- [[Technologies/DPO|DPO]]\n- [[Technologies/Rust|Rust]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_ai_research_b6b366d2",
+      "type": "text",
+      "x": 940,
+      "y": -450,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Trust Guided Decision Transformer](https://arxiv.org/abs/2609.31586v1)**\n_Score: 14.4_"
+    },
+    {
+      "id": "art_ai_research_78d699cb",
+      "type": "text",
+      "x": 940,
+      "y": -350,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Compact Documentation for Coding Agents: A Benchmark, an Optimizer, and Why It Does Not Transfer](https://arxiv.org/abs/2609.31587v1)**\n_Score: 10.8_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_ai_dev_tools_a1a50355",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[⭐ topoteretes/cognee — Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small models for free (★103/day)](https://github.com/topoteretes/cognee)**\n_Score: 57.93_"
+    },
+    {
+      "id": "art_ai_dev_tools_3653f60a",
+      "type": "text",
+      "x": 940,
+      "y": -90,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[⭐ ashhart/TensorFold — Fast, exact LLM decoding on Apple Silicon (MLX) behind an OpenAI-compatible endpoint (★160/day)](https://github.com/ashhart/TensorFold)**\n_Score: 23.97_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **4件**"
+    },
+    {
+      "id": "art_business_b26588ce",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[What Would Turn Oil Shock, AI Bubble, El Niño Into A Financial Crisis?](https://www.forbes.com/sites/we-dont-have-time/2026/09/28/what-would-turn-oil-shock-ai-bouble-and-el-nio-into-a-financial-crisis/)**\n_Score: 13.82_"
+    },
+    {
+      "id": "art_business_f451a49f",
+      "type": "text",
+      "x": 940,
+      "y": 170,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Data Centers Need To Go Somewhere. AI-Powered Maps Show Where.](https://www.forbes.com/sites/esri/2026/09/28/data-centers-need-to-go-somewhere-ai-powered-maps-show-where/)**\n_Score: 12.57_"
+    },
+    {
+      "id": "art_business_862e3f8c",
+      "type": "text",
+      "x": 940,
+      "y": 270,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[What Could Pop The AI Bubble And Which Stocks Stand To Lose](https://www.forbes.com/sites/petercohan/2026/09/28/what-could-pop-the-ai-bubble-and-which-stocks-stand-to-lose/)**\n_Score: 9.8_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_00471437",
+      "type": "text",
+      "x": 940,
+      "y": 330,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[\n\t\t\t\tTrump Ally Moves to Curb OpenAI Development as President Blasts AI Backlash\n\t\t\t](https://www.newsweek.com/trump-ally-moves-halt-openai-growth-ai-backlash-12498761)**\n_Score: 24.26_"
+    },
+    {
+      "id": "art_geopolitics_26e258ad",
+      "type": "text",
+      "x": 940,
+      "y": 430,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[French PM warns against escalation of school protests after 164 arrested](https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&at_campaign=rss)**\n_Score: 22.9_"
+    },
+    {
+      "id": "art_geopolitics_6c97e462",
+      "type": "text",
+      "x": 940,
+      "y": 530,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Trump-Xi summit: What wasn't said might matter the most](https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss)**\n_Score: 21.38_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_99c7259e",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_7144180d",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_4395d3a3",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_b6b366d2",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_ead8ca94",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_78d699cb",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_1e95a0bb",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_9989bfc3",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_a1a50355",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_c6fc9d6d",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_3653f60a",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_5ee0e9c5",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_86ff07ff",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_b26588ce",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_af1957ec",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_f451a49f",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_b8d502e0",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_862e3f8c",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_66255c1c",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_7a0ffc92",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_00471437",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_74eb417e",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_26e258ad",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_9e9c3a41",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_6c97e462",
+      "toSide": "left"
+    }
+  ]
+}
