@@ -1,0 +1,221 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-09-29 デイリートレンド\n\n**🔥 本日の最重要ニュース**\nTrump rules out joint US-China venture to develop AI\n\n[出典リンク](https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/diffusion|diffusion]]\n- [[Technologies/RAG|RAG]]\n- [[Technologies/RLHF|RLHF]]\n- [[Technologies/MoE|MoE]]\n- [[Technologies/distillation|distillation]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_ai_research_1191a34c",
+      "type": "text",
+      "x": 940,
+      "y": -320,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[TokenCast: Forecasting Token Consumption During LLM Agent Execution](https://arxiv.org/abs/2609.35760v1)**\n_Score: 22.4_"
+    },
+    {
+      "id": "art_ai_research_355a0a9a",
+      "type": "text",
+      "x": 940,
+      "y": -220,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[PDMD: Projected Distribution Matching Distillation for Video Diffusion Models](https://arxiv.org/abs/2609.35768v1)**\n_Score: 14.57_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 0,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **4件**"
+    },
+    {
+      "id": "art_business_0f2b0f41",
+      "type": "text",
+      "x": 940,
+      "y": -60,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Lego Debuts Dragon Ball Partnership With Gorgeous Shenron And Goku Set](https://www.forbes.com/sites/mattgardner1/2026/09/29/lego-debuts-dragon-ball-partnership-with-gorgeous-shenron-and-goku-set/)**\n_Score: 14.24_"
+    },
+    {
+      "id": "art_business_18905221",
+      "type": "text",
+      "x": 940,
+      "y": 40,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Can The Private Cloud Help Control AI Spending? HPE Thinks So](https://www.forbes.com/sites/timkeary/2026/09/29/can-the-private-cloud-help-control-ai-spending-hpe-thinks-so/)**\n_Score: 13.42_"
+    },
+    {
+      "id": "art_business_e4b55b43",
+      "type": "text",
+      "x": 940,
+      "y": 140,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[How To Govern Employee-Built AI And Low-Code Tools](https://www.forbes.com/councils/forbestechcouncil/2026/09/29/how-to-govern-employee-built-ai-and-low-code-tools/)**\n_Score: 13.4_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_868340ee",
+      "type": "text",
+      "x": 940,
+      "y": 200,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Trump rules out joint US-China venture to develop AI](https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss)**\n_Score: 26.94_"
+    },
+    {
+      "id": "art_geopolitics_b2963ce2",
+      "type": "text",
+      "x": 940,
+      "y": 300,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**['I was lured into a trap': Evan Gershkovich on moment that led to 16 months in Russian jail](https://www.bbc.co.uk/news/articles/ck9qr8jy8ynyo?at_medium=RSS&at_campaign=rss)**\n_Score: 19.97_"
+    },
+    {
+      "id": "art_geopolitics_83f24745",
+      "type": "text",
+      "x": 940,
+      "y": 400,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Spain announces ban on evictions after protests over 87-year-old woman's removal from flat](https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss)**\n_Score: 18.42_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_c815892c",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_8126c2ce",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_c452ad53",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_1191a34c",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_37c7237f",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_355a0a9a",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_235e157f",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_454cf389",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_0f2b0f41",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_87d50c28",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_18905221",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_2fe5d613",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_e4b55b43",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_e50faabe",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_f64ed042",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_868340ee",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_3acc1135",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_b2963ce2",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_944624fa",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_83f24745",
+      "toSide": "left"
+    }
+  ]
+}
