@@ -1,0 +1,272 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-09-30 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n⭐ aws/agent-toolkit-for-aws — Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS (★10/day)\n\n[出典リンク](https://github.com/aws/agent-toolkit-for-aws)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/Anthropic|Anthropic]]\n- [[Entities/Amazon|Amazon]]\n- [[Entities/AWS|AWS]]\n- [[Entities/xAI|xAI]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/diffusion|diffusion]]\n- [[Technologies/RAG|RAG]]\n- [[Technologies/MoE|MoE]]\n- [[Technologies/agentic|agentic]]\n- [[Technologies/function calling|function calling]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_ai_research_01d5640a",
+      "type": "text",
+      "x": 940,
+      "y": -450,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[A Spectral Theory of Distortion in LLM Graph Reconstruction: Sharp Bounds and Empirical Characterization](https://arxiv.org/abs/2609.38161v1)**\n_Score: 26.9_"
+    },
+    {
+      "id": "art_ai_research_19297e11",
+      "type": "text",
+      "x": 940,
+      "y": -350,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Breaking the Uniformity Trap: Scaling Video Diffusion Model via SplitMoE](https://arxiv.org/abs/2609.38140v1)**\n_Score: 23.51_"
+    },
+    {
+      "id": "art_ai_research_7c759385",
+      "type": "text",
+      "x": 940,
+      "y": -250,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering](https://arxiv.org/abs/2609.38177v1)**\n_Score: 17.94_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_ai_dev_tools_9e688a08",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[⭐ aws/agent-toolkit-for-aws — Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS (★10/day)](https://github.com/aws/agent-toolkit-for-aws)**\n_Score: 92.66_"
+    },
+    {
+      "id": "art_ai_dev_tools_715e3740",
+      "type": "text",
+      "x": 940,
+      "y": -90,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[⭐ ifixai-ai/iFixAi — Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds. (★250/day)](https://github.com/ifixai-ai/iFixAi)**\n_Score: 67.76_"
+    },
+    {
+      "id": "art_ai_dev_tools_b887ca71",
+      "type": "text",
+      "x": 940,
+      "y": 10,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[⭐ github/spec-kit — 💫 Toolkit to help you get started with SDD or any other process! (★170/day)](https://github.com/github/spec-kit)**\n_Score: 53.8_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_business_b418962c",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Establishing Secure And Sovereign Supply Chains For Physical AI](https://www.forbes.com/sites/sabbirrangwala/2026/09/30/establishing-secure--sovereign-supply-chains-for-physical-ai/)**\n_Score: 8.78_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_f73b79e8",
+      "type": "text",
+      "x": 940,
+      "y": 330,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Three takeaways from Trump's 'Super Intelligence' summit](https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss)**\n_Score: 25.7_"
+    },
+    {
+      "id": "art_geopolitics_78e66589",
+      "type": "text",
+      "x": 940,
+      "y": 430,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Chinese AI tool told researchers how to make bioweapons](https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss)**\n_Score: 14.33_"
+    },
+    {
+      "id": "art_geopolitics_22ac0100",
+      "type": "text",
+      "x": 940,
+      "y": 530,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[What we know about stabbing on Flydubai flight to Israel](https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss)**\n_Score: 13.64_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_d1ca691a",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_0da914c8",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_7b2db775",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_01d5640a",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_85872703",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_19297e11",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_41054b50",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_7c759385",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_e1b4228c",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_20b89a9f",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_9e688a08",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_ab2ce709",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_715e3740",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_55b6359a",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_b887ca71",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_d4523cf8",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_f611b1f3",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_b418962c",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_5304f223",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_dcfc33ee",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_f73b79e8",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_32ce4839",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_78e66589",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_969e65ec",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_22ac0100",
+      "toSide": "left"
+    }
+  ]
+}
