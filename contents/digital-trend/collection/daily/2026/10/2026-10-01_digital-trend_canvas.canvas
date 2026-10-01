@@ -1,0 +1,136 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-10-01 デイリートレンド\n\n**🔥 本日の最重要ニュース**\nLooped Diffusion Transformer\n\n[出典リンク](https://arxiv.org/abs/2609.40305v1)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### ⚙️ 注目技術\n- [[Technologies/transformer|transformer]]\n- [[Technologies/LLM|LLM]]\n- [[Technologies/diffusion|diffusion]]\n- [[Technologies/attention|attention]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_ai_research_5e48b8cc",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Looped Diffusion Transformer](https://arxiv.org/abs/2609.40305v1)**\n_Score: 34.54_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_f417f86c",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names](https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss)**\n_Score: 21.47_"
+    },
+    {
+      "id": "art_geopolitics_4eb31af1",
+      "type": "text",
+      "x": 940,
+      "y": 170,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[China has cracked down on AI relationships. Is it ahead of the game?](https://www.bbc.co.uk/news/articles/cm4gjy9lr551o?at_medium=RSS&at_campaign=rss)**\n_Score: 20.28_"
+    },
+    {
+      "id": "art_geopolitics_e203821e",
+      "type": "text",
+      "x": 940,
+      "y": 270,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Putin warns West that Russia is ready to use every weapon to protect Kaliningrad](https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss)**\n_Score: 19.6_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_b4e7d1c4",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_d4e2da0a",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_525c419c",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_5e48b8cc",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_338be1a2",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_44f7f3b1",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_f417f86c",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_0f91190e",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_4eb31af1",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_40c71b48",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_e203821e",
+      "toSide": "left"
+    }
+  ]
+}
