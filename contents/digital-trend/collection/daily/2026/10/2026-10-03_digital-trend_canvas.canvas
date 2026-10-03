@@ -1,0 +1,204 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-10-03 デイリートレンド\n\n**🔥 本日の最重要ニュース**\nTACO: 単一GPUでの30B級LLMフルファインチューニングを実現する超軽量オプティマイザの登場\n\n[出典リンク](https://arxiv.org/abs/2610.02199v1)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/NVIDIA|NVIDIA]]\n\n### ⚙️ 注目技術\n- [[Technologies/fine-tuning|fine-tuning]]\n- [[Technologies/LLM|LLM]]\n- [[Technologies/diffusion|diffusion]]\n- [[Technologies/LoRA|LoRA]]\n- [[Technologies/PEFT|PEFT]]\n- [[Technologies/tool use|tool use]]\n- [[Technologies/Rust|Rust]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **5件**"
+    },
+    {
+      "id": "art_ai_research_07c9ec2d",
+      "type": "text",
+      "x": 940,
+      "y": -320,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[TACO: Ternary Absolute-max Column-wise One-sparse Optimizer for LLM Fine-Tuning](https://arxiv.org/abs/2610.02199v1)**\n_Score: 21.99_"
+    },
+    {
+      "id": "art_ai_research_d6f67709",
+      "type": "text",
+      "x": 940,
+      "y": -220,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Trust the Direction, Search the Step: Zero-and-First-Order Methods for LLM Fine-Tuning](https://arxiv.org/abs/2610.02190v1)**\n_Score: 21.99_"
+    },
+    {
+      "id": "art_ai_research_91d9ce27",
+      "type": "text",
+      "x": 940,
+      "y": -120,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards](https://arxiv.org/abs/2610.02206v1)**\n_Score: 15.61_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 0,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_business_52c185a6",
+      "type": "text",
+      "x": 940,
+      "y": -60,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Smartphones, Social Media, And AI Are Chemically Altering Our Brains](https://www.forbes.com/sites/chuckbrooks/2026/10/03/smartphones-social-media-and-ai-are-chemically-altering-our-brains/)**\n_Score: 13.4_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_652bb516",
+      "type": "text",
+      "x": 940,
+      "y": 200,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[G7 to release millions of barrels of oil and diesel after Trump threat](https://www.bbc.co.uk/news/articles/ck87zg8jnwngo)**\n_Score: 17.36_"
+    },
+    {
+      "id": "art_geopolitics_c4f14856",
+      "type": "text",
+      "x": 940,
+      "y": 300,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Medical plane with 6 on board missing off Massachusetts coast](https://www.bbc.co.uk/news/articles/cme3x85013llo)**\n_Score: 16.31_"
+    },
+    {
+      "id": "art_geopolitics_cfcd8a3a",
+      "type": "text",
+      "x": 940,
+      "y": 400,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Hawaii's iconic 550-year-old Hōlei Sea Arch collapses ](https://www.bbc.co.uk/news/articles/crd6dy4xepgyo)**\n_Score: 15.51_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_3924640f",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_20110b80",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_b015bcca",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_07c9ec2d",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_4afee4af",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_d6f67709",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_32813142",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_91d9ce27",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_53c0de8e",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_7a3299c4",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_52c185a6",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_f676aadf",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_a17f6b6b",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_652bb516",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_a0e35ba4",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_c4f14856",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_51ed3c7c",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_cfcd8a3a",
+      "toSide": "left"
+    }
+  ]
+}
