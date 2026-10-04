@@ -1,0 +1,118 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-10-04 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n[エチオピア・ティグレ州の首都からの反乱軍撤退と治安情勢の緊迫化](https://www.bbc.co.uk/news/articles/cqm249v07j4xo)\n\n[出典リンク](https://www.bbc.co.uk/news/articles/cqm249v07j4xo)"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_business_da8dbeba",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[AI Makers Make Pinky-Promise Pledge To Trump Over AI Safety, But Will It Truly Save Us From Human Extinction?](https://www.forbes.com/sites/lanceeliot/2026/10/03/ai-makers-make-pinky-promise-pledge-over-ai-safety-but-will-it-truly-save-us-from-human-extinction/)**\n_Score: 9.75_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_716c4749",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Ethiopian rebel forces withdraw from Tigray regional capital](https://www.bbc.co.uk/news/articles/cqm249v07j4xo)**\n_Score: 13.93_"
+    },
+    {
+      "id": "art_geopolitics_9edba2f9",
+      "type": "text",
+      "x": 940,
+      "y": 170,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Yemen's government announces all-out war to reclaim land from Houthis](https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o)**\n_Score: 12.18_"
+    },
+    {
+      "id": "art_geopolitics_f8e42fc6",
+      "type": "text",
+      "x": 940,
+      "y": 270,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Australia investigating Flydubai co-pilot's links to country](https://www.bbc.co.uk/news/articles/cxly4nym57q9o)**\n_Score: 12.06_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_cat_6f81acec",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_0c59793b",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_da8dbeba",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_88874f51",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_64af57d9",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_716c4749",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_2755f714",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_9edba2f9",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_e05ac356",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_f8e42fc6",
+      "toSide": "left"
+    }
+  ]
+}
