@@ -1,0 +1,255 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-10-06 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n実践的Agentic RAGの本番運用アーキテクチャがオープン化：OSSスタックによる自律型ワークフロー構築への転換点\n\n[出典リンク](https://github.com/jamwithai/production-agentic-rag-course)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/Anthropic|Anthropic]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/RAG|RAG]]\n- [[Technologies/attention|attention]]\n- [[Technologies/agentic|agentic]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_ai_research_008b290d",
+      "type": "text",
+      "x": 940,
+      "y": -450,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[FrugalEvo: Towards Cost-Aware LLM-Guided Program Evolution](https://arxiv.org/abs/2610.03675v1)**\n_Score: 9.6_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_ai_dev_tools_fd8b9490",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[⭐ jamwithai/production-agentic-rag-course — Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly) (★80/day)](https://github.com/jamwithai/production-agentic-rag-course)**\n_Score: 54_"
+    },
+    {
+      "id": "art_ai_dev_tools_880bea4f",
+      "type": "text",
+      "x": 940,
+      "y": -90,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Anthropic reported diary entry to police, woman faces felony charge (HN: 499pts)](https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html)**\n_Score: 26.13_"
+    },
+    {
+      "id": "art_ai_dev_tools_bc56a06f",
+      "type": "text",
+      "x": 940,
+      "y": 10,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[⭐ VictorTaelin/OptMem — Permanent memory for AI agents. A 426-token prompt, a script, plug and play. (★85/day)](https://github.com/VictorTaelin/OptMem)**\n_Score: 24_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_business_80a74184",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Wary Investors Lukewarm To BMW Revival Plan; Could AI Surprise?](https://www.forbes.com/sites/neilwinton/2026/10/05/wary-investors-lukewarm-to-bmw-revival-plan-could-ai-surprise/)**\n_Score: 18.22_"
+    },
+    {
+      "id": "art_business_57038247",
+      "type": "text",
+      "x": 940,
+      "y": 170,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Venture Investments In Deep-Tech And Physical AI – Seed To Exit](https://www.forbes.com/sites/sabbirrangwala/2026/10/05/venture-investments-in-deep-tech-and-physical-ai--seed-to-exit/)**\n_Score: 9.78_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_2160684d",
+      "type": "text",
+      "x": 940,
+      "y": 330,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[How India became dangerously addicted to Chinese imports](https://www.bbc.co.uk/news/articles/c5pve834grpno)**\n_Score: 18.11_"
+    },
+    {
+      "id": "art_geopolitics_fc3e0e56",
+      "type": "text",
+      "x": 940,
+      "y": 430,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Three years after October 7, global attention on Gaza has receded. The real test will come after Israel’s election](https://theconversation.com/three-years-after-october-7-global-attention-on-gaza-has-receded-the-real-test-will-come-after-israels-election-292360)**\n_Score: 13.49_"
+    },
+    {
+      "id": "art_geopolitics_7c04babb",
+      "type": "text",
+      "x": 940,
+      "y": 530,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say](https://www.bbc.co.uk/news/articles/cm3691y79xp5o)**\n_Score: 12.78_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_83f1a258",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_2f54ae27",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_3caabb8f",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_008b290d",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_689f0f54",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_8d2304f3",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_fd8b9490",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_99c8d3aa",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_880bea4f",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_3651c0bc",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_bc56a06f",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_d3236986",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_20e0be16",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_80a74184",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_0c539fb0",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_57038247",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_259357d4",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_8461d9ba",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_2160684d",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_84bef9cd",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_fc3e0e56",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_87f25a41",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_7c04babb",
+      "toSide": "left"
+    }
+  ]
+}
