@@ -8,7 +8,7 @@
       "width": 440,
       "height": 220,
       "color": "1",
-      "text": "# 📅 2026-10-06 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n実践的Agentic RAGの本番運用アーキテクチャがオープン化：OSSスタックによる自律型ワークフロー構築への転換点\n\n[出典リンク](https://github.com/jamwithai/production-agentic-rag-course)"
+      "text": "# 📅 2026-10-06 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) — 複数AIエージェントのハーネスを統合するオープンソースメタフレームワーク\n\n[出典リンク](https://github.com/omnigent-ai/omnigent)"
     },
     {
       "id": "entities_summary",
@@ -18,7 +18,7 @@
       "width": 380,
       "height": 320,
       "color": "3",
-      "text": "### 🏢 注目企業\n- [[Entities/Anthropic|Anthropic]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/RAG|RAG]]\n- [[Technologies/attention|attention]]\n- [[Technologies/agentic|agentic]]"
+      "text": "### 🏢 注目企業\n- [[Entities/OpenAI|OpenAI]]\n- [[Entities/Anthropic|Anthropic]]\n- [[Entities/Apple|Apple]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/transformer|transformer]]\n- [[Technologies/LLM|LLM]]\n- [[Technologies/GPT|GPT]]\n- [[Technologies/diffusion|diffusion]]"
     },
     {
       "id": "purpose_ai_research",
@@ -28,17 +28,37 @@
       "width": 320,
       "height": 180,
       "color": "4",
-      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **1件**"
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **3件**"
     },
     {
-      "id": "art_ai_research_008b290d",
+      "id": "art_ai_research_ba23364c",
       "type": "text",
       "x": 940,
       "y": -450,
       "width": 380,
       "height": 85,
       "color": "6",
-      "text": "**[FrugalEvo: Towards Cost-Aware LLM-Guided Program Evolution](https://arxiv.org/abs/2610.03675v1)**\n_Score: 9.6_"
+      "text": "**[Learning to Read the Contextual Tokens in Diffusion Transformers](https://arxiv.org/abs/2610.06844v1)**\n_Score: 19.1_"
+    },
+    {
+      "id": "art_ai_research_0fb808d9",
+      "type": "text",
+      "x": 940,
+      "y": -350,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Direct Intermediate Initialization for Tilted Diffusion Samplers](https://arxiv.org/abs/2610.06834v1)**\n_Score: 17.97_"
+    },
+    {
+      "id": "art_ai_research_33595fcc",
+      "type": "text",
+      "x": 940,
+      "y": -250,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents](https://arxiv.org/abs/2610.06830v1)**\n_Score: 17.97_"
     },
     {
       "id": "purpose_ai_dev_tools",
@@ -51,34 +71,34 @@
       "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **3件**"
     },
     {
-      "id": "art_ai_dev_tools_fd8b9490",
+      "id": "art_ai_dev_tools_1ce3fc7f",
       "type": "text",
       "x": 940,
       "y": -190,
       "width": 380,
       "height": 85,
       "color": "6",
-      "text": "**[⭐ jamwithai/production-agentic-rag-course — Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly) (★80/day)](https://github.com/jamwithai/production-agentic-rag-course)**\n_Score: 54_"
+      "text": "**[⭐ omnigent-ai/omnigent — Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device. (★50/day)](https://github.com/omnigent-ai/omnigent)**\n_Score: 102_"
     },
     {
-      "id": "art_ai_dev_tools_880bea4f",
+      "id": "art_ai_dev_tools_93de4383",
       "type": "text",
       "x": 940,
       "y": -90,
       "width": 380,
       "height": 85,
       "color": "6",
-      "text": "**[Anthropic reported diary entry to police, woman faces felony charge (HN: 499pts)](https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html)**\n_Score: 26.13_"
+      "text": "**[⭐ raullenchai/Rapid-MLX — Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server for Apple Silicon, built on MLX, focused on reliable tool calling for coding agents. Up to 4× faster than Apple's MLX (mlx-lm) on the same weights. (★16/day)](https://github.com/raullenchai/Rapid-MLX)**\n_Score: 48_"
     },
     {
-      "id": "art_ai_dev_tools_bc56a06f",
+      "id": "art_ai_dev_tools_0769b325",
       "type": "text",
       "x": 940,
       "y": 10,
       "width": 380,
       "height": 85,
       "color": "6",
-      "text": "**[⭐ VictorTaelin/OptMem — Permanent memory for AI agents. A 426-token prompt, a script, plug and play. (★85/day)](https://github.com/VictorTaelin/OptMem)**\n_Score: 24_"
+      "text": "**[⭐ 0x4m4/hexstrike-ai — HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities. (★59/day)](https://github.com/0x4m4/hexstrike-ai)**\n_Score: 42_"
     },
     {
       "id": "purpose_business",
@@ -88,27 +108,17 @@
       "width": 320,
       "height": 180,
       "color": "4",
-      "text": "## 💼 ビジネス動向\n\n収集件数: **2件**"
+      "text": "## 💼 ビジネス動向\n\n収集件数: **1件**"
     },
     {
-      "id": "art_business_80a74184",
+      "id": "art_business_5dfb9692",
       "type": "text",
       "x": 940,
       "y": 70,
       "width": 380,
       "height": 85,
       "color": "6",
-      "text": "**[Wary Investors Lukewarm To BMW Revival Plan; Could AI Surprise?](https://www.forbes.com/sites/neilwinton/2026/10/05/wary-investors-lukewarm-to-bmw-revival-plan-could-ai-surprise/)**\n_Score: 18.22_"
-    },
-    {
-      "id": "art_business_57038247",
-      "type": "text",
-      "x": 940,
-      "y": 170,
-      "width": 380,
-      "height": 85,
-      "color": "6",
-      "text": "**[Venture Investments In Deep-Tech And Physical AI – Seed To Exit](https://www.forbes.com/sites/sabbirrangwala/2026/10/05/venture-investments-in-deep-tech-and-physical-ai--seed-to-exit/)**\n_Score: 9.78_"
+      "text": "**[5 Tips To Get Your Small Business Recommended By AI In Q4](https://www.forbes.com/sites/terdawn-deboe/2026/10/06/5-tips-to-get-your-small-business-recommended-by-ai-in-q4/)**\n_Score: 12.68_"
     },
     {
       "id": "purpose_geopolitics",
@@ -121,39 +131,39 @@
       "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
     },
     {
-      "id": "art_geopolitics_2160684d",
+      "id": "art_geopolitics_2f6f0c93",
       "type": "text",
       "x": 940,
       "y": 330,
       "width": 380,
       "height": 85,
       "color": "6",
-      "text": "**[How India became dangerously addicted to Chinese imports](https://www.bbc.co.uk/news/articles/c5pve834grpno)**\n_Score: 18.11_"
+      "text": "**[Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo](https://www.bbc.co.uk/news/articles/ck054zm1701qo)**\n_Score: 16.16_"
     },
     {
-      "id": "art_geopolitics_fc3e0e56",
+      "id": "art_geopolitics_6122b075",
       "type": "text",
       "x": 940,
       "y": 430,
       "width": 380,
       "height": 85,
       "color": "6",
-      "text": "**[Three years after October 7, global attention on Gaza has receded. The real test will come after Israel’s election](https://theconversation.com/three-years-after-october-7-global-attention-on-gaza-has-receded-the-real-test-will-come-after-israels-election-292360)**\n_Score: 13.49_"
+      "text": "**[How geopolitical tensions tainted the 2026 Asian Games](https://theconversation.com/how-geopolitical-tensions-tainted-the-2026-asian-games-293279)**\n_Score: 15.52_"
     },
     {
-      "id": "art_geopolitics_7c04babb",
+      "id": "art_geopolitics_72234a7d",
       "type": "text",
       "x": 940,
       "y": 530,
       "width": 380,
       "height": 85,
       "color": "6",
-      "text": "**[Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say](https://www.bbc.co.uk/news/articles/cm3691y79xp5o)**\n_Score: 12.78_"
+      "text": "**[OpenAI admits response to Australian government hacks 'not good enough'](https://www.bbc.co.uk/news/articles/cmx2qne2j88wo)**\n_Score: 11.99_"
     }
   ],
   "edges": [
     {
-      "id": "edge_ent_83f1a258",
+      "id": "edge_ent_8cf989d6",
       "fromNode": "entities_summary",
       "fromSide": "right",
       "toNode": "root_daily",
@@ -161,94 +171,101 @@
       "label": "関連エンティティ"
     },
     {
-      "id": "edge_cat_2f54ae27",
+      "id": "edge_cat_dd88dc0d",
       "fromNode": "root_daily",
       "fromSide": "right",
       "toNode": "purpose_ai_research",
       "toSide": "left"
     },
     {
-      "id": "edge_art_3caabb8f",
+      "id": "edge_art_2c2b4453",
       "fromNode": "purpose_ai_research",
       "fromSide": "right",
-      "toNode": "art_ai_research_008b290d",
+      "toNode": "art_ai_research_ba23364c",
       "toSide": "left"
     },
     {
-      "id": "edge_cat_689f0f54",
+      "id": "edge_art_d538d26d",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_0fb808d9",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_5f4426f7",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_33595fcc",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_a5e6f788",
       "fromNode": "root_daily",
       "fromSide": "right",
       "toNode": "purpose_ai_dev_tools",
       "toSide": "left"
     },
     {
-      "id": "edge_art_8d2304f3",
+      "id": "edge_art_e77dcf3b",
       "fromNode": "purpose_ai_dev_tools",
       "fromSide": "right",
-      "toNode": "art_ai_dev_tools_fd8b9490",
+      "toNode": "art_ai_dev_tools_1ce3fc7f",
       "toSide": "left"
     },
     {
-      "id": "edge_art_99c8d3aa",
+      "id": "edge_art_f89553e9",
       "fromNode": "purpose_ai_dev_tools",
       "fromSide": "right",
-      "toNode": "art_ai_dev_tools_880bea4f",
+      "toNode": "art_ai_dev_tools_93de4383",
       "toSide": "left"
     },
     {
-      "id": "edge_art_3651c0bc",
+      "id": "edge_art_038c1f2f",
       "fromNode": "purpose_ai_dev_tools",
       "fromSide": "right",
-      "toNode": "art_ai_dev_tools_bc56a06f",
+      "toNode": "art_ai_dev_tools_0769b325",
       "toSide": "left"
     },
     {
-      "id": "edge_cat_d3236986",
+      "id": "edge_cat_0f1530fc",
       "fromNode": "root_daily",
       "fromSide": "right",
       "toNode": "purpose_business",
       "toSide": "left"
     },
     {
-      "id": "edge_art_20e0be16",
+      "id": "edge_art_421b68d2",
       "fromNode": "purpose_business",
       "fromSide": "right",
-      "toNode": "art_business_80a74184",
+      "toNode": "art_business_5dfb9692",
       "toSide": "left"
     },
     {
-      "id": "edge_art_0c539fb0",
-      "fromNode": "purpose_business",
-      "fromSide": "right",
-      "toNode": "art_business_57038247",
-      "toSide": "left"
-    },
-    {
-      "id": "edge_cat_259357d4",
+      "id": "edge_cat_65a8f5b8",
       "fromNode": "root_daily",
       "fromSide": "right",
       "toNode": "purpose_geopolitics",
       "toSide": "left"
     },
     {
-      "id": "edge_art_8461d9ba",
+      "id": "edge_art_62769708",
       "fromNode": "purpose_geopolitics",
       "fromSide": "right",
-      "toNode": "art_geopolitics_2160684d",
+      "toNode": "art_geopolitics_2f6f0c93",
       "toSide": "left"
     },
     {
-      "id": "edge_art_84bef9cd",
+      "id": "edge_art_e6edff79",
       "fromNode": "purpose_geopolitics",
       "fromSide": "right",
-      "toNode": "art_geopolitics_fc3e0e56",
+      "toNode": "art_geopolitics_6122b075",
       "toSide": "left"
     },
     {
-      "id": "edge_art_87f25a41",
+      "id": "edge_art_887f681f",
       "fromNode": "purpose_geopolitics",
       "fromSide": "right",
-      "toNode": "art_geopolitics_7c04babb",
+      "toNode": "art_geopolitics_72234a7d",
       "toSide": "left"
     }
   ]

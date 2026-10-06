@@ -1,106 +1,142 @@
 {
-  "run_id": "7ff6bfe5-0403-4eb7-9414-b6d6cd098050",
+  "run_id": "054bbf21-9902-413f-9310-d517bee6e18c",
   "date": "2026-10-06",
-  "started_at": "2026-10-06T00:21:12.988Z",
-  "articles_ingested": 86,
-  "articles_scored": 27,
-  "articles_selected": 9,
+  "started_at": "2026-10-06T22:48:38.085Z",
+  "articles_ingested": 103,
+  "articles_scored": 35,
+  "articles_selected": 13,
   "articles_by_purpose": {
     "🛠️ 開発ツール・IDE統合": 3,
-    "💼 ビジネス動向": 2,
+    "🔬 AI・LLM 研究": 3,
     "🌍 政治・地政学": 3,
-    "🔬 AI・LLM 研究": 1
+    "💼 ビジネス動向": 1
   },
   "llm_calls": [
     {
       "phase": "map",
       "model": "gemini-3.5-flash-lite",
-      "input_tokens": 3025,
-      "output_tokens": 239,
-      "latency_ms": 1387,
-      "estimated_cost_usd": 0.001115
+      "input_tokens": 437,
+      "output_tokens": 241,
+      "latency_ms": 1261,
+      "estimated_cost_usd": 0.000471
     },
     {
       "phase": "map",
       "model": "gemini-3.5-flash-lite",
-      "input_tokens": 352,
-      "output_tokens": 153,
-      "latency_ms": 2613,
-      "estimated_cost_usd": 0.000317
+      "input_tokens": 808,
+      "output_tokens": 219,
+      "latency_ms": 1050,
+      "estimated_cost_usd": 0.000531
     },
     {
       "phase": "map",
       "model": "gemini-3.5-flash-lite",
-      "input_tokens": 1623,
-      "output_tokens": 266,
-      "latency_ms": 1922,
-      "estimated_cost_usd": 0.000805
+      "input_tokens": 778,
+      "output_tokens": 186,
+      "latency_ms": 997,
+      "estimated_cost_usd": 0.000474
     },
     {
       "phase": "map",
       "model": "gemini-3.5-flash-lite",
-      "input_tokens": 647,
-      "output_tokens": 223,
-      "latency_ms": 1163,
-      "estimated_cost_usd": 0.000496
+      "input_tokens": 2604,
+      "output_tokens": 283,
+      "latency_ms": 1288,
+      "estimated_cost_usd": 0.001076
     },
     {
       "phase": "map",
       "model": "gemini-3.5-flash-lite",
-      "input_tokens": 961,
-      "output_tokens": 206,
-      "latency_ms": 1214,
-      "estimated_cost_usd": 0.000549
+      "input_tokens": 394,
+      "output_tokens": 129,
+      "latency_ms": 1022,
+      "estimated_cost_usd": 0.000292
     },
     {
       "phase": "map",
       "model": "gemini-3.5-flash-lite",
-      "input_tokens": 1406,
-      "output_tokens": 209,
-      "latency_ms": 1283,
-      "estimated_cost_usd": 0.000665
+      "input_tokens": 488,
+      "output_tokens": 256,
+      "latency_ms": 1594,
+      "estimated_cost_usd": 0.000506
     },
     {
       "phase": "map",
       "model": "gemini-3.5-flash-lite",
-      "input_tokens": 2481,
-      "output_tokens": 261,
-      "latency_ms": 15247,
-      "estimated_cost_usd": 0.001012
+      "input_tokens": 481,
+      "output_tokens": 210,
+      "latency_ms": 1253,
+      "estimated_cost_usd": 0.000435
     },
     {
       "phase": "map",
       "model": "gemini-3.5-flash-lite",
-      "input_tokens": 2964,
-      "output_tokens": 261,
-      "latency_ms": 2289,
-      "estimated_cost_usd": 0.001133
+      "input_tokens": 794,
+      "output_tokens": 190,
+      "latency_ms": 1043,
+      "estimated_cost_usd": 0.000484
     },
     {
       "phase": "map",
       "model": "gemini-3.5-flash-lite",
-      "input_tokens": 344,
-      "output_tokens": 160,
-      "latency_ms": 1664,
-      "estimated_cost_usd": 0.000326
+      "input_tokens": 1542,
+      "output_tokens": 292,
+      "latency_ms": 1279,
+      "estimated_cost_usd": 0.000824
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 381,
+      "output_tokens": 85,
+      "latency_ms": 777,
+      "estimated_cost_usd": 0.000223
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 397,
+      "output_tokens": 97,
+      "latency_ms": 792,
+      "estimated_cost_usd": 0.000245
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2199,
+      "output_tokens": 255,
+      "latency_ms": 1291,
+      "estimated_cost_usd": 0.000932
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 400,
+      "output_tokens": 98,
+      "latency_ms": 800,
+      "estimated_cost_usd": 0.000247
     },
     {
       "phase": "reduce",
-      "model": "gemini-3.8-flash",
-      "input_tokens": 2623,
-      "output_tokens": 2565,
-      "latency_ms": 14604,
-      "estimated_cost_usd": 0.011586
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2687,
+      "output_tokens": 1733,
+      "latency_ms": 5984,
+      "estimated_cost_usd": 0.003271
     }
   ],
   "total_tokens": {
-    "input": 16426,
-    "output": 4543
+    "input": 14390,
+    "output": 4274
   },
-  "total_cost_usd": 0.018004,
+  "total_cost_usd": 0.010010999999999999,
   "errors": [
     "Source \"VentureBeat\": Failed to fetch RSS feed [VentureBeat]: Status code 429",
-    "Source \"Newsweek World\": Failed to fetch RSS feed [Newsweek World]: Status code 406"
+    "Source \"Newsweek World\": Failed to fetch RSS feed [Newsweek World]: Status code 406",
+    "Map failed for https://www.forbes.com/sites/garydrenik/2026/10/06/data-authenticity-is-now-the-real-currency-of-ai-research/: Map response contained no usable facts",
+    "Map failed for https://www.forbes.com/sites/timbajarin/2026/10/06/the-ai-conference-2026-enterprise-ai-moves-from-wow-to-how/: Map response contained no usable facts",
+    "Map failed for https://www.forbes.com/sites/maureenkerr/2026/10/06/conn-igguldens-genghis-tests-whether-an-ai-made-tv-series-can-pay/: Map response contained no usable facts",
+    "[reduce] google/latest-flash: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent: [503 Service Unavailable] This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
   ],
   "sources_status": [
     {
@@ -163,14 +199,14 @@
       "name": "Hacker News Top Stories",
       "type": "hackernews",
       "status": "ok",
-      "article_count": 8,
+      "article_count": 14,
       "failure_streak": 0
     },
     {
       "name": "GitHub Trending (Python)",
       "type": "github_trending",
       "status": "ok",
-      "article_count": 11,
+      "article_count": 10,
       "failure_streak": 0
     },
     {
@@ -200,27 +236,27 @@
       "name": "BBC News World",
       "type": "rss",
       "status": "ok",
-      "article_count": 21,
+      "article_count": 29,
       "failure_streak": 0
     },
     {
       "name": "The Conversation Global",
       "type": "rss",
       "status": "ok",
-      "article_count": 6,
+      "article_count": 10,
       "failure_streak": 0
     }
   ],
   "extraction": {
-    "attempted": 59,
+    "attempted": 70,
     "failed": 0,
-    "fallback": 28
+    "fallback": 3
   },
-  "map_attempted": 9,
-  "map_succeeded": 9,
+  "map_attempted": 13,
+  "map_succeeded": 10,
   "quality_score": 100,
   "run_status": "success",
   "status_reasons": [],
-  "finished_at": "2026-10-06T00:26:15.340Z",
-  "duration_ms": 302352
+  "finished_at": "2026-10-06T22:57:12.834Z",
+  "duration_ms": 514749
 }
