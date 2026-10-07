@@ -1,0 +1,187 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-10-07 デイリートレンド\n\n**🔥 本日の最重要ニュース**\nUber、本番稼働AIエージェント向けセキュリティシステム「ADR」をオープンソース公開\n\n[出典リンク](https://github.com/uber/ADR)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/Anthropic|Anthropic]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/diffusion|diffusion]]\n- [[Technologies/agentic|agentic]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_ai_research_b87bda66",
+      "type": "text",
+      "x": 940,
+      "y": -320,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Agent in a Bottle: Can LLM Agents Turn Their Capabilities Into Cheap, Scalable Artifacts?](https://arxiv.org/abs/2610.08775v1)**\n_Score: 21.12_"
+    },
+    {
+      "id": "art_ai_research_50fb1ced",
+      "type": "text",
+      "x": 940,
+      "y": -220,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Rapid Fredholm stabilization of the Kuramoto--Sivashinsky equation with unrestricted, spatially-varying anti-diffusion](https://arxiv.org/abs/2610.08764v1)**\n_Score: 14.42_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": 0,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_ai_dev_tools_3fc6f3d6",
+      "type": "text",
+      "x": 940,
+      "y": -60,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[⭐ uber/ADR — ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber. (★36/day)](https://github.com/uber/ADR)**\n_Score: 73_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_4c484dbd",
+      "type": "text",
+      "x": 940,
+      "y": 200,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Israelis demand accountability over 7 October failures three years after attacks](https://www.bbc.co.uk/news/articles/c5zjx7xx3487o)**\n_Score: 14.24_"
+    },
+    {
+      "id": "art_geopolitics_a5530a13",
+      "type": "text",
+      "x": 940,
+      "y": 300,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Trump to speak to Putin about plague lab worker's death in Russia](https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o)**\n_Score: 8.16_"
+    },
+    {
+      "id": "art_geopolitics_2da90bba",
+      "type": "text",
+      "x": 940,
+      "y": 400,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow](https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o)**\n_Score: 7.28_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_0dc36627",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_3b670d54",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_990250f8",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_b87bda66",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_8148ee22",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_50fb1ced",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_7908c355",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_bdcbf673",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_3fc6f3d6",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_39f0f7e0",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_f60a1bb0",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_4c484dbd",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_a97e6633",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_a5530a13",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_8753eec5",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_2da90bba",
+      "toSide": "left"
+    }
+  ]
+}
