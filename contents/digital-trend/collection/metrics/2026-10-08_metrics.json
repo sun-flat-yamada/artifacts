@@ -1,0 +1,227 @@
+{
+  "run_id": "416a6f07-983d-427a-b8bd-c27bcde50bd8",
+  "date": "2026-10-08",
+  "started_at": "2026-10-08T23:34:06.022Z",
+  "articles_ingested": 112,
+  "articles_scored": 33,
+  "articles_selected": 9,
+  "articles_by_purpose": {
+    "🛠️ 開発ツール・IDE統合": 2,
+    "🌍 政治・地政学": 3,
+    "💼 ビジネス動向": 3
+  },
+  "llm_calls": [
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2366,
+      "output_tokens": 270,
+      "latency_ms": 1320,
+      "estimated_cost_usd": 0.000997
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2800,
+      "output_tokens": 252,
+      "latency_ms": 1269,
+      "estimated_cost_usd": 0.001078
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 422,
+      "output_tokens": 125,
+      "latency_ms": 903,
+      "estimated_cost_usd": 0.000293
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 1372,
+      "output_tokens": 268,
+      "latency_ms": 1116,
+      "estimated_cost_usd": 0.000745
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2889,
+      "output_tokens": 183,
+      "latency_ms": 1094,
+      "estimated_cost_usd": 0.000997
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2278,
+      "output_tokens": 147,
+      "latency_ms": 1103,
+      "estimated_cost_usd": 0.00079
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 381,
+      "output_tokens": 100,
+      "latency_ms": 696,
+      "estimated_cost_usd": 0.000245
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 395,
+      "output_tokens": 108,
+      "latency_ms": 926,
+      "estimated_cost_usd": 0.000261
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 413,
+      "output_tokens": 106,
+      "latency_ms": 840,
+      "estimated_cost_usd": 0.000262
+    },
+    {
+      "phase": "reduce",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2046,
+      "output_tokens": 1097,
+      "latency_ms": 3864,
+      "estimated_cost_usd": 0.002157
+    }
+  ],
+  "total_tokens": {
+    "input": 15362,
+    "output": 2656
+  },
+  "total_cost_usd": 0.007825,
+  "errors": [
+    "Source \"VentureBeat\": Failed to fetch RSS feed [VentureBeat]: Status code 429",
+    "Source \"Newsweek World\": Failed to fetch RSS feed [Newsweek World]: Status code 406",
+    "Map failed for https://www.forbes.com/sites/lanceeliot/2026/10/08/making-tough-choices-watermarking-of-ai-text-might-increase-the-chances-of-getting-ai-hallucinations/: Map response contained no usable facts",
+    "[reduce] google/latest-flash: [GoogleGenerativeAI Error]: Request aborted when fetching https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent: This operation was aborted"
+  ],
+  "sources_status": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "type": "rss",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "enabled: false in config.yml"
+    },
+    {
+      "name": "Bluesky AI Trends",
+      "type": "bluesky",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "enabled: false in config.yml"
+    },
+    {
+      "name": "X (旧Twitter) AI Trends via Grok",
+      "type": "xai_grok",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "X/Grok ingestion is disabled until it uses the x_search tool (generated post URLs cannot be verified)"
+    },
+    {
+      "name": "Reddit r/LocalLLaMA",
+      "type": "reddit",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "enabled: false in config.yml"
+    },
+    {
+      "name": "Reuters Technology",
+      "type": "rss",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "enabled: false in config.yml"
+    },
+    {
+      "name": "Ledge.ai (LEDGE)",
+      "type": "rss",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "enabled: false in config.yml"
+    },
+    {
+      "name": "Raindrop Inbox (手動クリップ)",
+      "type": "raindrop",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "RAINDROP_TEST_TOKEN not set"
+    },
+    {
+      "name": "arXiv AI Papers",
+      "type": "arxiv",
+      "status": "ok",
+      "article_count": 15,
+      "failure_streak": 0
+    },
+    {
+      "name": "Hacker News Top Stories",
+      "type": "hackernews",
+      "status": "ok",
+      "article_count": 14,
+      "failure_streak": 0
+    },
+    {
+      "name": "GitHub Trending (Python)",
+      "type": "github_trending",
+      "status": "ok",
+      "article_count": 12,
+      "failure_streak": 0
+    },
+    {
+      "name": "VentureBeat",
+      "type": "rss",
+      "status": "error",
+      "article_count": 0,
+      "failure_streak": 14,
+      "error_message": "Failed to fetch RSS feed [VentureBeat]: Status code 429"
+    },
+    {
+      "name": "Forbes Tech",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 25,
+      "failure_streak": 0
+    },
+    {
+      "name": "Newsweek World",
+      "type": "rss",
+      "status": "error",
+      "article_count": 0,
+      "failure_streak": 6,
+      "error_message": "Failed to fetch RSS feed [Newsweek World]: Status code 406"
+    },
+    {
+      "name": "BBC News World",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 35,
+      "failure_streak": 0
+    },
+    {
+      "name": "The Conversation Global",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 11,
+      "failure_streak": 0
+    }
+  ],
+  "extraction": {
+    "attempted": 74,
+    "failed": 1,
+    "fallback": 0
+  },
+  "map_attempted": 9,
+  "map_succeeded": 8,
+  "quality_score": 94.71428571428571,
+  "run_status": "success",
+  "status_reasons": [],
+  "finished_at": "2026-10-08T23:43:14.334Z",
+  "duration_ms": 548312
+}

@@ -1,0 +1,221 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-10-08 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n[microsoft/agent-framework: Pythonおよび.NETをサポートするマルチエージェントオーケストレーション基盤](https://github.com/microsoft/agent-framework)\n\n[出典リンク](https://github.com/microsoft/agent-framework)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/OpenAI|OpenAI]]\n- [[Entities/Anthropic|Anthropic]]\n- [[Entities/Microsoft|Microsoft]]\n- [[Entities/NVIDIA|NVIDIA]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_ai_dev_tools_e2787912",
+      "type": "text",
+      "x": 940,
+      "y": -320,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[⭐ microsoft/agent-framework — A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. (★24/day)](https://github.com/microsoft/agent-framework)**\n_Score: 53_"
+    },
+    {
+      "id": "art_ai_dev_tools_0110dcce",
+      "type": "text",
+      "x": 940,
+      "y": -220,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[OpenAI annualised revenues $20B less than previously signalled (HN: 344pts)](https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html)**\n_Score: 27.93_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 0,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_business_920f778b",
+      "type": "text",
+      "x": 940,
+      "y": -60,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[This Tech CEO Helped People Get Jobs. He Quit To Fight For Workers In The AI Era](https://www.forbes.com/sites/courtney-connley-hampton/2026/10/08/this-tech-ceo-helped-people-get-jobs-he-quit-to-fight-for-workers-in-the-ai-era/)**\n_Score: 14.05_"
+    },
+    {
+      "id": "art_business_66726a2d",
+      "type": "text",
+      "x": 940,
+      "y": 40,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[AI And Cancer Care: How AI Helps Oncology Healthcare Providers](https://www.forbes.com/sites/ray-fernandez/2026/10/08/ai-and-cancer-care-how-ai-helps-oncology-healthcare-providers/)**\n_Score: 13.92_"
+    },
+    {
+      "id": "art_business_b2570170",
+      "type": "text",
+      "x": 940,
+      "y": 140,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[AI Agents Are Hacking Governments. When Is That An Act Of War?](https://www.forbes.com/sites/robertszczerba/2026/10/08/ai-agents-are-hacking-governments-when-is-that-an-act-of-war/)**\n_Score: 12.55_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_062f6495",
+      "type": "text",
+      "x": 940,
+      "y": 200,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge](https://www.bbc.co.uk/news/articles/c875pwq134l3o)**\n_Score: 21.26_"
+    },
+    {
+      "id": "art_geopolitics_28c62392",
+      "type": "text",
+      "x": 940,
+      "y": 300,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[South Korea recalls Ukraine envoy over prisoner-of-war row](https://www.bbc.co.uk/news/articles/ckwy48rrz95vo)**\n_Score: 19.47_"
+    },
+    {
+      "id": "art_geopolitics_51c8473e",
+      "type": "text",
+      "x": 940,
+      "y": 400,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Watch: Why was the sign at the British consulate in East Jerusalem removed?](https://www.bbc.co.uk/news/videos/c962yz01l7mmo)**\n_Score: 16.65_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_4f082956",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_6e8bb891",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_a80027c8",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_e2787912",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_ea91ed65",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_0110dcce",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_7e7f872a",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_23f6b677",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_920f778b",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_ea01fcec",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_66726a2d",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_19838c15",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_b2570170",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_bb5bfae4",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_05473b0f",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_062f6495",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_18e7cb85",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_28c62392",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_f1fef4de",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_51c8473e",
+      "toSide": "left"
+    }
+  ]
+}
