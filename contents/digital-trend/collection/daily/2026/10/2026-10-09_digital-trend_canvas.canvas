@@ -1,0 +1,238 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-10-09 デイリートレンド\n\n**🔥 本日の最重要ニュース**\nエンタープライズLLMゲートウェイ「LiteLLM」がRustコア刷新により1,000 rpsでP95レイテンシ8msを達成：マルチモデル時代の基盤インフラ標準へ\n\n[出典リンク](https://github.com/BerriAI/litellm)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/OpenAI|OpenAI]]\n- [[Entities/Google|Google]]\n- [[Entities/Anthropic|Anthropic]]\n- [[Entities/NVIDIA|NVIDIA]]\n- [[Entities/AWS|AWS]]\n- [[Entities/xAI|xAI]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/GPT|GPT]]\n- [[Technologies/Rust|Rust]]"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_ai_dev_tools_0cdb3c17",
+      "type": "text",
+      "x": 940,
+      "y": -320,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[⭐ BerriAI/litellm — The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM (★95/day)](https://github.com/BerriAI/litellm)**\n_Score: 105_"
+    },
+    {
+      "id": "art_ai_dev_tools_3b76442a",
+      "type": "text",
+      "x": 940,
+      "y": -220,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Show HN: Let your AI agents paint big arrows, boxes and text on your screen (HN: 360pts)](https://github.com/franzenzenhofer/big-arrow-on-the-screen)**\n_Score: 41.03_"
+    },
+    {
+      "id": "art_ai_dev_tools_4d762a13",
+      "type": "text",
+      "x": 940,
+      "y": -120,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[OpenAI fires three safety researchers for \"mishandling research information\" (HN: 299pts)](https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/)**\n_Score: 24.72_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 0,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_business_2eabae5e",
+      "type": "text",
+      "x": 940,
+      "y": -60,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[OpenAI’s Ultrafast And Decisions API Shift AI Race To Speed, Cost](https://www.forbes.com/sites/ronschmelzer/2026/10/09/openais-ultrafast-and-decisions-api-shift-ai-race-to-speed-cost/)**\n_Score: 12.98_"
+    },
+    {
+      "id": "art_business_e1ae3f3e",
+      "type": "text",
+      "x": 940,
+      "y": 40,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[From AI Pilots To Patient Impact: Scaling Safely With Local AI](https://www.forbes.com/sites/delltechnologies/2026/10/09/from-ai-pilots-to-patient-impact-scaling-safely-with-local-ai/)**\n_Score: 9.49_"
+    },
+    {
+      "id": "art_business_f84dfe60",
+      "type": "text",
+      "x": 940,
+      "y": 140,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Key Questions That Reveal Whether An SBOM Really Reduces Risk](https://www.forbes.com/councils/forbestechcouncil/2026/10/09/key-questions-that-reveal-whether-an-sbom-really-reduces-risk/)**\n_Score: 5.36_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_3480ef6a",
+      "type": "text",
+      "x": 940,
+      "y": 200,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[US unveils sanctions on ICC in move court condemns as 'assault on rule of law'](https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo)**\n_Score: 23.87_"
+    },
+    {
+      "id": "art_geopolitics_7aadc047",
+      "type": "text",
+      "x": 940,
+      "y": 300,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Commentator Katie Zacharia picked as new White House press secretary](https://www.bbc.co.uk/news/articles/c5rmy73zr0rro)**\n_Score: 22.38_"
+    },
+    {
+      "id": "art_geopolitics_bafe8f12",
+      "type": "text",
+      "x": 940,
+      "y": 400,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Navi Pillay, former UN human rights chief, wins Nobel Peace Prize](https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o)**\n_Score: 17.52_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_625b3d9e",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_637d74a0",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_98595334",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_0cdb3c17",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_a4ad04be",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_3b76442a",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_51e0e9cb",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_4d762a13",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_fda66d39",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_10a0930c",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_2eabae5e",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_a989d7d9",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_e1ae3f3e",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_c2c1eb81",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_f84dfe60",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_188617ae",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_b15e33c4",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_3480ef6a",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_6898ad57",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_7aadc047",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_200e51dd",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_bafe8f12",
+      "toSide": "left"
+    }
+  ]
+}
