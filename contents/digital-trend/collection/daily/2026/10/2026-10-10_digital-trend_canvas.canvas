@@ -1,0 +1,136 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-10-10 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n[Nobel peace laureate says US sanctions on ICC 'unacceptable'](https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo)\n\n[出典リンク](https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/GitHub|GitHub]]\n- [[Entities/Cloudflare|Cloudflare]]\n\n"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_ai_dev_tools_ecd7efec",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Talorys – A self-hosted personal AI agent on Cloudflare's free tier (HN: 220pts)](https://github.com/rociiu/talorys)**\n_Score: 19.2_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_47742706",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Nobel peace laureate says US sanctions on ICC 'unacceptable'](https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo)**\n_Score: 26.26_"
+    },
+    {
+      "id": "art_geopolitics_5876cf61",
+      "type": "text",
+      "x": 940,
+      "y": 170,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Several injured in attack on airport in Saudi capital Riyadh](https://www.bbc.co.uk/news/articles/cw33x4y8k82no)**\n_Score: 25.2_"
+    },
+    {
+      "id": "art_geopolitics_f64af0ed",
+      "type": "text",
+      "x": 940,
+      "y": 270,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Woman injures three people in third Poland school knife attack in a week](https://www.bbc.co.uk/news/articles/cv8ezd246z1wo)**\n_Score: 22.14_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_b3a8b7a5",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_5e0d8376",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_d0bc49c3",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_ecd7efec",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_5c065f78",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_6b48d016",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_47742706",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_941ee228",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_5876cf61",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_9b00a082",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_f64af0ed",
+      "toSide": "left"
+    }
+  ]
+}
