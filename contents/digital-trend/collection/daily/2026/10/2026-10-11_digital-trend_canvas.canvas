@@ -1,0 +1,84 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-10-11 デイリートレンド\n\n**🔥 本日の最重要ニュース**\nポーランド首相暗殺計画の阻止と欧州地政学リスク：要人警護と脅威インテリジェンスの連携が浮き彫りにする物理・サイバーセキュリティ統合の要請\n\n[出典リンク](https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o)"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 0,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_31683454",
+      "type": "text",
+      "x": 940,
+      "y": -60,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Poland detains man suspected of planning assassination of PM Tusk](https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o)**\n_Score: 14.91_"
+    },
+    {
+      "id": "art_geopolitics_20cf4c40",
+      "type": "text",
+      "x": 940,
+      "y": 40,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Riyadh airport attacks another dangerous moment in already tense conflict](https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o)**\n_Score: 14.35_"
+    },
+    {
+      "id": "art_geopolitics_0f0a911c",
+      "type": "text",
+      "x": 940,
+      "y": 140,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent](https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o)**\n_Score: 13.75_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_cat_4c610053",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_25dc64e6",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_31683454",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_7f8d3325",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_20cf4c40",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_51716805",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_0f0a911c",
+      "toSide": "left"
+    }
+  ]
+}
