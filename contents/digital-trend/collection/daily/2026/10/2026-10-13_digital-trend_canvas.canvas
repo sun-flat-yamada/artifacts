@@ -1,0 +1,170 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-10-13 デイリートレンド\n\n**🔥 本日の最重要ニュース**\nセルフホスト型AI基盤「Open WebUI」の進化とエンタープライズ実装の現実解\n\n[出典リンク](https://www.bbc.co.uk/news/articles/cvp8glg97393o)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/OpenAI|OpenAI]]\n- [[Entities/Mistral|Mistral]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/GPT|GPT]]\n- [[Technologies/RAG|RAG]]\n- [[Technologies/Rust|Rust]]"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_ai_dev_tools_f86fa876",
+      "type": "text",
+      "x": 940,
+      "y": -320,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[⭐ open-webui/open-webui — User-friendly AI Interface (Supports Ollama, OpenAI API, ...) (★157/day)](https://github.com/open-webui/open-webui)**\n_Score: 24_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 0,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_business_90c05207",
+      "type": "text",
+      "x": 940,
+      "y": -60,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[How Trust Helps Managers Balance Speed And Ethics In AI Deployment](https://www.forbes.com/sites/paulocarvao/2026/10/12/how-trust-helps-managers-balance-speed-and-ethics-in-ai-deployment/)**\n_Score: 9.34_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_8519d7b6",
+      "type": "text",
+      "x": 940,
+      "y": 200,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Immigration agents search congresswoman Ilhan Omar's home](https://www.bbc.co.uk/news/articles/cvp8glg97393o)**\n_Score: 24.05_"
+    },
+    {
+      "id": "art_geopolitics_d2cf2564",
+      "type": "text",
+      "x": 940,
+      "y": 300,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Thousands march to Indian Supreme Court to demand election chief resign](https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo)**\n_Score: 21_"
+    },
+    {
+      "id": "art_geopolitics_382ec891",
+      "type": "text",
+      "x": 940,
+      "y": 400,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Analysis: Trump's global headaches worsen weeks before crucial elections](https://www.bbc.co.uk/news/articles/cqgm087rkze2o)**\n_Score: 20.94_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_6205d19e",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_c0c7303b",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_22afad7d",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_f86fa876",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_b6fe3efb",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_e73c6648",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_90c05207",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_a1733a36",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_a70d0123",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_8519d7b6",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_82c490db",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_d2cf2564",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_80bdf541",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_382ec891",
+      "toSide": "left"
+    }
+  ]
+}
