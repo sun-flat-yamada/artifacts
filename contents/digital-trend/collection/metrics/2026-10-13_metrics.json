@@ -1,100 +1,115 @@
 {
-  "run_id": "e09ee01d-5b91-42b1-87d9-a58dc03ee7e1",
+  "run_id": "2b84cf18-1cea-45c3-a2db-7f16394f2d7b",
   "date": "2026-10-13",
-  "started_at": "2026-10-13T00:58:59.132Z",
-  "articles_ingested": 103,
-  "articles_scored": 34,
-  "articles_selected": 8,
+  "started_at": "2026-10-13T23:08:11.864Z",
+  "articles_ingested": 104,
+  "articles_scored": 31,
+  "articles_selected": 10,
   "articles_by_purpose": {
+    "🛠️ 開発ツール・IDE統合": 4,
     "🌍 政治・地政学": 3,
-    "🛠️ 開発ツール・IDE統合": 1,
     "💼 ビジネス動向": 1
   },
   "llm_calls": [
     {
       "phase": "map",
       "model": "gemini-3.5-flash-lite",
-      "input_tokens": 2869,
-      "output_tokens": 186,
-      "latency_ms": 1315,
-      "estimated_cost_usd": 0.000996
+      "input_tokens": 2439,
+      "output_tokens": 255,
+      "latency_ms": 1493,
+      "estimated_cost_usd": 0.000992
     },
     {
       "phase": "map",
       "model": "gemini-3.5-flash-lite",
-      "input_tokens": 2675,
-      "output_tokens": 258,
-      "latency_ms": 1404,
-      "estimated_cost_usd": 0.001056
+      "input_tokens": 2247,
+      "output_tokens": 162,
+      "latency_ms": 1035,
+      "estimated_cost_usd": 0.000805
     },
     {
       "phase": "map",
       "model": "gemini-3.5-flash-lite",
       "input_tokens": 405,
       "output_tokens": 102,
-      "latency_ms": 732,
+      "latency_ms": 749,
       "estimated_cost_usd": 0.000254
     },
     {
       "phase": "map",
       "model": "gemini-3.5-flash-lite",
-      "input_tokens": 2729,
-      "output_tokens": 226,
-      "latency_ms": 1352,
-      "estimated_cost_usd": 0.001021
+      "input_tokens": 382,
+      "output_tokens": 177,
+      "latency_ms": 1051,
+      "estimated_cost_usd": 0.000361
     },
     {
       "phase": "map",
       "model": "gemini-3.5-flash-lite",
-      "input_tokens": 2605,
-      "output_tokens": 220,
-      "latency_ms": 1095,
-      "estimated_cost_usd": 0.000981
+      "input_tokens": 1545,
+      "output_tokens": 218,
+      "latency_ms": 1187,
+      "estimated_cost_usd": 0.000713
     },
     {
       "phase": "map",
       "model": "gemini-3.5-flash-lite",
-      "input_tokens": 368,
-      "output_tokens": 78,
-      "latency_ms": 756,
-      "estimated_cost_usd": 0.000209
+      "input_tokens": 1619,
+      "output_tokens": 253,
+      "latency_ms": 1174,
+      "estimated_cost_usd": 0.000784
     },
     {
       "phase": "map",
       "model": "gemini-3.5-flash-lite",
-      "input_tokens": 400,
+      "input_tokens": 1149,
+      "output_tokens": 181,
+      "latency_ms": 918,
+      "estimated_cost_usd": 0.000559
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 1276,
+      "output_tokens": 239,
+      "latency_ms": 1074,
+      "estimated_cost_usd": 0.000677
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 401,
       "output_tokens": 98,
-      "latency_ms": 867,
+      "latency_ms": 784,
       "estimated_cost_usd": 0.000247
     },
     {
       "phase": "map",
       "model": "gemini-3.5-flash-lite",
-      "input_tokens": 381,
-      "output_tokens": 98,
-      "latency_ms": 843,
-      "estimated_cost_usd": 0.000242
+      "input_tokens": 2392,
+      "output_tokens": 287,
+      "latency_ms": 1582,
+      "estimated_cost_usd": 0.001029
     },
     {
       "phase": "reduce",
       "model": "gemini-3.8-flash",
-      "input_tokens": 1568,
-      "output_tokens": 1700,
-      "latency_ms": 16996,
-      "estimated_cost_usd": 0.007551
+      "input_tokens": 2226,
+      "output_tokens": 2841,
+      "latency_ms": 23371,
+      "estimated_cost_usd": 0.012323
     }
   ],
   "total_tokens": {
-    "input": 14000,
-    "output": 2966
+    "input": 16081,
+    "output": 4813
   },
-  "total_cost_usd": 0.012557,
+  "total_cost_usd": 0.018744,
   "errors": [
     "Source \"VentureBeat\": Failed to fetch RSS feed [VentureBeat]: Status code 429",
     "Source \"Newsweek World\": Failed to fetch RSS feed [Newsweek World]: Status code 406",
-    "Map failed for https://www.forbes.com/sites/ronschmelzer/2026/10/12/decisions-decisions-a-guide-to-the-new-wave-of-ai-decision-models-besides-jev/: Map response contained no usable facts",
-    "Map failed for https://www.forbes.com/sites/ariredbord/2026/10/12/rogue-ai-agents-just-filed-a-murder-tip/: Map response contained no usable facts",
-    "Map failed for https://www.forbes.com/sites/bensin/2026/10/12/ambi-is-a-real-time-proactive-ai-for-apple-devices-with-hardware-to-come/: Map response contained no usable facts"
+    "Map failed for https://www.forbes.com/sites/paultassi/2026/10/13/fortnites-epic-games-goes-all-in-on-ai-saying-the-quiet-part-out-loud/: Map response contained no usable facts",
+    "Map failed for https://www.forbes.com/sites/davidphelan/2026/10/13/apple-homeview-revealed-299-smart-display-features-personalized-privacy-and-siri-ai/: Map response contained no usable facts"
   ],
   "sources_status": [
     {
@@ -157,14 +172,14 @@
       "name": "Hacker News Top Stories",
       "type": "hackernews",
       "status": "ok",
-      "article_count": 17,
+      "article_count": 20,
       "failure_streak": 0
     },
     {
       "name": "GitHub Trending (Python)",
       "type": "github_trending",
       "status": "ok",
-      "article_count": 11,
+      "article_count": 13,
       "failure_streak": 0
     },
     {
@@ -194,27 +209,27 @@
       "name": "BBC News World",
       "type": "rss",
       "status": "ok",
-      "article_count": 28,
+      "article_count": 23,
       "failure_streak": 0
     },
     {
       "name": "The Conversation Global",
       "type": "rss",
       "status": "ok",
-      "article_count": 7,
+      "article_count": 8,
       "failure_streak": 0
     }
   ],
   "extraction": {
-    "attempted": 61,
+    "attempted": 60,
     "failed": 0,
     "fallback": 1
   },
-  "map_attempted": 8,
-  "map_succeeded": 5,
+  "map_attempted": 10,
+  "map_succeeded": 8,
   "quality_score": 100,
   "run_status": "success",
   "status_reasons": [],
-  "finished_at": "2026-10-13T01:04:03.935Z",
-  "duration_ms": 304803
+  "finished_at": "2026-10-13T23:16:09.550Z",
+  "duration_ms": 477686
 }

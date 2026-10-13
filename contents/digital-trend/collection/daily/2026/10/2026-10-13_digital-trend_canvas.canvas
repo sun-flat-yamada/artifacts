@@ -8,7 +8,7 @@
       "width": 440,
       "height": 220,
       "color": "1",
-      "text": "# 📅 2026-10-13 デイリートレンド\n\n**🔥 本日の最重要ニュース**\nセルフホスト型AI基盤「Open WebUI」の進化とエンタープライズ実装の現実解\n\n[出典リンク](https://www.bbc.co.uk/news/articles/cvp8glg97393o)"
+      "text": "# 📅 2026-10-13 デイリートレンド\n\n**🔥 本日の最重要ニュース**\nAnthropicが自社製VCS「Scion」を開発・移行：AI時代のモノレポ急成長とGitの限界への挑戦\n\n[出典リンク](https://www.anthropic.com/engineering/redesigning-source-control)"
     },
     {
       "id": "entities_summary",
@@ -18,7 +18,7 @@
       "width": 380,
       "height": 320,
       "color": "3",
-      "text": "### 🏢 注目企業\n- [[Entities/OpenAI|OpenAI]]\n- [[Entities/Mistral|Mistral]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/GPT|GPT]]\n- [[Technologies/RAG|RAG]]\n- [[Technologies/Rust|Rust]]"
+      "text": "### 🏢 注目企業\n- [[Entities/OpenAI|OpenAI]]\n- [[Entities/Google|Google]]\n- [[Entities/Anthropic|Anthropic]]\n- [[Entities/Meta|Meta]]\n- [[Entities/GitHub|GitHub]]\n- [[Entities/GitLab|GitLab]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/LoRA|LoRA]]"
     },
     {
       "id": "purpose_ai_dev_tools",
@@ -28,17 +28,37 @@
       "width": 320,
       "height": 180,
       "color": "4",
-      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **1件**"
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **4件**"
     },
     {
-      "id": "art_ai_dev_tools_f86fa876",
+      "id": "art_ai_dev_tools_39137caf",
       "type": "text",
       "x": 940,
       "y": -320,
       "width": 380,
       "height": 85,
       "color": "6",
-      "text": "**[⭐ open-webui/open-webui — User-friendly AI Interface (Supports Ollama, OpenAI API, ...) (★157/day)](https://github.com/open-webui/open-webui)**\n_Score: 24_"
+      "text": "**[Redesigning source control at Anthropic (HN: 448pts)](https://www.anthropic.com/engineering/redesigning-source-control)**\n_Score: 27.65_"
+    },
+    {
+      "id": "art_ai_dev_tools_99101cfc",
+      "type": "text",
+      "x": 940,
+      "y": -220,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[⭐ mvanhorn/last30days-skill — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary (★103/day)](https://github.com/mvanhorn/last30days-skill)**\n_Score: 24_"
+    },
+    {
+      "id": "art_ai_dev_tools_a2595262",
+      "type": "text",
+      "x": 940,
+      "y": -120,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[OpenAI engineer arrested in bugging of executive conference room (HN: 277pts)](https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/)**\n_Score: 22.72_"
     },
     {
       "id": "purpose_business",
@@ -51,14 +71,14 @@
       "text": "## 💼 ビジネス動向\n\n収集件数: **1件**"
     },
     {
-      "id": "art_business_90c05207",
+      "id": "art_business_713b5b6c",
       "type": "text",
       "x": 940,
       "y": -60,
       "width": 380,
       "height": 85,
       "color": "6",
-      "text": "**[How Trust Helps Managers Balance Speed And Ethics In AI Deployment](https://www.forbes.com/sites/paulocarvao/2026/10/12/how-trust-helps-managers-balance-speed-and-ethics-in-ai-deployment/)**\n_Score: 9.34_"
+      "text": "**[Small Daily Habits That Lead To Better Engineering Decisions](https://www.forbes.com/councils/forbestechcouncil/2026/10/13/small-daily-habits-that-lead-to-better-engineering-decisions/)**\n_Score: 5.33_"
     },
     {
       "id": "purpose_geopolitics",
@@ -71,39 +91,39 @@
       "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
     },
     {
-      "id": "art_geopolitics_8519d7b6",
+      "id": "art_geopolitics_b111363d",
       "type": "text",
       "x": 940,
       "y": 200,
       "width": 380,
       "height": 85,
       "color": "6",
-      "text": "**[Immigration agents search congresswoman Ilhan Omar's home](https://www.bbc.co.uk/news/articles/cvp8glg97393o)**\n_Score: 24.05_"
+      "text": "**[BBC's Orla Guerin travels with Yemen's southern national security forces through desert battlefield](https://www.bbc.co.uk/news/videos/cqx298yx4k48o)**\n_Score: 26.69_"
     },
     {
-      "id": "art_geopolitics_d2cf2564",
+      "id": "art_geopolitics_a8849227",
       "type": "text",
       "x": 940,
       "y": 300,
       "width": 380,
       "height": 85,
       "color": "6",
-      "text": "**[Thousands march to Indian Supreme Court to demand election chief resign](https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo)**\n_Score: 21_"
+      "text": "**[Who's to blame for the toxic smog choking South East Asia?  ](https://www.bbc.co.uk/news/articles/ckreyq9re0n0o)**\n_Score: 20.52_"
     },
     {
-      "id": "art_geopolitics_382ec891",
+      "id": "art_geopolitics_82838b38",
       "type": "text",
       "x": 940,
       "y": 400,
       "width": 380,
       "height": 85,
       "color": "6",
-      "text": "**[Analysis: Trump's global headaches worsen weeks before crucial elections](https://www.bbc.co.uk/news/articles/cqgm087rkze2o)**\n_Score: 20.94_"
+      "text": "**[Argentina targets UK in legal claim over Falklands oil exploration](https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko)**\n_Score: 15.21_"
     }
   ],
   "edges": [
     {
-      "id": "edge_ent_6205d19e",
+      "id": "edge_ent_8c5307a1",
       "fromNode": "entities_summary",
       "fromSide": "right",
       "toNode": "root_daily",
@@ -111,59 +131,73 @@
       "label": "関連エンティティ"
     },
     {
-      "id": "edge_cat_c0c7303b",
+      "id": "edge_cat_df042d3f",
       "fromNode": "root_daily",
       "fromSide": "right",
       "toNode": "purpose_ai_dev_tools",
       "toSide": "left"
     },
     {
-      "id": "edge_art_22afad7d",
+      "id": "edge_art_fbba5666",
       "fromNode": "purpose_ai_dev_tools",
       "fromSide": "right",
-      "toNode": "art_ai_dev_tools_f86fa876",
+      "toNode": "art_ai_dev_tools_39137caf",
       "toSide": "left"
     },
     {
-      "id": "edge_cat_b6fe3efb",
+      "id": "edge_art_5349dbd0",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_99101cfc",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_4dd8de9c",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_a2595262",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_3b05db99",
       "fromNode": "root_daily",
       "fromSide": "right",
       "toNode": "purpose_business",
       "toSide": "left"
     },
     {
-      "id": "edge_art_e73c6648",
+      "id": "edge_art_ce3fb25f",
       "fromNode": "purpose_business",
       "fromSide": "right",
-      "toNode": "art_business_90c05207",
+      "toNode": "art_business_713b5b6c",
       "toSide": "left"
     },
     {
-      "id": "edge_cat_a1733a36",
+      "id": "edge_cat_644b2ac9",
       "fromNode": "root_daily",
       "fromSide": "right",
       "toNode": "purpose_geopolitics",
       "toSide": "left"
     },
     {
-      "id": "edge_art_a70d0123",
+      "id": "edge_art_1ce3318c",
       "fromNode": "purpose_geopolitics",
       "fromSide": "right",
-      "toNode": "art_geopolitics_8519d7b6",
+      "toNode": "art_geopolitics_b111363d",
       "toSide": "left"
     },
     {
-      "id": "edge_art_82c490db",
+      "id": "edge_art_841595d5",
       "fromNode": "purpose_geopolitics",
       "fromSide": "right",
-      "toNode": "art_geopolitics_d2cf2564",
+      "toNode": "art_geopolitics_a8849227",
       "toSide": "left"
     },
     {
-      "id": "edge_art_80bdf541",
+      "id": "edge_art_82fb5520",
       "fromNode": "purpose_geopolitics",
       "fromSide": "right",
-      "toNode": "art_geopolitics_382ec891",
+      "toNode": "art_geopolitics_82838b38",
       "toSide": "left"
     }
   ]
