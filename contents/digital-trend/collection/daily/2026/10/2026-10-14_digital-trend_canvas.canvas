@@ -1,0 +1,204 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-10-14 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n完全ローカル・プライベートAIアシスタント「Jarvis」の登場：MCP対応と常時リスニングが拓くデスクトップ自動化の転換点\n\n[出典リンク](https://github.com/isair/jarvis)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/OpenAI|OpenAI]]\n- [[Entities/Anthropic|Anthropic]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/GPT|GPT]]\n- [[Technologies/diffusion|diffusion]]\n- [[Technologies/function calling|function calling]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_ai_research_a3c94049",
+      "type": "text",
+      "x": 940,
+      "y": -320,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study](https://arxiv.org/abs/2610.18869v1)**\n_Score: 20.58_"
+    },
+    {
+      "id": "art_ai_research_d248c038",
+      "type": "text",
+      "x": 940,
+      "y": -220,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Data Free Training of Diffusion Models for Lattice Field Theories](https://arxiv.org/abs/2610.18863v1)**\n_Score: 20.58_"
+    },
+    {
+      "id": "art_ai_research_4c5d236b",
+      "type": "text",
+      "x": 940,
+      "y": -120,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[LIBERO-RIG: A Hardware-Setup Robustness Benchmark for Vision-Language-Action Models](https://arxiv.org/abs/2610.18843v1)**\n_Score: 17.13_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": 0,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_ai_dev_tools_6be9636a",
+      "type": "text",
+      "x": 940,
+      "y": -60,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[⭐ isair/jarvis — Private local AI assistant for your desktop. Voice and text chat, personal memory, dictation and MCP tools. Runs offline with Ollama or OpenAI-compatible servers on macOS, Windows and Linux. (★27/day)](https://github.com/isair/jarvis)**\n_Score: 23.99_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_b0387634",
+      "type": "text",
+      "x": 940,
+      "y": 200,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer](https://www.bbc.co.uk/news/articles/cm04054ykqqqo)**\n_Score: 14.6_"
+    },
+    {
+      "id": "art_geopolitics_ee65a6f9",
+      "type": "text",
+      "x": 940,
+      "y": 300,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Container ship hit by projectile sinks in Strait of Hormuz, Singapore says](https://www.bbc.co.uk/news/articles/crkg7q97z078o)**\n_Score: 14.51_"
+    },
+    {
+      "id": "art_geopolitics_7f64ca8e",
+      "type": "text",
+      "x": 940,
+      "y": 400,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Burnham says he wants to 'repair bridges' between Ukraine and US](https://www.bbc.co.uk/news/articles/cq98z59xdny5o)**\n_Score: 13.73_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_77f92467",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_15169b7d",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_6f5327be",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_a3c94049",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_dc2be8d6",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_d248c038",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_a282b9f9",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_4c5d236b",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_9ec51406",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_30d152fc",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_6be9636a",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_494d5220",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_aba86bb0",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_b0387634",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_d3686219",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_ee65a6f9",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_4b7f0aa8",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_7f64ca8e",
+      "toSide": "left"
+    }
+  ]
+}
