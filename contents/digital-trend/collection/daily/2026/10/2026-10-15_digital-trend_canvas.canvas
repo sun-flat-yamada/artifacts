@@ -1,0 +1,255 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-10-15 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n再学習不要で推論コストを動的制御：Transformerを弾力化する新プルーニング手法\n\n[出典リンク](https://www.bbc.co.uk/news/articles/cwly0g2r4k3po)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/Anthropic|Anthropic]]\n- [[Entities/Meta|Meta]]\n\n### ⚙️ 注目技術\n- [[Technologies/transformer|transformer]]\n- [[Technologies/fine-tuning|fine-tuning]]\n- [[Technologies/LLM|LLM]]\n- [[Technologies/diffusion|diffusion]]\n- [[Technologies/DPO|DPO]]\n- [[Technologies/attention|attention]]\n- [[Technologies/agentic|agentic]]\n- [[Technologies/function calling|function calling]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **5件**"
+    },
+    {
+      "id": "art_ai_research_eed403f6",
+      "type": "text",
+      "x": 940,
+      "y": -450,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Your Transformer Is Secretly Elastic](https://arxiv.org/abs/2610.20588v1)**\n_Score: 20.63_"
+    },
+    {
+      "id": "art_ai_research_25bd2666",
+      "type": "text",
+      "x": 940,
+      "y": -350,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion](https://arxiv.org/abs/2610.20606v1)**\n_Score: 17.2_"
+    },
+    {
+      "id": "art_ai_research_5e8269b6",
+      "type": "text",
+      "x": 940,
+      "y": -250,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Manacá-1B-Instruct-2: Reproducible Safety Alignment for a Native Brazilian-Portuguese LLM. Negative DPO Results, a Controlled Composition Scan, and a Silent Failure Mode of the LLM Judge](https://arxiv.org/abs/2610.20570v1)**\n_Score: 17.17_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_ai_dev_tools_06db702a",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[More on Anthropic's Scion ripping off Mononoke (HN: 210pts)](https://sunshowers.io/posts/anthropic-mononoke-2/)**\n_Score: 21.84_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_business_b4a6356d",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[The New Boardroom Challenge? How To Govern AI Spend](https://www.forbes.com/sites/atlassian/2026/10/15/the-new-boardroom-challenge-how-to-govern-ai-spend/)**\n_Score: 13.39_"
+    },
+    {
+      "id": "art_business_d2018948",
+      "type": "text",
+      "x": 940,
+      "y": 170,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Stanford Center For AI Safety Takes Mindful Stock Of Preeminent AI Safety Challenges](https://www.forbes.com/sites/lanceeliot/2026/10/15/stanford-ai-safety-summit-2026-ai-agents-risks-safeguards/)**\n_Score: 9.66_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_d28f5970",
+      "type": "text",
+      "x": 940,
+      "y": 330,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[School headscarf ban sparks rare protests in Azerbaijan and row with Turkey](https://www.bbc.co.uk/news/articles/cwly0g2r4k3po)**\n_Score: 33.53_"
+    },
+    {
+      "id": "art_geopolitics_1ce6ebce",
+      "type": "text",
+      "x": 940,
+      "y": 430,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Obama says drift towards extremism 'not inevitable'](https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o)**\n_Score: 26.49_"
+    },
+    {
+      "id": "art_geopolitics_83f5ba40",
+      "type": "text",
+      "x": 940,
+      "y": 530,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[How backlash against data centres could shape the US midterm elections](https://www.bbc.co.uk/news/articles/c0rezqpnekro)**\n_Score: 21.67_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_1d687e5c",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_b38bdeb4",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_ff46e68d",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_eed403f6",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_602a90e5",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_25bd2666",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_0a1964c5",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_5e8269b6",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_5abc8626",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_964fdd98",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_06db702a",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_a2fe3b4c",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_cad37aec",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_b4a6356d",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_848d9415",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_d2018948",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_7afdc083",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_06062836",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_d28f5970",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_44826236",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_1ce6ebce",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_015074d6",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_83f5ba40",
+      "toSide": "left"
+    }
+  ]
+}
