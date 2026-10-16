@@ -1,0 +1,238 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-10-16 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n科学研究を自律化する「scientific-agent-skills」の台頭とオープンエージェントエコシステムの確立\n\n[出典リンク](https://github.com/K-Dense-AI/scientific-agent-skills)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/Google|Google]]\n- [[Entities/Anthropic|Anthropic]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/RAG|RAG]]\n- [[Technologies/agentic|agentic]]"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **4件**"
+    },
+    {
+      "id": "art_ai_dev_tools_8de36b2e",
+      "type": "text",
+      "x": 940,
+      "y": -320,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[⭐ K-Dense-AI/scientific-agent-skills — Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. (★1158/day)](https://github.com/K-Dense-AI/scientific-agent-skills)**\n_Score: 90_"
+    },
+    {
+      "id": "art_ai_dev_tools_fa038564",
+      "type": "text",
+      "x": 940,
+      "y": -220,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[⭐ Imbad0202/academic-research-skills — Academic Research Skills for Claude Code: research → write → review → revise → finalize (★254/day)](https://github.com/Imbad0202/academic-research-skills)**\n_Score: 36_"
+    },
+    {
+      "id": "art_ai_dev_tools_d235a5c0",
+      "type": "text",
+      "x": 940,
+      "y": -120,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[⭐ google/artemis — ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code. It also achieves 99%+ success rate on AndroidWorld Benchmark. (★221/day)](https://github.com/google/artemis)**\n_Score: 36_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 0,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **4件**"
+    },
+    {
+      "id": "art_business_84616eca",
+      "type": "text",
+      "x": 940,
+      "y": -60,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Accenture Bets Big On Claude, Then Limits AI Spending](https://www.forbes.com/sites/ronschmelzer/2026/10/16/accenture-bets-big-on-claude-then-limits-ai-spending/)**\n_Score: 14.39_"
+    },
+    {
+      "id": "art_business_9f11f449",
+      "type": "text",
+      "x": 940,
+      "y": 40,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[How Your Power Bill Is Financing The AI Boom, Without Your OK](https://www.forbes.com/sites/chastity-murphy/2026/10/16/your-power-bill-is-financing-the-ai-boom-nobody-asked-you/)**\n_Score: 14_"
+    },
+    {
+      "id": "art_business_d560e5c3",
+      "type": "text",
+      "x": 940,
+      "y": 140,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[A Unified Data Plane For Agentic AI](https://www.forbes.com/sites/delltechnologies/2026/10/16/a-unified-data-plane-for-agentic-ai/)**\n_Score: 12.91_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_64914b38",
+      "type": "text",
+      "x": 940,
+      "y": 200,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Cities are sinking – but citywide averages hide the real problem](https://theconversation.com/cities-are-sinking-but-citywide-averages-hide-the-real-problem-294213)**\n_Score: 9.44_"
+    },
+    {
+      "id": "art_geopolitics_aa320902",
+      "type": "text",
+      "x": 940,
+      "y": 300,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Is the US limiting Starlink in Ukraine? The consequences could be catastrophic](https://theconversation.com/is-the-us-limiting-starlink-in-ukraine-the-consequences-could-be-catastrophic-294496)**\n_Score: 9.07_"
+    },
+    {
+      "id": "art_geopolitics_2f66916b",
+      "type": "text",
+      "x": 940,
+      "y": 400,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Young voters fear mass shootings but are divided on gun control](https://theconversation.com/young-voters-fear-mass-shootings-but-are-divided-on-gun-control-272235)**\n_Score: 8.44_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_c6c6bdc6",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_3a7455b4",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_5dafdf19",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_8de36b2e",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_d4eaa893",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_fa038564",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_1cb01027",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_d235a5c0",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_06e02687",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_14ce6caa",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_84616eca",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_dbdbe471",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_9f11f449",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_7a0e6a1b",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_d560e5c3",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_da379d0f",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_5ced31ca",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_64914b38",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_e83a1fd5",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_aa320902",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_3c4b9ba3",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_2f66916b",
+      "toSide": "left"
+    }
+  ]
+}
