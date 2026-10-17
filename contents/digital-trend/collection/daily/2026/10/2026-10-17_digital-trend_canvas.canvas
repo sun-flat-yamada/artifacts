@@ -1,0 +1,306 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-10-17 デイリートレンド\n\n**🔥 本日の最重要ニュース**\nDeepSeek-V4.1-Flash-1017 リリース：100万トークン対応と完全オープンなMITライセンスで激変するエージェント基盤\n\n[出典リンク](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/Anthropic|Anthropic]]\n- [[Entities/NVIDIA|NVIDIA]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/MoE|MoE]]\n- [[Technologies/LoRA|LoRA]]\n- [[Technologies/agentic|agentic]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **5件**"
+    },
+    {
+      "id": "art_ai_research_068e9578",
+      "type": "text",
+      "x": 940,
+      "y": -450,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)**\n_Score: 90.85_"
+    },
+    {
+      "id": "art_ai_research_d485b74c",
+      "type": "text",
+      "x": 940,
+      "y": -350,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Rethinking Routing Exploration in Modern Mixture-of-Experts](https://arxiv.org/abs/2610.22353v1)**\n_Score: 80.95_"
+    },
+    {
+      "id": "art_ai_research_3f6e1272",
+      "type": "text",
+      "x": 940,
+      "y": -250,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering](https://arxiv.org/abs/2610.22344v1)**\n_Score: 80.95_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **4件**"
+    },
+    {
+      "id": "art_ai_dev_tools_e5250618",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)**\n_Score: 80.8_"
+    },
+    {
+      "id": "art_ai_dev_tools_8d5b4905",
+      "type": "text",
+      "x": 940,
+      "y": -90,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)**\n_Score: 70.9_"
+    },
+    {
+      "id": "art_ai_dev_tools_f1d735bf",
+      "type": "text",
+      "x": 940,
+      "y": 10,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed)**\n_Score: 70.85_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **4件**"
+    },
+    {
+      "id": "art_business_7f246d99",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Wall Street Wants To Securitize AI. Have We Forgotten 2008?](https://www.forbes.com/sites/paulocarvao/2026/10/16/wall-street-wants-to-securitize-ai-have-we-forgotten-2008/)**\n_Score: 80.8_"
+    },
+    {
+      "id": "art_business_92717ac9",
+      "type": "text",
+      "x": 940,
+      "y": 170,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[TDK Head Unit Sale To Toshiba Or Seagate Long Term Implications](https://www.forbes.com/sites/tomcoughlin/2026/10/17/tdk-head-unit-sale-to-toshiba-or-seagate-long-term-implications/)**\n_Score: 70.85_"
+    },
+    {
+      "id": "art_business_d81f9aed",
+      "type": "text",
+      "x": 940,
+      "y": 270,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[XPENG Could Bring Chinese Self-Driving To Europe Sooner Than You Think](https://www.forbes.com/sites/jamesmorris/2026/10/17/xpeng-could-bring-chinese-self-driving-to-europe-sooner-than-you-think/)**\n_Score: 70.85_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_61707c8b",
+      "type": "text",
+      "x": 940,
+      "y": 330,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role](https://www.bbc.co.uk/news/articles/cvx284w16z1po)**\n_Score: 80.85_"
+    },
+    {
+      "id": "art_geopolitics_ff99fcf7",
+      "type": "text",
+      "x": 940,
+      "y": 430,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC](https://www.bbc.co.uk/news/articles/c64g18ljjd8do)**\n_Score: 70.9_"
+    },
+    {
+      "id": "art_geopolitics_1e137ffb",
+      "type": "text",
+      "x": 940,
+      "y": 530,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[‘Sodcit’ – after battlefield setbacks, Russia returns to destroying Ukraine’s morale](https://theconversation.com/sodcit-after-battlefield-setbacks-russia-returns-to-destroying-ukraines-morale-294292)**\n_Score: 70.8_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_50059d68",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_d753df00",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_dec24f82",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_068e9578",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_3f73d8b1",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_d485b74c",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_e1922d83",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_3f6e1272",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_18d1df34",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_b251c49e",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_e5250618",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_d735ba8d",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_8d5b4905",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_e620fc73",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_f1d735bf",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_ab224d05",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_2d64275d",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_7f246d99",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_888dd6ee",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_92717ac9",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_05392276",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_d81f9aed",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_43a3ecfc",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_b0768139",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_61707c8b",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_b9b2f545",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_ff99fcf7",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_86beb769",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_1e137ffb",
+      "toSide": "left"
+    }
+  ]
+}
