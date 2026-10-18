@@ -1,0 +1,289 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-10-18 デイリートレンド\n\n**🔥 本日の最重要ニュース**\nGraphify: ローカルAST解析によりLLMトークン消費ゼロでコードベースをナレッジグラフ化する新アプローチ\n\n[出典リンク](https://github.com/Graphify-Labs/graphify)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/OpenAI|OpenAI]]\n- [[Entities/Google|Google]]\n- [[Entities/Anthropic|Anthropic]]\n- [[Entities/Meta|Meta]]\n- [[Entities/NVIDIA|NVIDIA]]\n- [[Entities/Amazon|Amazon]]\n- [[Entities/Tesla|Tesla]]\n- [[Entities/Perplexity|Perplexity]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/GPT|GPT]]\n- [[Technologies/BERT|BERT]]\n- [[Technologies/RAG|RAG]]\n- [[Technologies/distillation|distillation]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **5件**"
+    },
+    {
+      "id": "art_ai_research_ad0a3135",
+      "type": "text",
+      "x": 940,
+      "y": -450,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[PathFM: Fast Generative Forecasting of Multivariate Trajectories](https://arxiv.org/abs/2610.22358v1)**\n_Score: 70.95_"
+    },
+    {
+      "id": "art_ai_research_5be59747",
+      "type": "text",
+      "x": 940,
+      "y": -350,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[OmniVerifier-C1: Decomposed Graded Verifier for Rule-Governed Generative World Modeling](https://arxiv.org/abs/2610.22355v1)**\n_Score: 70.95_"
+    },
+    {
+      "id": "art_ai_research_eec454a2",
+      "type": "text",
+      "x": 940,
+      "y": -250,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[GeoState: Learning View-Decoupled Geometry States for 3D World Modeling](https://arxiv.org/abs/2610.22343v1)**\n_Score: 70.95_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **4件**"
+    },
+    {
+      "id": "art_ai_dev_tools_3b5c451f",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)**\n_Score: 80.95_"
+    },
+    {
+      "id": "art_ai_dev_tools_e35b8a20",
+      "type": "text",
+      "x": 940,
+      "y": -90,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)**\n_Score: 70.9_"
+    },
+    {
+      "id": "art_ai_dev_tools_010b1d2b",
+      "type": "text",
+      "x": 940,
+      "y": 10,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping](https://sphinx-six-theta.vercel.app/)**\n_Score: 60.9_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_business_95511d11",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Germany's New Robot Billionaire Is Betting Big On Humanoid Gyms](https://www.forbes.com/sites/ninabambysheva/2026/10/18/germanys-new-robot-billionaire-is-betting-big-on-humanoid-gyms/)**\n_Score: 70.8_"
+    },
+    {
+      "id": "art_business_6c3b70a4",
+      "type": "text",
+      "x": 940,
+      "y": 170,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/)**\n_Score: 70.75_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_b6643c08",
+      "type": "text",
+      "x": 940,
+      "y": 330,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Legal experts warn Meta's new terms still grant broad scraping permissions](https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/)**\n_Score: 70.75_"
+    },
+    {
+      "id": "art_geopolitics_5501bd5f",
+      "type": "text",
+      "x": 940,
+      "y": 430,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Alberta and Québec referendums test Canadian unity amid hostility from the U.S.](https://theconversation.com/alberta-and-quebec-referendums-test-canadian-unity-amid-hostility-from-the-u-s-294387)**\n_Score: 60.75_"
+    },
+    {
+      "id": "art_geopolitics_7ecf9c8d",
+      "type": "text",
+      "x": 940,
+      "y": 530,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[With Hormuz Closed, Central Asia Plays Every Side—And Gains Leverage](https://www.forbes.com/sites/kensilverstein/2026/10/18/with-hormuz-closed-central-asia-plays-every-side-and-gains-leverage/)**\n_Score: 60.7_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_16aecbdd",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_a5e4fe42",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_b430a769",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_ad0a3135",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_71eae8b8",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_5be59747",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_b7391514",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_eec454a2",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_c8e2073a",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_314e4801",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_3b5c451f",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_551b3a17",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_e35b8a20",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_18dc382d",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_010b1d2b",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_fd581976",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_20f4a245",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_95511d11",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_d186f94f",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_6c3b70a4",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_0dc15da2",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_e063bae4",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_b6643c08",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_2c620471",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_5501bd5f",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_b226dd55",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_7ecf9c8d",
+      "toSide": "left"
+    }
+  ]
+}
