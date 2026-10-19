@@ -1,0 +1,289 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-10-19 デイリートレンド\n\n**🔥 本日の最重要ニュース**\nLLMコンテキストの無駄を極限まで削ぎ落とす：コンテキスト圧縮ツール「Headroom」が登場\n\n[出典リンク](https://github.com/headroomlabs-ai/headroom)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/Mistral|Mistral]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/transformer|transformer]]\n- [[Technologies/LLM|LLM]]\n- [[Technologies/diffusion|diffusion]]\n- [[Technologies/RAG|RAG]]\n- [[Technologies/distillation|distillation]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **5件**"
+    },
+    {
+      "id": "art_ai_research_7acca11a",
+      "type": "text",
+      "x": 940,
+      "y": -450,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Timestral: Mistral's time-series foundation models](https://mistral.ai/news/timestral/)**\n_Score: 80.9_"
+    },
+    {
+      "id": "art_ai_research_b1185c45",
+      "type": "text",
+      "x": 940,
+      "y": -350,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Rethinking the design space of Vanilla Pixel Diffusion Transformers](https://arxiv.org/abs/2610.23854v1)**\n_Score: 70.95_"
+    },
+    {
+      "id": "art_ai_research_d6daa338",
+      "type": "text",
+      "x": 940,
+      "y": -250,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Behavioral Couplings: From Formation to Behavioral Emergence in Language Models](https://arxiv.org/abs/2610.23847v1)**\n_Score: 70.95_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_ai_dev_tools_2a9ddbe2",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)**\n_Score: 80.95_"
+    },
+    {
+      "id": "art_ai_dev_tools_4fd77ae4",
+      "type": "text",
+      "x": 940,
+      "y": -90,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f)**\n_Score: 80.85_"
+    },
+    {
+      "id": "art_ai_dev_tools_e9a0698e",
+      "type": "text",
+      "x": 940,
+      "y": 10,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Vibe Coding? Be Sure To Include These Critical Development Steps](https://www.forbes.com/councils/forbestechcouncil/2026/10/19/vibe-coding-be-sure-to-include-these-critical-development-steps/)**\n_Score: 70.9_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_business_708574d0",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[AI That Moves The Mission Forward: From Pilot To Mission-Scale Production](https://www.forbes.com/sites/delltechnologies/2026/10/19/ai-that-moves-the-mission-forward-from-pilot-to-mission-scale-production/)**\n_Score: 70.85_"
+    },
+    {
+      "id": "art_business_b5af8bae",
+      "type": "text",
+      "x": 940,
+      "y": 170,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[The Meter Is Running: Why Public Sector AI Strategy Now Starts With Tokenomics](https://www.forbes.com/sites/delltechnologies/2026/10/19/the-meter-is-running-why-public-sector-ai-strategy-now-starts-with-tokenomics/)**\n_Score: 70.85_"
+    },
+    {
+      "id": "art_business_8743ca0b",
+      "type": "text",
+      "x": 940,
+      "y": 270,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[CERN and Mistral sign a statement of intent to establish a strategic partnership](https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/)**\n_Score: 70.75_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_geopolitics_64e1bb23",
+      "type": "text",
+      "x": 940,
+      "y": 330,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Trump says suspension of Russia sanctions is to keep peace negotiations going](https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo)**\n_Score: 80.85_"
+    },
+    {
+      "id": "art_geopolitics_f39148dc",
+      "type": "text",
+      "x": 940,
+      "y": 430,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC](https://www.bbc.co.uk/news/articles/cmj47yx572z5o)**\n_Score: 70.8_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_76f911df",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_51b3f680",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_4e34bfbb",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_7acca11a",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_fa1d75f4",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_b1185c45",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_127bd2ff",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_d6daa338",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_da4099ea",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_c521b887",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_2a9ddbe2",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_a9391a43",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_4fd77ae4",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_0648e7ec",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_e9a0698e",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_e448c290",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_de67549a",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_708574d0",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_a1f87c38",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_b5af8bae",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_92989b64",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_8743ca0b",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_40846593",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_b9b88488",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_64e1bb23",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_79faa3f5",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_f39148dc",
+      "toSide": "left"
+    }
+  ]
+}
