@@ -1,0 +1,221 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-10-20 デイリートレンド\n\n**🔥 本日の最重要ニュース**\nMistral AIが放つ音声基盤モデルスイート「Voxtral 3」：マルチモーダル音声エージェントのコスト破壊とオンプレミス展開の現実解\n\n[出典リンク](https://www.forbes.com/sites/lanceeliot/2026/10/20/generative-ai-gets-shaken-up-by-next-concept-modeling-that-produces-concepts-first-and-words-second/)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/OpenAI|OpenAI]]\n- [[Entities/Anthropic|Anthropic]]\n- [[Entities/Mistral|Mistral]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/GPT|GPT]]\n- [[Technologies/BERT|BERT]]\n- [[Technologies/agentic|agentic]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **4件**"
+    },
+    {
+      "id": "art_ai_research_63e08dc2",
+      "type": "text",
+      "x": 940,
+      "y": -450,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Generative AI Gets Shaken Up By Next-Concept Modeling That Produces Concepts First And Words Second](https://www.forbes.com/sites/lanceeliot/2026/10/20/generative-ai-gets-shaken-up-by-next-concept-modeling-that-produces-concepts-first-and-words-second/)**\n_Score: 80.9_"
+    },
+    {
+      "id": "art_ai_research_22c5fab5",
+      "type": "text",
+      "x": 940,
+      "y": -350,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Voxtral 3](https://mistral.ai/news/voxtral-3/)**\n_Score: 80.85_"
+    },
+    {
+      "id": "art_ai_research_22fab683",
+      "type": "text",
+      "x": 940,
+      "y": -250,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Text-to-Image Generative Modeling Without Language Pretraining](https://arxiv.org/abs/2610.26863v1)**\n_Score: 70.95_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_ai_dev_tools_f4fa3131",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)**\n_Score: 70.9_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_business_c739b253",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[AI’s Compute Hit A Wall. It Requires A Total Systems Redesign](https://www.forbes.com/sites/timothypapandreou/2026/10/20/ais-compute-hit-a-wall-it-requires-a-total-systems-redesign/)**\n_Score: 70.7_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_geopolitics_c86990e2",
+      "type": "text",
+      "x": 940,
+      "y": 330,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Trump sued over Canadian tariffs in latest legal challenge](https://www.bbc.co.uk/news/articles/cqrkyj13m588o)**\n_Score: 70.85_"
+    },
+    {
+      "id": "art_geopolitics_54aeeec8",
+      "type": "text",
+      "x": 940,
+      "y": 430,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo](https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o)**\n_Score: 70.8_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_b1bc3fe9",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_85ceddc9",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_271033b2",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_63e08dc2",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_6111fcbf",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_22c5fab5",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_9d46f0da",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_22fab683",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_5d9a7c7e",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_0537dc8f",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_f4fa3131",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_42254157",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_65f18bc2",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_c739b253",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_3d0be34f",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_2c754e0d",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_c86990e2",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_1420cf74",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_54aeeec8",
+      "toSide": "left"
+    }
+  ]
+}
