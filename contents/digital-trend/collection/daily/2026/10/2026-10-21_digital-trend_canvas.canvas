@@ -1,0 +1,289 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-10-21 デイリートレンド\n\n**🔥 本日の最重要ニュース**\nテスラとSpaceXの合併検討が正式確認：評価額3.5兆ドル規模の巨大テックコングロマリット誕生へ\n\n[出典リンク](https://www.bbc.co.uk/news/articles/cmlyl09xjke4o)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/OpenAI|OpenAI]]\n- [[Entities/Google|Google]]\n- [[Entities/Anthropic|Anthropic]]\n- [[Entities/Microsoft|Microsoft]]\n- [[Entities/AWS|AWS]]\n- [[Entities/Tesla|Tesla]]\n- [[Entities/xAI|xAI]]\n\n### ⚙️ 注目技術\n- [[Technologies/transformer|transformer]]\n- [[Technologies/LLM|LLM]]\n- [[Technologies/GPT|GPT]]\n- [[Technologies/agentic|agentic]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **4件**"
+    },
+    {
+      "id": "art_ai_research_7c224f95",
+      "type": "text",
+      "x": 940,
+      "y": -450,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[UniWALM: Unified World Action Language Model for Embodied Robot Control](https://arxiv.org/abs/2610.28626v1)**\n_Score: 80.95_"
+    },
+    {
+      "id": "art_ai_research_1a3a9637",
+      "type": "text",
+      "x": 940,
+      "y": -350,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Adaptive Multi-Token Prediction: How far should we go?](https://arxiv.org/abs/2610.28619v1)**\n_Score: 80.95_"
+    },
+    {
+      "id": "art_ai_research_9e220a94",
+      "type": "text",
+      "x": 940,
+      "y": -250,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs](https://arxiv.org/abs/2610.28632v1)**\n_Score: 70.95_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_ai_dev_tools_18de80b8",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Evolving Agent Interfaces](https://arxiv.org/abs/2610.28601v1)**\n_Score: 80.9_"
+    },
+    {
+      "id": "art_ai_dev_tools_934576e4",
+      "type": "text",
+      "x": 940,
+      "y": -90,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/)**\n_Score: 80.75_"
+    },
+    {
+      "id": "art_ai_dev_tools_ebd73d09",
+      "type": "text",
+      "x": 940,
+      "y": 10,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Claude Duet](https://claude.com/product/claude-duet)**\n_Score: 70.85_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_business_5122bb3f",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Elon Musk confirms he is considering merging Tesla and SpaceX](https://www.bbc.co.uk/news/articles/cmlyl09xjke4o)**\n_Score: 90.9_"
+    },
+    {
+      "id": "art_business_cead67cc",
+      "type": "text",
+      "x": 940,
+      "y": 170,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[OpenAI models are coming to Google Cloud](https://openai.com/index/openai-models-google-cloud/)**\n_Score: 80.85_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_9a57b36e",
+      "type": "text",
+      "x": 940,
+      "y": 330,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks](https://www.bbc.co.uk/news/articles/cq3djn5nxx12o)**\n_Score: 80.85_"
+    },
+    {
+      "id": "art_geopolitics_4df3be4c",
+      "type": "text",
+      "x": 940,
+      "y": 430,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Trump and Zelensky at loggerheads despite new optimism](https://www.bbc.co.uk/news/articles/ckrey51jrgnro)**\n_Score: 80.85_"
+    },
+    {
+      "id": "art_geopolitics_574a0551",
+      "type": "text",
+      "x": 940,
+      "y": 530,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[How a US political venture capital firm is trying to influence Brazil’s election](https://theconversation.com/how-a-us-political-venture-capital-firm-is-trying-to-influence-brazils-election-294644)**\n_Score: 80.85_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_1ea031ef",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_6b54011a",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_58779c4f",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_7c224f95",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_e5412173",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_1a3a9637",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_4feb08c4",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_9e220a94",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_ddd1dc92",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_4511e1c1",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_18de80b8",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_f85bf42e",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_934576e4",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_0089ec73",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_ebd73d09",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_bbbdfc9e",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_c3e993a1",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_5122bb3f",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_2cedc3ea",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_cead67cc",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_61eac253",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_1d50acf3",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_9a57b36e",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_b45cbf0a",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_4df3be4c",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_f7ee620b",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_574a0551",
+      "toSide": "left"
+    }
+  ]
+}
