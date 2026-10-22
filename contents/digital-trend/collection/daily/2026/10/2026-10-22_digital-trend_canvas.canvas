@@ -1,0 +1,238 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-10-22 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n外部データゼロからの長文脈推論強化：強化学習フレームワーク「LongZero」の登場\n\n[出典リンク](https://arxiv.org/abs/2610.30132v1)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/OpenAI|OpenAI]]\n- [[Entities/Google|Google]]\n- [[Entities/Meta|Meta]]\n- [[Entities/Microsoft|Microsoft]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/GPT|GPT]]\n- [[Technologies/RAG|RAG]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **5件**"
+    },
+    {
+      "id": "art_ai_research_0e14a17a",
+      "type": "text",
+      "x": 940,
+      "y": -450,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data](https://arxiv.org/abs/2610.30132v1)**\n_Score: 80.95_"
+    },
+    {
+      "id": "art_ai_research_21a2a542",
+      "type": "text",
+      "x": 940,
+      "y": -350,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[AI discovered a massive cyber-security flaw - here's what happened](https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo)**\n_Score: 80.85_"
+    },
+    {
+      "id": "art_ai_research_1856a9c6",
+      "type": "text",
+      "x": 940,
+      "y": -250,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[A critical flaw affecting 70% of all websites has the cybersecurity world panicked](https://theconversation.com/a-critical-flaw-affecting-70-of-all-websites-has-the-cybersecurity-world-panicked-294941)**\n_Score: 80.85_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_ai_dev_tools_5d91e1b5",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)**\n_Score: 60.7_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_business_e996e9e7",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax](https://www.bbc.co.uk/news/articles/cky83vwnyglno)**\n_Score: 70.8_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_2132e2fe",
+      "type": "text",
+      "x": 940,
+      "y": 330,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[FCC Robot Ban Cuts US Humanoid Robot Revenue 58%, Send Chinese Robots To Europe: IDC](https://www.forbes.com/sites/johnkoetsier/2026/10/22/fcc-robot-ban-cuts-us-humanoid-robot-revenue-58-send-chinese-robots-to-europe-idc/)**\n_Score: 70.75_"
+    },
+    {
+      "id": "art_geopolitics_1a4eb167",
+      "type": "text",
+      "x": 940,
+      "y": 430,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Trump's green card curbs test Indian tech workers' American dream](https://www.bbc.co.uk/news/articles/cqj34j7dk771o)**\n_Score: 70.75_"
+    },
+    {
+      "id": "art_geopolitics_7c864595",
+      "type": "text",
+      "x": 940,
+      "y": 530,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote](https://www.bbc.co.uk/news/articles/c6pwgve2lk5go)**\n_Score: 60.7_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_b0af4ac3",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_5c07c12d",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_08ae0742",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_0e14a17a",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_3f391a93",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_21a2a542",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_7654ad0c",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_1856a9c6",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_ad33ffcb",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_0652a7d5",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_5d91e1b5",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_b0ff81be",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_95142a0c",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_e996e9e7",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_7cedb7bc",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_fc2960ee",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_2132e2fe",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_d89dbc91",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_1a4eb167",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_9b6d1441",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_7c864595",
+      "toSide": "left"
+    }
+  ]
+}

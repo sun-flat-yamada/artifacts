@@ -1,0 +1,284 @@
+{
+  "run_id": "52ad0930-666a-4a6c-bd41-55e6ae3f3b2d",
+  "date": "2026-10-22",
+  "started_at": "2026-10-22T21:56:15.356Z",
+  "articles_ingested": 114,
+  "articles_skipped_evaluated": 2,
+  "articles_scored": 21,
+  "articles_selected": 13,
+  "articles_by_purpose": {
+    "🔬 AI・LLM 研究": 5,
+    "🌍 政治・地政学": 3,
+    "🛠️ 開発ツール・IDE統合": 1,
+    "💼 ビジネス動向": 1
+  },
+  "llm_calls": [
+    {
+      "phase": "triage",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 7743,
+      "output_tokens": 4356,
+      "latency_ms": 8134,
+      "estimated_cost_usd": 0.013213
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 782,
+      "output_tokens": 234,
+      "latency_ms": 1276,
+      "estimated_cost_usd": 0.00082
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2264,
+      "output_tokens": 250,
+      "latency_ms": 1220,
+      "estimated_cost_usd": 0.001304
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 392,
+      "output_tokens": 93,
+      "latency_ms": 703,
+      "estimated_cost_usd": 0.00035
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 414,
+      "output_tokens": 145,
+      "latency_ms": 1589,
+      "estimated_cost_usd": 0.000487
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2832,
+      "output_tokens": 278,
+      "latency_ms": 1225,
+      "estimated_cost_usd": 0.001545
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 1406,
+      "output_tokens": 248,
+      "latency_ms": 1309,
+      "estimated_cost_usd": 0.001042
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 375,
+      "output_tokens": 81,
+      "latency_ms": 801,
+      "estimated_cost_usd": 0.000315
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 784,
+      "output_tokens": 183,
+      "latency_ms": 1150,
+      "estimated_cost_usd": 0.000693
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 826,
+      "output_tokens": 232,
+      "latency_ms": 1265,
+      "estimated_cost_usd": 0.000828
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 1428,
+      "output_tokens": 227,
+      "latency_ms": 1363,
+      "estimated_cost_usd": 0.000996
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 1857,
+      "output_tokens": 259,
+      "latency_ms": 1266,
+      "estimated_cost_usd": 0.001205
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 1039,
+      "output_tokens": 265,
+      "latency_ms": 1185,
+      "estimated_cost_usd": 0.000974
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 387,
+      "output_tokens": 89,
+      "latency_ms": 938,
+      "estimated_cost_usd": 0.000339
+    },
+    {
+      "phase": "reduce",
+      "model": "gemini-3.8-flash",
+      "input_tokens": 2663,
+      "output_tokens": 2678,
+      "latency_ms": 76263,
+      "estimated_cost_usd": 0.01204
+    }
+  ],
+  "total_tokens": {
+    "input": 25192,
+    "output": 9618
+  },
+  "total_cost_usd": 0.036151,
+  "errors": [
+    "Source \"VentureBeat\": Failed to fetch RSS feed [VentureBeat]: Status code 429",
+    "Source \"Newsweek World\": Failed to fetch RSS feed [Newsweek World]: Status code 406",
+    "Map failed for https://www.forbes.com/sites/jonmarkman/2026/10/22/meta-creates-a-nonvoting-class-c-stock-as-revenue-jumps-26/: Map response contained no usable facts",
+    "Map failed for https://www.forbes.com/sites/karlfreund/2026/10/22/cadence-announces-sovereign-ai-cloud-for-chip-design/: Map response contained no usable facts",
+    "Map failed for https://www.forbes.com/sites/johnkoetsier/2026/10/22/this-17-million-robot-security-deal-might-be-the-biggest-ever/: Map response contained no usable facts"
+  ],
+  "sources_status": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "type": "rss",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "enabled: false in config.yml"
+    },
+    {
+      "name": "Bluesky AI Trends",
+      "type": "bluesky",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "enabled: false in config.yml"
+    },
+    {
+      "name": "X (旧Twitter) AI Trends via Grok",
+      "type": "xai_grok",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "X/Grok ingestion is disabled until it uses the x_search tool (generated post URLs cannot be verified)"
+    },
+    {
+      "name": "Reddit r/LocalLLaMA",
+      "type": "reddit",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "enabled: false in config.yml"
+    },
+    {
+      "name": "Reuters Technology",
+      "type": "rss",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "enabled: false in config.yml"
+    },
+    {
+      "name": "Ledge.ai (LEDGE)",
+      "type": "rss",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "enabled: false in config.yml"
+    },
+    {
+      "name": "Raindrop Inbox (手動クリップ)",
+      "type": "raindrop",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "RAINDROP_TEST_TOKEN not set"
+    },
+    {
+      "name": "arXiv AI Papers",
+      "type": "arxiv",
+      "status": "ok",
+      "article_count": 15,
+      "failure_streak": 0
+    },
+    {
+      "name": "Hacker News Top Stories",
+      "type": "hackernews",
+      "status": "ok",
+      "article_count": 16,
+      "failure_streak": 0
+    },
+    {
+      "name": "GitHub Trending (Python)",
+      "type": "github_trending",
+      "status": "ok",
+      "article_count": 10,
+      "failure_streak": 0
+    },
+    {
+      "name": "VentureBeat",
+      "type": "rss",
+      "status": "error",
+      "article_count": 0,
+      "failure_streak": 14,
+      "error_message": "Failed to fetch RSS feed [VentureBeat]: Status code 429"
+    },
+    {
+      "name": "Forbes Tech",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 25,
+      "failure_streak": 0
+    },
+    {
+      "name": "Newsweek World",
+      "type": "rss",
+      "status": "error",
+      "article_count": 0,
+      "failure_streak": 14,
+      "error_message": "Failed to fetch RSS feed [Newsweek World]: Status code 406"
+    },
+    {
+      "name": "BBC News World",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 38,
+      "failure_streak": 0
+    },
+    {
+      "name": "The Conversation Global",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 12,
+      "failure_streak": 0
+    }
+  ],
+  "extraction": {
+    "attempted": 30,
+    "failed": 1,
+    "fallback": 6
+  },
+  "prompts": {
+    "triage": "triage_v1.md@e1c77255",
+    "map": "map_v1.md@4a8618b4",
+    "reduce": "reduce_ja_v1.md@417380db"
+  },
+  "triage": {
+    "status": "ok",
+    "candidates": 114,
+    "kept": 30,
+    "dropped_irrelevant": 78,
+    "dropped_duplicate": 1,
+    "dropped_over_limit": 5,
+    "batches": 1
+  },
+  "map_attempted": 13,
+  "map_succeeded": 10,
+  "quality_score": 100,
+  "run_status": "success",
+  "status_reasons": [],
+  "finished_at": "2026-10-22T22:01:35.238Z",
+  "duration_ms": 319882
+}
