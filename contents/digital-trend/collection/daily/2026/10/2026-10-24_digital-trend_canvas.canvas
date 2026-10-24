@@ -1,0 +1,272 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-10-24 デイリートレンド\n\n**🔥 本日の最重要ニュース**\nマルチエージェント基盤「CrewAI」が商用統制プレーンを本格展開：自律型AIワークフローの本番運用標準へ\n\n[出典リンク](https://github.com/crewAIInc/crewAI)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/Anthropic|Anthropic]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/BERT|BERT]]\n- [[Technologies/diffusion|diffusion]]\n- [[Technologies/Kubernetes|Kubernetes]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **4件**"
+    },
+    {
+      "id": "art_ai_research_813186e5",
+      "type": "text",
+      "x": 940,
+      "y": -450,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Cost-Aware Abstention for LLM-Based IT Ticket Classification](https://arxiv.org/abs/2610.31657v1)**\n_Score: 70.85_"
+    },
+    {
+      "id": "art_ai_research_49ac0e37",
+      "type": "text",
+      "x": 940,
+      "y": -350,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Bilingual Language Models Capture Cross-Linguistic Influence in Second-Language Reading](https://arxiv.org/abs/2610.31620v1)**\n_Score: 70.85_"
+    },
+    {
+      "id": "art_ai_research_4be396dc",
+      "type": "text",
+      "x": 940,
+      "y": -250,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Dessa: Conversation Model trained only on speech](https://block.xyz/dessa)**\n_Score: 70.85_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_ai_dev_tools_73a1e5dd",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)**\n_Score: 70.9_"
+    },
+    {
+      "id": "art_ai_dev_tools_2fa16439",
+      "type": "text",
+      "x": 940,
+      "y": -90,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)**\n_Score: 70.9_"
+    },
+    {
+      "id": "art_ai_dev_tools_bd064bf8",
+      "type": "text",
+      "x": 940,
+      "y": 10,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[agentskills/agentskills](https://github.com/agentskills/agentskills)**\n_Score: 60.85_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_business_4a81f117",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[No Signs of AI Payoff Outside the Tech Sector](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector)**\n_Score: 60.75_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_5d1227ab",
+      "type": "text",
+      "x": 940,
+      "y": 330,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[The rise of AI election ads in US midterms campaign](https://www.bbc.co.uk/news/videos/cm62y59zw8zko)**\n_Score: 70.8_"
+    },
+    {
+      "id": "art_geopolitics_017942f3",
+      "type": "text",
+      "x": 940,
+      "y": 430,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[White House lifts tariffs on some Canadian goods as midterm elections loom](https://www.bbc.co.uk/news/articles/c60qk573yzz8o)**\n_Score: 70.75_"
+    },
+    {
+      "id": "art_geopolitics_116e25b9",
+      "type": "text",
+      "x": 940,
+      "y": 530,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Who actually controls Ukraine's access to Starlink?](https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo)**\n_Score: 70.75_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_57535685",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_4997f13a",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_a17b71ad",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_813186e5",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_b72bd00b",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_49ac0e37",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_2a0f7369",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_4be396dc",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_26baffda",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_868e4bd5",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_73a1e5dd",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_067a5484",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_2fa16439",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_e6a12797",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_bd064bf8",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_d450e243",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_0df95472",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_4a81f117",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_3947f85f",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_ebf2d826",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_5d1227ab",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_69bfd3ec",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_017942f3",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_1d549302",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_116e25b9",
+      "toSide": "left"
+    }
+  ]
+}
