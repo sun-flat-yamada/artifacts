@@ -1,0 +1,204 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-10-25 デイリートレンド\n\n**🔥 本日の最重要ニュース**\nCerebrasが3兆パラメータ超の大規模フロンティアAIモデルのウェハスケール推論展開を実現\n\n[出典リンク](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/NVIDIA|NVIDIA]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/GPT|GPT]]\n- [[Technologies/MoE|MoE]]\n- [[Technologies/attention|attention]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_ai_research_3653359d",
+      "type": "text",
+      "x": 940,
+      "y": -450,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)**\n_Score: 80.9_"
+    },
+    {
+      "id": "art_ai_research_9d4c5d1d",
+      "type": "text",
+      "x": 940,
+      "y": -350,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer)**\n_Score: 80.85_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_ai_dev_tools_c514cf34",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[experientiallabs/experiential](https://github.com/experientiallabs/experiential)**\n_Score: 80.9_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_business_0ae4e820",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[America has lost 200k of jobs in media, film and the arts. How much is AI?](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class)**\n_Score: 60.75_"
+    },
+    {
+      "id": "art_business_87561f4e",
+      "type": "text",
+      "x": 940,
+      "y": 170,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Hollywood, Creator Agencies Battle Madison Avenue For Brand Budgets](https://www.forbes.com/sites/jamiegutfreund/2026/10/25/hollywood-creator-agencies-battle-madison-avenue-for-brand-budgets/)**\n_Score: 60.7_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_geopolitics_cbc46102",
+      "type": "text",
+      "x": 940,
+      "y": 330,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Musk says SpaceX restricted Ukraine's Starlink connection as service restored](https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo)**\n_Score: 80.8_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_73a9dab6",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_8f10b499",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_d9db767e",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_3653359d",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_78b89c78",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_9d4c5d1d",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_5bc899ef",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_22181199",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_c514cf34",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_0a76cd85",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_7b60171b",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_0ae4e820",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_048596aa",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_87561f4e",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_e9dc7651",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_a03b111b",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_cbc46102",
+      "toSide": "left"
+    }
+  ]
+}
