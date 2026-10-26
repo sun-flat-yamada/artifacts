@@ -1,0 +1,255 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-10-26 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n[Where Rounding Happens Matters: Rounding-Location Alignment Stabilizes LLM Reinforcement Learning](https://arxiv.org/abs/2610.32951v1)\n\n[出典リンク](https://arxiv.org/abs/2610.32951v1)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/OpenAI|OpenAI]]\n- [[Entities/Anthropic|Anthropic]]\n- [[Entities/GitHub|GitHub]]\n- [[Entities/Cloudflare|Cloudflare]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/GPT|GPT]]\n- [[Technologies/DPO|DPO]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **4件**"
+    },
+    {
+      "id": "art_ai_research_c4c20378",
+      "type": "text",
+      "x": 940,
+      "y": -450,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Where Rounding Happens Matters: Rounding-Location Alignment Stabilizes LLM Reinforcement Learning](https://arxiv.org/abs/2610.32951v1)**\n_Score: 80.95_"
+    },
+    {
+      "id": "art_ai_research_b27e686f",
+      "type": "text",
+      "x": 940,
+      "y": -350,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models)**\n_Score: 80.95_"
+    },
+    {
+      "id": "art_ai_research_f22db090",
+      "type": "text",
+      "x": 940,
+      "y": -250,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[GPT-6.1 Terra](https://openai.com/index/introducing-gpt-6-1-terra/)**\n_Score: 80.95_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **4件**"
+    },
+    {
+      "id": "art_ai_dev_tools_5e5a55bf",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)**\n_Score: 80.95_"
+    },
+    {
+      "id": "art_ai_dev_tools_b1fceb56",
+      "type": "text",
+      "x": 940,
+      "y": -90,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)**\n_Score: 80.95_"
+    },
+    {
+      "id": "art_ai_dev_tools_c70d245d",
+      "type": "text",
+      "x": 940,
+      "y": 10,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter)**\n_Score: 80.95_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_business_03b8826c",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Anthropic Relies On Claude To Build Claude. Why That’s Risky](https://www.forbes.com/sites/rashishrivastava/2026/10/26/anthropic-relies-on-claude-to-build-claude-thats-an-advantage-and-a-risk/)**\n_Score: 80.9_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_geopolitics_3ca1f466",
+      "type": "text",
+      "x": 940,
+      "y": 330,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing](https://www.bbc.co.uk/news/articles/cq398p1wd1evo)**\n_Score: 80.85_"
+    },
+    {
+      "id": "art_geopolitics_3a97b77f",
+      "type": "text",
+      "x": 940,
+      "y": 430,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Israel and the US are both going to the polls - the consequences will be global](https://www.bbc.co.uk/news/articles/crlykey9jywqo)**\n_Score: 80.6_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_5165701d",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_ae53d53b",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_c783070b",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_c4c20378",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_7f082ac6",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_b27e686f",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_722d744a",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_f22db090",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_1b65935a",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_b445e493",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_5e5a55bf",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_167d1749",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_b1fceb56",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_047d65c0",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_c70d245d",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_181784a9",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_28036057",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_03b8826c",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_bd2ed462",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_8713ac46",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_3ca1f466",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_398e88aa",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_3a97b77f",
+      "toSide": "left"
+    }
+  ]
+}
