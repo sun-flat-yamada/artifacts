@@ -1,0 +1,272 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-10-27 デイリートレンド\n\n**🔥 本日の最重要ニュース**\nAnthropicが史上最大規模となる最大2兆ドルのIPOを申請：AI資本サイクルの過熱とリスク構造の転換点\n\n[出典リンク](https://theconversation.com/anthropics-record-us-2-trillion-stock-market-listing-highlights-the-growing-risks-for-all-of-us-295243)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/Anthropic|Anthropic]]\n- [[Entities/NVIDIA|NVIDIA]]\n- [[Entities/Amazon|Amazon]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/RAG|RAG]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **5件**"
+    },
+    {
+      "id": "art_ai_research_4971b8d9",
+      "type": "text",
+      "x": 940,
+      "y": -450,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Work Agents: Systems, Capabilities, and Optimization](https://arxiv.org/abs/2610.35845v1)**\n_Score: 80.9_"
+    },
+    {
+      "id": "art_ai_research_09d777c4",
+      "type": "text",
+      "x": 940,
+      "y": -350,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[I-HITL: Inalienable Human-in-the-Loop](https://arxiv.org/abs/2610.35835v1)**\n_Score: 80.9_"
+    },
+    {
+      "id": "art_ai_research_5be9584a",
+      "type": "text",
+      "x": 940,
+      "y": -250,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Retriever-Free Retrieval: Navigating Documents with Decision Models](https://arxiv.org/abs/2610.35868v1)**\n_Score: 70.95_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_ai_dev_tools_4179836d",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)**\n_Score: 70.9_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_business_e0cacdae",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Anthropic’s record US$2 trillion stock market listing highlights the growing risks for all of us](https://theconversation.com/anthropics-record-us-2-trillion-stock-market-listing-highlights-the-growing-risks-for-all-of-us-295243)**\n_Score: 90.95_"
+    },
+    {
+      "id": "art_business_d3acc3a8",
+      "type": "text",
+      "x": 940,
+      "y": 170,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Amazon Is Gutting Its AI Division After Sustained Failure](https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova)**\n_Score: 70.85_"
+    },
+    {
+      "id": "art_business_9b7e4ac4",
+      "type": "text",
+      "x": 940,
+      "y": 270,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[This $600 Million Startup Is Helping Keep Company Secrets Away From AI Agents](https://www.forbes.com/sites/rashishrivastava/2026/10/27/this-600-million-startup-is-helping-keep-company-secrets-away-from-ai-agents/)**\n_Score: 70.85_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_2b81b679",
+      "type": "text",
+      "x": 940,
+      "y": 330,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[US Government is hiding a secret court ruling about how it spies on Americans](https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/)**\n_Score: 80.85_"
+    },
+    {
+      "id": "art_geopolitics_66e48db9",
+      "type": "text",
+      "x": 940,
+      "y": 430,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Police are using AI to pull over drivers for 'suspicious' behavior](https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220)**\n_Score: 70.85_"
+    },
+    {
+      "id": "art_geopolitics_73b61546",
+      "type": "text",
+      "x": 940,
+      "y": 530,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Anthropic trained Claude on illegally obtained Stanford professors' books](https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/)**\n_Score: 70.8_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_472bff57",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_baafd8cd",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_55975c92",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_4971b8d9",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_63cc43a8",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_09d777c4",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_394f6739",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_5be9584a",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_642eafd7",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_cb807ec3",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_4179836d",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_e23d6062",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_281f6d47",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_e0cacdae",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_3b6f106a",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_d3acc3a8",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_a12e4f08",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_9b7e4ac4",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_4cadb885",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_cf82f30b",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_2b81b679",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_cbeef415",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_66e48db9",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_7653988b",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_73b61546",
+      "toSide": "left"
+    }
+  ]
+}
