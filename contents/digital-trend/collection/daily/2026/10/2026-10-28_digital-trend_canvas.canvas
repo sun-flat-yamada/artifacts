@@ -1,0 +1,255 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-10-28 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n[Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness](https://arxiv.org/abs/2610.37657v1)\n\n[出典リンク](https://arxiv.org/abs/2610.37657v1)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/GPT|GPT]]\n- [[Technologies/RAG|RAG]]\n- [[Technologies/attention|attention]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **5件**"
+    },
+    {
+      "id": "art_ai_research_26c8ab60",
+      "type": "text",
+      "x": 940,
+      "y": -450,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness](https://arxiv.org/abs/2610.37657v1)**\n_Score: 80.95_"
+    },
+    {
+      "id": "art_ai_research_ec4ed11d",
+      "type": "text",
+      "x": 940,
+      "y": -350,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[GEPA-Curator: Curated Learning for Self Improving Agents](https://arxiv.org/abs/2610.37651v1)**\n_Score: 80.95_"
+    },
+    {
+      "id": "art_ai_research_8d58a750",
+      "type": "text",
+      "x": 940,
+      "y": -250,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[A bust-up between mathematicians is fuelling fears that AI could undermine science](https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo)**\n_Score: 80.9_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_ai_dev_tools_ce83d6c9",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Dayjob: Tax – evaluating AI agents on 50 professional tax assignments](https://surgehq.ai/blog/dayjob-tax)**\n_Score: 70.9_"
+    },
+    {
+      "id": "art_ai_dev_tools_7b298cf3",
+      "type": "text",
+      "x": 940,
+      "y": -90,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[I Tried To Compare Seven AI College Advisers. Here’s What Families Should Know](https://www.forbes.com/sites/scottwhite/2026/10/28/i-tried-to-compare-seven-ai-college-advisers-what-families-should-know/)**\n_Score: 60.8_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_business_788db207",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[AI's Financial Reality Check: Are The Billions Paying Off?](https://www.forbes.com/sites/ronschmelzer/2026/10/28/ais-financial-reality-check-are-the-billions-paying-off/)**\n_Score: 80.85_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_2a5cea8d",
+      "type": "text",
+      "x": 940,
+      "y": 330,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[EU’s new Arctic strategy signals shift in its geopolitical mindset](https://theconversation.com/eus-new-arctic-strategy-signals-shift-in-its-geopolitical-mindset-294978)**\n_Score: 70.6_"
+    },
+    {
+      "id": "art_geopolitics_c47d8c0c",
+      "type": "text",
+      "x": 940,
+      "y": 430,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Norway and Finland leaders hold rare call with Putin](https://www.bbc.co.uk/news/articles/c6vgj813mlelo)**\n_Score: 70.5_"
+    },
+    {
+      "id": "art_geopolitics_fd618725",
+      "type": "text",
+      "x": 940,
+      "y": 530,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[‘We changed the system’: how Serbian students ended Alexander Vučić’s 12 years in power](https://theconversation.com/we-changed-the-system-how-serbian-students-ended-alexander-vucics-12-years-in-power-295119)**\n_Score: 70.5_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_2d7a8ed1",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_0383e376",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_9cf8421f",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_26c8ab60",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_9c384859",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_ec4ed11d",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_e845549a",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_8d58a750",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_ba8200cd",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_2e81a1f4",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_ce83d6c9",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_74f0c8f7",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_7b298cf3",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_97cc1921",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_e70cb3c2",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_788db207",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_53ddb146",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_17521d2f",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_2a5cea8d",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_de1a2a94",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_c47d8c0c",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_7c76d328",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_fd618725",
+      "toSide": "left"
+    }
+  ]
+}
