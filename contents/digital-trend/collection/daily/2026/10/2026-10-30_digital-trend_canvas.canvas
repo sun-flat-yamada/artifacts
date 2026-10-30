@@ -1,0 +1,306 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-10-30 デイリートレンド\n\n**🔥 本日の最重要ニュース**\nCursor Marketplace上の公式Claude Code拡張機能に深刻なSSHバックドアが混入\n\n[出典リンク](https://phorion.io/blog/offical-claude-code-vsx-compromise/)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/Google|Google]]\n- [[Entities/Anthropic|Anthropic]]\n- [[Entities/Meta|Meta]]\n- [[Entities/Microsoft|Microsoft]]\n- [[Entities/NVIDIA|NVIDIA]]\n- [[Entities/Amazon|Amazon]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/transformer|transformer]]\n- [[Technologies/LLM|LLM]]\n- [[Technologies/diffusion|diffusion]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **5件**"
+    },
+    {
+      "id": "art_ai_research_fb45dddc",
+      "type": "text",
+      "x": 940,
+      "y": -450,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[world2vec: Mechanistic world models through latent dynamics learning](https://arxiv.org/abs/2610.40637v1)**\n_Score: 80.95_"
+    },
+    {
+      "id": "art_ai_research_1e60f1ef",
+      "type": "text",
+      "x": 940,
+      "y": -350,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender](https://arxiv.org/abs/2610.40627v1)**\n_Score: 80.94_"
+    },
+    {
+      "id": "art_ai_research_17979486",
+      "type": "text",
+      "x": 940,
+      "y": -250,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers](https://arxiv.org/abs/2610.40647v1)**\n_Score: 70.96_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **4件**"
+    },
+    {
+      "id": "art_ai_dev_tools_c095ef31",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/)**\n_Score: 90.85_"
+    },
+    {
+      "id": "art_ai_dev_tools_4fffa412",
+      "type": "text",
+      "x": 940,
+      "y": -90,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[MemPalace/mempalace](https://github.com/MemPalace/mempalace)**\n_Score: 80.9_"
+    },
+    {
+      "id": "art_ai_dev_tools_f0aebafd",
+      "type": "text",
+      "x": 940,
+      "y": 10,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[langchain-ai/deepagents](https://github.com/langchain-ai/deepagents)**\n_Score: 80.9_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_business_f5a7cb4c",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Google value plunges by $500bn as its own AI search hits ad sales](https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o)**\n_Score: 90.85_"
+    },
+    {
+      "id": "art_business_160fb66a",
+      "type": "text",
+      "x": 940,
+      "y": 170,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Anthropic may not secure investment-grade rating after IPO, Blackstone says](https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f)**\n_Score: 80.8_"
+    },
+    {
+      "id": "art_business_2a5dc7ee",
+      "type": "text",
+      "x": 940,
+      "y": 270,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[US tech stocks see sharp falls as AI spending nears $1tn](https://www.bbc.co.uk/news/articles/cvwy72e0n72yo)**\n_Score: 80.78_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_3642cbdd",
+      "type": "text",
+      "x": 940,
+      "y": 330,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[China denies allegations of spy operation targeting Nvidia CEO](https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo)**\n_Score: 80.7_"
+    },
+    {
+      "id": "art_geopolitics_f9053aa4",
+      "type": "text",
+      "x": 940,
+      "y": 430,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[US approves sale of 500 Patriot missiles to Ukraine](https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo)**\n_Score: 80.65_"
+    },
+    {
+      "id": "art_geopolitics_ab20ac63",
+      "type": "text",
+      "x": 940,
+      "y": 530,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[G20 'family photo' cancelled after protests over presence of Russian minister](https://www.bbc.co.uk/news/articles/cmd6dp2y576do)**\n_Score: 70.65_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_7d803f9a",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_441f63cd",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_2398b4b7",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_fb45dddc",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_d4c0510c",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_1e60f1ef",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_ad101c60",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_17979486",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_ef051abd",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_a39f229c",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_c095ef31",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_99c2108e",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_4fffa412",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_668117e6",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_f0aebafd",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_80a89803",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_ea596df2",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_f5a7cb4c",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_9173b3a2",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_160fb66a",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_0196b5d0",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_2a5dc7ee",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_764b5917",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_5979f08f",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_3642cbdd",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_540dab79",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_f9053aa4",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_3780aeaa",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_ab20ac63",
+      "toSide": "left"
+    }
+  ]
+}
