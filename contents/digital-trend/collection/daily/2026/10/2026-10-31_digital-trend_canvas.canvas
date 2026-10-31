@@ -1,0 +1,255 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-10-31 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n[calesthio/OpenMontage: AIコーディングアシスタントを映像制作スタジオへ変革する初のエージェント型オープンソース動画生成システム](https://github.com/calesthio/OpenMontage)\n\n[出典リンク](https://github.com/calesthio/OpenMontage)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/OpenAI|OpenAI]]\n- [[Entities/Anthropic|Anthropic]]\n- [[Entities/Microsoft|Microsoft]]\n- [[Entities/AWS|AWS]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/GPT|GPT]]\n- [[Technologies/Rust|Rust]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_ai_research_1eb32ee4",
+      "type": "text",
+      "x": 940,
+      "y": -450,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura](https://thedataexchange.media/leo-de-moura-lean-aws/)**\n_Score: 80.85_"
+    },
+    {
+      "id": "art_ai_research_144bd0c7",
+      "type": "text",
+      "x": 940,
+      "y": -350,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Adaptive Scenario Generation for KL-DRO Around a Learned Density Model](https://arxiv.org/abs/2610.40644v1)**\n_Score: 70.95_"
+    },
+    {
+      "id": "art_ai_research_5acb5276",
+      "type": "text",
+      "x": 940,
+      "y": -250,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Testimony from Timelines: Evidence-Grounded Significance Testing of Temporal Clinical Hypotheses](https://arxiv.org/abs/2610.40619v1)**\n_Score: 70.9_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **4件**"
+    },
+    {
+      "id": "art_ai_dev_tools_da8f0c9d",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)**\n_Score: 80.9_"
+    },
+    {
+      "id": "art_ai_dev_tools_80dbdf59",
+      "type": "text",
+      "x": 940,
+      "y": -90,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Do the math: How we took over ChatGPT accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai)**\n_Score: 80.8_"
+    },
+    {
+      "id": "art_ai_dev_tools_712c8b08",
+      "type": "text",
+      "x": 940,
+      "y": 10,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Prospero: A new coding harness for a more civilized age](https://nullprogram.com/blog/2026/10/31/)**\n_Score: 70.8_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_business_fe589fc0",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Crypto firm Binance covers 90% of losses after $6.3bn hack](https://www.bbc.co.uk/news/articles/ckpdg3ql4169o)**\n_Score: 80.7_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_geopolitics_f7700dcd",
+      "type": "text",
+      "x": 940,
+      "y": 330,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[The fight to save Canadian town threatened by Trump's tariffs](https://www.bbc.co.uk/news/articles/cmly016ep243o)**\n_Score: 70.7_"
+    },
+    {
+      "id": "art_geopolitics_9ae63482",
+      "type": "text",
+      "x": 940,
+      "y": 430,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[70 years ago the Suez crisis exposed British relative decline. Today, the Iran conflict could be doing the same for the US](https://theconversation.com/70-years-ago-the-suez-crisis-exposed-british-relative-decline-today-the-iran-conflict-could-be-doing-the-same-for-the-us-292833)**\n_Score: 70.7_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_0e5ea112",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_32b39b9a",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_2e6431a8",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_1eb32ee4",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_a788b384",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_144bd0c7",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_1642ee2d",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_5acb5276",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_05821c25",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_838ba206",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_da8f0c9d",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_e24b688a",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_80dbdf59",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_a1bd8c37",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_712c8b08",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_03c763a7",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_a306961e",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_fe589fc0",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_15022afe",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_7ed3425a",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_f7700dcd",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_2d1c3a0e",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_9ae63482",
+      "toSide": "left"
+    }
+  ]
+}
