@@ -1,0 +1,292 @@
+{
+  "run_id": "5aa6c570-d769-4757-b4e8-0f567347ec7e",
+  "date": "2026-11-03",
+  "started_at": "2026-11-03T01:18:10.367Z",
+  "articles_ingested": 98,
+  "articles_skipped_evaluated": 0,
+  "articles_scored": 26,
+  "articles_selected": 14,
+  "articles_by_purpose": {
+    "🔬 AI・LLM 研究": 5,
+    "🌍 政治・地政学": 3,
+    "🛠️ 開発ツール・IDE統合": 2,
+    "💼 ビジネス動向": 2
+  },
+  "llm_calls": [
+    {
+      "phase": "triage",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 6568,
+      "output_tokens": 5013,
+      "latency_ms": 9805,
+      "estimated_cost_usd": 0.014503
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 396,
+      "output_tokens": 97,
+      "latency_ms": 945,
+      "estimated_cost_usd": 0.000361
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 853,
+      "output_tokens": 276,
+      "latency_ms": 1448,
+      "estimated_cost_usd": 0.000946
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 836,
+      "output_tokens": 239,
+      "latency_ms": 1086,
+      "estimated_cost_usd": 0.000848
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2345,
+      "output_tokens": 292,
+      "latency_ms": 1294,
+      "estimated_cost_usd": 0.001433
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 398,
+      "output_tokens": 135,
+      "latency_ms": 857,
+      "estimated_cost_usd": 0.000457
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 822,
+      "output_tokens": 186,
+      "latency_ms": 1274,
+      "estimated_cost_usd": 0.000712
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 770,
+      "output_tokens": 186,
+      "latency_ms": 1521,
+      "estimated_cost_usd": 0.000696
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 766,
+      "output_tokens": 189,
+      "latency_ms": 1628,
+      "estimated_cost_usd": 0.000702
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 397,
+      "output_tokens": 95,
+      "latency_ms": 1360,
+      "estimated_cost_usd": 0.000357
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 1120,
+      "output_tokens": 228,
+      "latency_ms": 1404,
+      "estimated_cost_usd": 0.000906
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 830,
+      "output_tokens": 241,
+      "latency_ms": 1437,
+      "estimated_cost_usd": 0.000851
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 1190,
+      "output_tokens": 244,
+      "latency_ms": 2084,
+      "estimated_cost_usd": 0.000967
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 1406,
+      "output_tokens": 220,
+      "latency_ms": 2145,
+      "estimated_cost_usd": 0.000972
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 344,
+      "output_tokens": 128,
+      "latency_ms": 1306,
+      "estimated_cost_usd": 0.000423
+    },
+    {
+      "phase": "reduce",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2861,
+      "output_tokens": 1815,
+      "latency_ms": 24767,
+      "estimated_cost_usd": 0.005396
+    }
+  ],
+  "total_tokens": {
+    "input": 21902,
+    "output": 9584
+  },
+  "total_cost_usd": 0.03053,
+  "errors": [
+    "Source \"VentureBeat\": Failed to fetch RSS feed [VentureBeat]: Status code 429",
+    "Source \"Newsweek World\": Failed to fetch RSS feed [Newsweek World]: Status code 406",
+    "Map failed for https://www.forbes.com/sites/stevemcdowell/2026/11/02/marvells-115-billion-lumentum-deal-could-reshape-ai-networking/: Map response contained no usable facts",
+    "Map failed for https://www.forbes.com/sites/spectrum-business/2026/11/02/why-billion-dollar-ai-systems-are-only-as-fast-as-the-data-feeding-them/: Map response contained no usable facts",
+    "[reduce] google/latest-flash: {\"error\":{\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}}"
+  ],
+  "sources_status": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "type": "rss",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "enabled: false in config.yml"
+    },
+    {
+      "name": "Bluesky AI Trends",
+      "type": "bluesky",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "enabled: false in config.yml"
+    },
+    {
+      "name": "X (旧Twitter) AI Trends via Grok",
+      "type": "xai_grok",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "X/Grok ingestion is disabled until it uses the x_search tool (generated post URLs cannot be verified)"
+    },
+    {
+      "name": "Reddit r/LocalLLaMA",
+      "type": "reddit",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "enabled: false in config.yml"
+    },
+    {
+      "name": "Reuters Technology",
+      "type": "rss",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "enabled: false in config.yml"
+    },
+    {
+      "name": "Ledge.ai (LEDGE)",
+      "type": "rss",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "enabled: false in config.yml"
+    },
+    {
+      "name": "Raindrop Inbox (手動クリップ)",
+      "type": "raindrop",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "RAINDROP_TEST_TOKEN not set"
+    },
+    {
+      "name": "arXiv AI Papers",
+      "type": "arxiv",
+      "status": "ok",
+      "article_count": 15,
+      "failure_streak": 0
+    },
+    {
+      "name": "Hacker News Top Stories",
+      "type": "hackernews",
+      "status": "ok",
+      "article_count": 15,
+      "failure_streak": 0
+    },
+    {
+      "name": "GitHub Trending (Python)",
+      "type": "github_trending",
+      "status": "ok",
+      "article_count": 6,
+      "failure_streak": 0
+    },
+    {
+      "name": "VentureBeat",
+      "type": "rss",
+      "status": "error",
+      "article_count": 0,
+      "failure_streak": 14,
+      "error_message": "Failed to fetch RSS feed [VentureBeat]: Status code 429"
+    },
+    {
+      "name": "Forbes Tech",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 25,
+      "failure_streak": 0
+    },
+    {
+      "name": "Newsweek World",
+      "type": "rss",
+      "status": "error",
+      "article_count": 0,
+      "failure_streak": 5,
+      "error_message": "Failed to fetch RSS feed [Newsweek World]: Status code 406"
+    },
+    {
+      "name": "BBC News World",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 34,
+      "failure_streak": 0
+    },
+    {
+      "name": "The Conversation Global",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 3,
+      "failure_streak": 0
+    }
+  ],
+  "extraction": {
+    "attempted": 30,
+    "failed": 0,
+    "fallback": 2
+  },
+  "prompts": {
+    "triage": "triage_v1.md@e1c77255",
+    "map": "map_v1.md@4a8618b4",
+    "reduce": "reduce_ja_v1.md@417380db"
+  },
+  "triage": {
+    "status": "ok",
+    "candidates": 98,
+    "kept": 30,
+    "dropped_irrelevant": 60,
+    "dropped_duplicate": 1,
+    "dropped_over_limit": 7,
+    "batches": 1
+  },
+  "map_attempted": 14,
+  "map_succeeded": 12,
+  "quality_score": 97.57142857142857,
+  "run_status": "success",
+  "status_reasons": [],
+  "finished_at": "2026-11-03T01:23:14.122Z",
+  "duration_ms": 303755
+}
