@@ -8,7 +8,7 @@
       "width": 440,
       "height": 220,
       "color": "1",
-      "text": "# 📅 2026-11-03 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n[Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention](https://arxiv.org/abs/2610.42147v1)\n\n[出典リンク](https://arxiv.org/abs/2610.42147v1)"
+      "text": "# 📅 2026-11-03 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n[github/copilot-cli](https://github.com/github/copilot-cli)\n\n[出典リンク](https://github.com/github/copilot-cli)"
     },
     {
       "id": "entities_summary",
@@ -18,152 +18,122 @@
       "width": 380,
       "height": 320,
       "color": "3",
-      "text": "### 🏢 注目企業\n- [[Entities/Anthropic|Anthropic]]\n- [[Entities/Microsoft|Microsoft]]\n- [[Entities/Amazon|Amazon]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/attention|attention]]"
+      "text": "### 🏢 注目企業\n- [[Entities/Apple|Apple]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/GPT|GPT]]"
     },
     {
       "id": "purpose_ai_research",
       "type": "text",
       "x": 540,
-      "y": -390,
+      "y": -260,
       "width": 320,
       "height": 180,
       "color": "4",
       "text": "## 🔬 AI・LLM 研究\n\n収集件数: **5件**"
     },
     {
-      "id": "art_ai_research_510be232",
+      "id": "art_ai_research_8851b597",
       "type": "text",
       "x": 940,
-      "y": -450,
+      "y": -320,
       "width": 380,
       "height": 85,
       "color": "6",
-      "text": "**[Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention](https://arxiv.org/abs/2610.42147v1)**\n_Score: 80.95_"
+      "text": "**[Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/)**\n_Score: 70.85_"
     },
     {
-      "id": "art_ai_research_a3b384c6",
+      "id": "art_ai_research_6e20b385",
       "type": "text",
       "x": 940,
-      "y": -350,
+      "y": -220,
       "width": 380,
       "height": 85,
       "color": "6",
-      "text": "**[Subquadratic Attention with a Hierarchical Tree-Structured Indexer](https://arxiv.org/abs/2610.42112v1)**\n_Score: 80.95_"
+      "text": "**[Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations](https://arxiv.org/abs/2611.03647v1)**\n_Score: 60.9_"
     },
     {
-      "id": "art_ai_research_c7d70094",
+      "id": "art_ai_research_21cd0f4a",
       "type": "text",
       "x": 940,
-      "y": -250,
+      "y": -120,
       "width": 380,
       "height": 85,
       "color": "6",
-      "text": "**[Latent Reasoning in Continuous Space for Unified Multimodal Models](https://arxiv.org/abs/2610.42149v1)**\n_Score: 70.95_"
+      "text": "**[Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation](https://arxiv.org/abs/2611.03648v1)**\n_Score: 60.9_"
     },
     {
       "id": "purpose_ai_dev_tools",
       "type": "text",
       "x": 540,
-      "y": -130,
+      "y": 0,
       "width": 320,
       "height": 180,
       "color": "4",
-      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **2件**"
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **4件**"
     },
     {
-      "id": "art_ai_dev_tools_2c7b34a8",
+      "id": "art_ai_dev_tools_e65eceeb",
       "type": "text",
       "x": 940,
-      "y": -190,
+      "y": -60,
       "width": 380,
       "height": 85,
       "color": "6",
-      "text": "**[Invisible Tech: Why Open Standards And Local AI Are Redefining The Smart Home](https://www.forbes.com/sites/paullamkin/2026/11/02/invisible-tech-why-open-standards-and-local-ai-are-redefining-the-smart-home/)**\n_Score: 60.85_"
+      "text": "**[github/copilot-cli](https://github.com/github/copilot-cli)**\n_Score: 70.95_"
     },
     {
-      "id": "art_ai_dev_tools_f8eaf5a8",
+      "id": "art_ai_dev_tools_cefe95bc",
       "type": "text",
       "x": 940,
-      "y": -90,
+      "y": 40,
       "width": 380,
       "height": 85,
       "color": "6",
-      "text": "**[D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)**\n_Score: 60.8_"
+      "text": "**[karpathy/nanochat](https://github.com/karpathy/nanochat)**\n_Score: 70.9_"
     },
     {
-      "id": "purpose_business",
-      "type": "text",
-      "x": 540,
-      "y": 130,
-      "width": 320,
-      "height": 180,
-      "color": "4",
-      "text": "## 💼 ビジネス動向\n\n収集件数: **2件**"
-    },
-    {
-      "id": "art_business_45514bfa",
+      "id": "art_ai_dev_tools_3544e315",
       "type": "text",
       "x": 940,
-      "y": 70,
+      "y": 140,
       "width": 380,
       "height": 85,
       "color": "6",
-      "text": "**[Binance users withdraw $3.6bn after largest-ever crypto hack](https://www.bbc.co.uk/news/articles/cwj34gdmnly4o)**\n_Score: 70.8_"
-    },
-    {
-      "id": "art_business_7f925499",
-      "type": "text",
-      "x": 940,
-      "y": 170,
-      "width": 380,
-      "height": 85,
-      "color": "6",
-      "text": "**[Anthropic's growth just flattened](https://www.regenerator1.com/p/anthropics-growth-just-flattened)**\n_Score: 60.8_"
+      "text": "**[MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup)**\n_Score: 70.9_"
     },
     {
       "id": "purpose_geopolitics",
       "type": "text",
       "x": 540,
-      "y": 390,
+      "y": 260,
       "width": 320,
       "height": 180,
       "color": "4",
-      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+      "text": "## 🌍 政治・地政学\n\n収集件数: **2件**"
     },
     {
-      "id": "art_geopolitics_ebc8372e",
+      "id": "art_geopolitics_80e80e34",
       "type": "text",
       "x": 940,
-      "y": 330,
+      "y": 200,
       "width": 380,
       "height": 85,
       "color": "6",
-      "text": "**[The SEC Should Block Anthropic's IPO to Protect the Public](https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/)**\n_Score: 70.85_"
+      "text": "**[Supreme Court rejects Trump's request to stop California counting disputed votes](https://www.bbc.co.uk/news/articles/cm5ynekkn5qko)**\n_Score: 70.7_"
     },
     {
-      "id": "art_geopolitics_b5c35a37",
+      "id": "art_geopolitics_e7969eb2",
       "type": "text",
       "x": 940,
-      "y": 430,
+      "y": 300,
       "width": 380,
       "height": 85,
       "color": "6",
-      "text": "**[Legal challenge to Australia's social media ban to start in High Court](https://www.bbc.co.uk/news/articles/ck79py02p1jlo)**\n_Score: 70.85_"
-    },
-    {
-      "id": "art_geopolitics_2e8fef34",
-      "type": "text",
-      "x": 940,
-      "y": 530,
-      "width": 380,
-      "height": 85,
-      "color": "6",
-      "text": "**[Trump to remove Rwanda and South Africa from US trade deal](https://www.bbc.co.uk/news/articles/c9j346xg0mkvo)**\n_Score: 70.85_"
+      "text": "**[Musk pumps $446m into US midterms, as campaign spending set to 'shatter' records](https://www.bbc.co.uk/news/articles/cqkgk64z7p58o)**\n_Score: 70.5_"
     }
   ],
   "edges": [
     {
-      "id": "edge_ent_192b8a59",
+      "id": "edge_ent_1769120f",
       "fromNode": "entities_summary",
       "fromSide": "right",
       "toNode": "root_daily",
@@ -171,101 +141,80 @@
       "label": "関連エンティティ"
     },
     {
-      "id": "edge_cat_e47cc1c6",
+      "id": "edge_cat_f3c9bee6",
       "fromNode": "root_daily",
       "fromSide": "right",
       "toNode": "purpose_ai_research",
       "toSide": "left"
     },
     {
-      "id": "edge_art_4ea678c1",
+      "id": "edge_art_bac10787",
       "fromNode": "purpose_ai_research",
       "fromSide": "right",
-      "toNode": "art_ai_research_510be232",
+      "toNode": "art_ai_research_8851b597",
       "toSide": "left"
     },
     {
-      "id": "edge_art_c42233a8",
+      "id": "edge_art_6a6f5b45",
       "fromNode": "purpose_ai_research",
       "fromSide": "right",
-      "toNode": "art_ai_research_a3b384c6",
+      "toNode": "art_ai_research_6e20b385",
       "toSide": "left"
     },
     {
-      "id": "edge_art_314e4d60",
+      "id": "edge_art_d57a2e8c",
       "fromNode": "purpose_ai_research",
       "fromSide": "right",
-      "toNode": "art_ai_research_c7d70094",
+      "toNode": "art_ai_research_21cd0f4a",
       "toSide": "left"
     },
     {
-      "id": "edge_cat_f6d9d686",
+      "id": "edge_cat_09bdb3a7",
       "fromNode": "root_daily",
       "fromSide": "right",
       "toNode": "purpose_ai_dev_tools",
       "toSide": "left"
     },
     {
-      "id": "edge_art_ec00c35b",
+      "id": "edge_art_07ecf044",
       "fromNode": "purpose_ai_dev_tools",
       "fromSide": "right",
-      "toNode": "art_ai_dev_tools_2c7b34a8",
+      "toNode": "art_ai_dev_tools_e65eceeb",
       "toSide": "left"
     },
     {
-      "id": "edge_art_d46a533d",
+      "id": "edge_art_54ef5b86",
       "fromNode": "purpose_ai_dev_tools",
       "fromSide": "right",
-      "toNode": "art_ai_dev_tools_f8eaf5a8",
+      "toNode": "art_ai_dev_tools_cefe95bc",
       "toSide": "left"
     },
     {
-      "id": "edge_cat_aa0488ed",
-      "fromNode": "root_daily",
+      "id": "edge_art_67e2e2f5",
+      "fromNode": "purpose_ai_dev_tools",
       "fromSide": "right",
-      "toNode": "purpose_business",
+      "toNode": "art_ai_dev_tools_3544e315",
       "toSide": "left"
     },
     {
-      "id": "edge_art_854e2f95",
-      "fromNode": "purpose_business",
-      "fromSide": "right",
-      "toNode": "art_business_45514bfa",
-      "toSide": "left"
-    },
-    {
-      "id": "edge_art_2a004746",
-      "fromNode": "purpose_business",
-      "fromSide": "right",
-      "toNode": "art_business_7f925499",
-      "toSide": "left"
-    },
-    {
-      "id": "edge_cat_27255b7f",
+      "id": "edge_cat_d2ae0cb9",
       "fromNode": "root_daily",
       "fromSide": "right",
       "toNode": "purpose_geopolitics",
       "toSide": "left"
     },
     {
-      "id": "edge_art_0ff64580",
+      "id": "edge_art_a57acf87",
       "fromNode": "purpose_geopolitics",
       "fromSide": "right",
-      "toNode": "art_geopolitics_ebc8372e",
+      "toNode": "art_geopolitics_80e80e34",
       "toSide": "left"
     },
     {
-      "id": "edge_art_d737d67e",
+      "id": "edge_art_94049fc0",
       "fromNode": "purpose_geopolitics",
       "fromSide": "right",
-      "toNode": "art_geopolitics_b5c35a37",
-      "toSide": "left"
-    },
-    {
-      "id": "edge_art_631f15e0",
-      "fromNode": "purpose_geopolitics",
-      "fromSide": "right",
-      "toNode": "art_geopolitics_2e8fef34",
+      "toNode": "art_geopolitics_e7969eb2",
       "toSide": "left"
     }
   ]

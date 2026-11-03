@@ -1,157 +1,139 @@
 {
-  "run_id": "5aa6c570-d769-4757-b4e8-0f567347ec7e",
+  "run_id": "7b11ebdc-fe30-4bd9-a005-93ee70d3b60d",
   "date": "2026-11-03",
-  "started_at": "2026-11-03T01:18:10.367Z",
+  "started_at": "2026-11-03T23:43:05.875Z",
   "articles_ingested": 98,
-  "articles_skipped_evaluated": 0,
+  "articles_skipped_evaluated": 1,
   "articles_scored": 26,
-  "articles_selected": 14,
+  "articles_selected": 12,
   "articles_by_purpose": {
+    "🛠️ 開発ツール・IDE統合": 4,
     "🔬 AI・LLM 研究": 5,
-    "🌍 政治・地政学": 3,
-    "🛠️ 開発ツール・IDE統合": 2,
-    "💼 ビジネス動向": 2
+    "🌍 政治・地政学": 2
   },
   "llm_calls": [
     {
       "phase": "triage",
       "model": "gemini-3.5-flash-lite",
-      "input_tokens": 6568,
-      "output_tokens": 5013,
-      "latency_ms": 9805,
-      "estimated_cost_usd": 0.014503
+      "input_tokens": 6646,
+      "output_tokens": 5044,
+      "latency_ms": 9667,
+      "estimated_cost_usd": 0.014604
     },
     {
       "phase": "map",
       "model": "gemini-3.5-flash-lite",
-      "input_tokens": 396,
-      "output_tokens": 97,
-      "latency_ms": 945,
-      "estimated_cost_usd": 0.000361
+      "input_tokens": 2425,
+      "output_tokens": 252,
+      "latency_ms": 1233,
+      "estimated_cost_usd": 0.001358
     },
     {
       "phase": "map",
       "model": "gemini-3.5-flash-lite",
-      "input_tokens": 853,
-      "output_tokens": 276,
+      "input_tokens": 2543,
+      "output_tokens": 210,
+      "latency_ms": 997,
+      "estimated_cost_usd": 0.001288
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 789,
+      "output_tokens": 226,
+      "latency_ms": 1168,
+      "estimated_cost_usd": 0.000802
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2881,
+      "output_tokens": 221,
+      "latency_ms": 1198,
+      "estimated_cost_usd": 0.001417
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 403,
+      "output_tokens": 88,
+      "latency_ms": 1169,
+      "estimated_cost_usd": 0.000341
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 3247,
+      "output_tokens": 260,
       "latency_ms": 1448,
-      "estimated_cost_usd": 0.000946
+      "estimated_cost_usd": 0.001624
     },
     {
       "phase": "map",
       "model": "gemini-3.5-flash-lite",
-      "input_tokens": 836,
+      "input_tokens": 3122,
+      "output_tokens": 205,
+      "latency_ms": 1231,
+      "estimated_cost_usd": 0.001449
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 3069,
+      "output_tokens": 246,
+      "latency_ms": 1316,
+      "estimated_cost_usd": 0.001536
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 1560,
       "output_tokens": 239,
-      "latency_ms": 1086,
-      "estimated_cost_usd": 0.000848
+      "latency_ms": 1185,
+      "estimated_cost_usd": 0.001066
     },
     {
       "phase": "map",
       "model": "gemini-3.5-flash-lite",
-      "input_tokens": 2345,
-      "output_tokens": 292,
-      "latency_ms": 1294,
-      "estimated_cost_usd": 0.001433
+      "input_tokens": 767,
+      "output_tokens": 179,
+      "latency_ms": 1119,
+      "estimated_cost_usd": 0.000678
     },
     {
       "phase": "map",
       "model": "gemini-3.5-flash-lite",
-      "input_tokens": 398,
-      "output_tokens": 135,
-      "latency_ms": 857,
-      "estimated_cost_usd": 0.000457
-    },
-    {
-      "phase": "map",
-      "model": "gemini-3.5-flash-lite",
-      "input_tokens": 822,
-      "output_tokens": 186,
-      "latency_ms": 1274,
-      "estimated_cost_usd": 0.000712
-    },
-    {
-      "phase": "map",
-      "model": "gemini-3.5-flash-lite",
-      "input_tokens": 770,
-      "output_tokens": 186,
-      "latency_ms": 1521,
-      "estimated_cost_usd": 0.000696
-    },
-    {
-      "phase": "map",
-      "model": "gemini-3.5-flash-lite",
-      "input_tokens": 766,
-      "output_tokens": 189,
-      "latency_ms": 1628,
-      "estimated_cost_usd": 0.000702
-    },
-    {
-      "phase": "map",
-      "model": "gemini-3.5-flash-lite",
-      "input_tokens": 397,
-      "output_tokens": 95,
-      "latency_ms": 1360,
-      "estimated_cost_usd": 0.000357
-    },
-    {
-      "phase": "map",
-      "model": "gemini-3.5-flash-lite",
-      "input_tokens": 1120,
-      "output_tokens": 228,
-      "latency_ms": 1404,
-      "estimated_cost_usd": 0.000906
-    },
-    {
-      "phase": "map",
-      "model": "gemini-3.5-flash-lite",
-      "input_tokens": 830,
-      "output_tokens": 241,
-      "latency_ms": 1437,
-      "estimated_cost_usd": 0.000851
-    },
-    {
-      "phase": "map",
-      "model": "gemini-3.5-flash-lite",
-      "input_tokens": 1190,
-      "output_tokens": 244,
-      "latency_ms": 2084,
-      "estimated_cost_usd": 0.000967
-    },
-    {
-      "phase": "map",
-      "model": "gemini-3.5-flash-lite",
-      "input_tokens": 1406,
+      "input_tokens": 764,
       "output_tokens": 220,
-      "latency_ms": 2145,
-      "estimated_cost_usd": 0.000972
+      "latency_ms": 1252,
+      "estimated_cost_usd": 0.000779
     },
     {
       "phase": "map",
       "model": "gemini-3.5-flash-lite",
-      "input_tokens": 344,
-      "output_tokens": 128,
-      "latency_ms": 1306,
-      "estimated_cost_usd": 0.000423
+      "input_tokens": 1083,
+      "output_tokens": 189,
+      "latency_ms": 1408,
+      "estimated_cost_usd": 0.000797
     },
     {
       "phase": "reduce",
       "model": "gemini-3.5-flash-lite",
-      "input_tokens": 2861,
-      "output_tokens": 1815,
-      "latency_ms": 24767,
-      "estimated_cost_usd": 0.005396
+      "input_tokens": 2643,
+      "output_tokens": 1790,
+      "latency_ms": 5605,
+      "estimated_cost_usd": 0.005268
     }
   ],
   "total_tokens": {
-    "input": 21902,
-    "output": 9584
+    "input": 31942,
+    "output": 9369
   },
-  "total_cost_usd": 0.03053,
+  "total_cost_usd": 0.033007,
   "errors": [
     "Source \"VentureBeat\": Failed to fetch RSS feed [VentureBeat]: Status code 429",
     "Source \"Newsweek World\": Failed to fetch RSS feed [Newsweek World]: Status code 406",
-    "Map failed for https://www.forbes.com/sites/stevemcdowell/2026/11/02/marvells-115-billion-lumentum-deal-could-reshape-ai-networking/: Map response contained no usable facts",
-    "Map failed for https://www.forbes.com/sites/spectrum-business/2026/11/02/why-billion-dollar-ai-systems-are-only-as-fast-as-the-data-feeding-them/: Map response contained no usable facts",
+    "Map failed for https://www.forbes.com/sites/sandycarter/2026/11/03/ai-strategy-lessons-from-coach-walmart-and-a-small-golf-brand/: Map response contained no usable facts",
     "[reduce] google/latest-flash: {\"error\":{\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}}"
   ],
   "sources_status": [
@@ -215,14 +197,14 @@
       "name": "Hacker News Top Stories",
       "type": "hackernews",
       "status": "ok",
-      "article_count": 15,
+      "article_count": 13,
       "failure_streak": 0
     },
     {
       "name": "GitHub Trending (Python)",
       "type": "github_trending",
       "status": "ok",
-      "article_count": 6,
+      "article_count": 13,
       "failure_streak": 0
     },
     {
@@ -252,7 +234,7 @@
       "name": "BBC News World",
       "type": "rss",
       "status": "ok",
-      "article_count": 34,
+      "article_count": 30,
       "failure_streak": 0
     },
     {
@@ -266,7 +248,7 @@
   "extraction": {
     "attempted": 30,
     "failed": 0,
-    "fallback": 2
+    "fallback": 0
   },
   "prompts": {
     "triage": "triage_v1.md@e1c77255",
@@ -277,16 +259,16 @@
     "status": "ok",
     "candidates": 98,
     "kept": 30,
-    "dropped_irrelevant": 60,
+    "dropped_irrelevant": 54,
     "dropped_duplicate": 1,
-    "dropped_over_limit": 7,
+    "dropped_over_limit": 13,
     "batches": 1
   },
-  "map_attempted": 14,
-  "map_succeeded": 12,
-  "quality_score": 97.57142857142857,
+  "map_attempted": 12,
+  "map_succeeded": 11,
+  "quality_score": 98.71428571428571,
   "run_status": "success",
   "status_reasons": [],
-  "finished_at": "2026-11-03T01:23:14.122Z",
-  "duration_ms": 303755
+  "finished_at": "2026-11-03T23:50:18.613Z",
+  "duration_ms": 432738
 }
