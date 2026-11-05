@@ -1,0 +1,255 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-11-05 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n[FrontierPhysics: エンドツーエンドの物理学研究エージェント評価ベンチマークの登場](https://arxiv.org/abs/2611.06910v1)\n\n[出典リンク](https://arxiv.org/abs/2611.06910v1)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/Google|Google]]\n- [[Entities/Anthropic|Anthropic]]\n- [[Entities/Microsoft|Microsoft]]\n- [[Entities/NVIDIA|NVIDIA]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **5件**"
+    },
+    {
+      "id": "art_ai_research_18bda4db",
+      "type": "text",
+      "x": 940,
+      "y": -450,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[FrontierPhysics: Evaluating Agents for End-to-End Physics Research](https://arxiv.org/abs/2611.06910v1)**\n_Score: 80.95_"
+    },
+    {
+      "id": "art_ai_research_e161e266",
+      "type": "text",
+      "x": 940,
+      "y": -350,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement](https://arxiv.org/abs/2611.06905v1)**\n_Score: 80.95_"
+    },
+    {
+      "id": "art_ai_research_04307e9e",
+      "type": "text",
+      "x": 940,
+      "y": -250,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[On Turn-Level Best-of-N Sampling for Scaling LLM Agents](https://arxiv.org/abs/2611.06868v1)**\n_Score: 80.95_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_ai_dev_tools_94e770b0",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[google/skills](https://github.com/google/skills)**\n_Score: 70.8_"
+    },
+    {
+      "id": "art_ai_dev_tools_bc35f611",
+      "type": "text",
+      "x": 940,
+      "y": -90,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)**\n_Score: 70.75_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_business_02b6ecca",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Major tech stocks plunge as US midterms add to fears of AI slowdown](https://www.bbc.co.uk/news/articles/cmn04705rd8jo)**\n_Score: 80.8_"
+    },
+    {
+      "id": "art_business_6d864775",
+      "type": "text",
+      "x": 940,
+      "y": 170,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[The Next AI Infrastructure Battle Is Over The Web](https://www.forbes.com/sites/tiriasresearch/2026/11/05/the-next-ai-infrastructure-battle-is-over-the-web/)**\n_Score: 70.85_"
+    },
+    {
+      "id": "art_business_c3130153",
+      "type": "text",
+      "x": 940,
+      "y": 270,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Edge AI Is Here: Qualcomm’s Dragonwing IOT Day Shared What’s Possible](https://www.forbes.com/sites/maribellopez/2026/11/05/edgeai-is-here-qualcomms-dragonwing-iot-day-shared-whats-possible/)**\n_Score: 70.8_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_geopolitics_f99ca35d",
+      "type": "text",
+      "x": 940,
+      "y": 330,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[With control of Congress, here’s how Democrats could stop Trump’s war in Iran](https://theconversation.com/with-control-of-congress-heres-how-democrats-could-stop-trumps-war-in-iran-295954)**\n_Score: 70.6_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_782b6458",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_b7a6cf33",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_0b58572a",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_18bda4db",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_354e4bd3",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_e161e266",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_ea4ace57",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_04307e9e",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_d645df63",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_9ed81891",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_94e770b0",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_f25d96dd",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_bc35f611",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_ac22b31d",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_0dee5b23",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_02b6ecca",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_1ffb9593",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_6d864775",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_0e51ca99",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_c3130153",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_ebc12645",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_d01c401e",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_f99ca35d",
+      "toSide": "left"
+    }
+  ]
+}
