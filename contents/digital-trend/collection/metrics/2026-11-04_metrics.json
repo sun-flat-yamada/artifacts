@@ -1,0 +1,274 @@
+{
+  "run_id": "6b86eca0-7ebd-4b06-894c-e80ae4e8d77a",
+  "date": "2026-11-04",
+  "started_at": "2026-11-04T23:56:47.329Z",
+  "articles_ingested": 90,
+  "articles_skipped_evaluated": 1,
+  "articles_scored": 26,
+  "articles_selected": 12,
+  "articles_by_purpose": {
+    "🔬 AI・LLM 研究": 5,
+    "🛠️ 開発ツール・IDE統合": 3,
+    "💼 ビジネス動向": 1,
+    "🌍 政治・地政学": 3
+  },
+  "llm_calls": [
+    {
+      "phase": "triage",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 6258,
+      "output_tokens": 4600,
+      "latency_ms": 9608,
+      "estimated_cost_usd": 0.013377
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 846,
+      "output_tokens": 187,
+      "latency_ms": 1371,
+      "estimated_cost_usd": 0.000721
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 812,
+      "output_tokens": 229,
+      "latency_ms": 1395,
+      "estimated_cost_usd": 0.000816
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2660,
+      "output_tokens": 263,
+      "latency_ms": 1482,
+      "estimated_cost_usd": 0.001456
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 867,
+      "output_tokens": 184,
+      "latency_ms": 1150,
+      "estimated_cost_usd": 0.00072
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 1418,
+      "output_tokens": 249,
+      "latency_ms": 1280,
+      "estimated_cost_usd": 0.001048
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 846,
+      "output_tokens": 190,
+      "latency_ms": 1172,
+      "estimated_cost_usd": 0.000729
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 897,
+      "output_tokens": 236,
+      "latency_ms": 1196,
+      "estimated_cost_usd": 0.000859
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 1944,
+      "output_tokens": 296,
+      "latency_ms": 1477,
+      "estimated_cost_usd": 0.001323
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 4315,
+      "output_tokens": 214,
+      "latency_ms": 991,
+      "estimated_cost_usd": 0.00183
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 384,
+      "output_tokens": 121,
+      "latency_ms": 977,
+      "estimated_cost_usd": 0.000418
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 1413,
+      "output_tokens": 226,
+      "latency_ms": 1496,
+      "estimated_cost_usd": 0.000989
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2859,
+      "output_tokens": 238,
+      "latency_ms": 1656,
+      "estimated_cost_usd": 0.001453
+    },
+    {
+      "phase": "reduce",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2886,
+      "output_tokens": 1771,
+      "latency_ms": 5255,
+      "estimated_cost_usd": 0.005293
+    }
+  ],
+  "total_tokens": {
+    "input": 28405,
+    "output": 9004
+  },
+  "total_cost_usd": 0.031031999999999997,
+  "errors": [
+    "Source \"VentureBeat\": Failed to fetch RSS feed [VentureBeat]: Status code 429",
+    "Source \"Newsweek World\": Failed to fetch RSS feed [Newsweek World]: Status code 406",
+    "[reduce] google/latest-flash: {\"error\":{\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}}"
+  ],
+  "sources_status": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "type": "rss",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "enabled: false in config.yml"
+    },
+    {
+      "name": "Bluesky AI Trends",
+      "type": "bluesky",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "enabled: false in config.yml"
+    },
+    {
+      "name": "X (旧Twitter) AI Trends via Grok",
+      "type": "xai_grok",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "X/Grok ingestion is disabled until it uses the x_search tool (generated post URLs cannot be verified)"
+    },
+    {
+      "name": "Reddit r/LocalLLaMA",
+      "type": "reddit",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "enabled: false in config.yml"
+    },
+    {
+      "name": "Reuters Technology",
+      "type": "rss",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "enabled: false in config.yml"
+    },
+    {
+      "name": "Ledge.ai (LEDGE)",
+      "type": "rss",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "enabled: false in config.yml"
+    },
+    {
+      "name": "Raindrop Inbox (手動クリップ)",
+      "type": "raindrop",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "RAINDROP_TEST_TOKEN not set"
+    },
+    {
+      "name": "arXiv AI Papers",
+      "type": "arxiv",
+      "status": "ok",
+      "article_count": 15,
+      "failure_streak": 0
+    },
+    {
+      "name": "Hacker News Top Stories",
+      "type": "hackernews",
+      "status": "ok",
+      "article_count": 14,
+      "failure_streak": 0
+    },
+    {
+      "name": "GitHub Trending (Python)",
+      "type": "github_trending",
+      "status": "ok",
+      "article_count": 10,
+      "failure_streak": 0
+    },
+    {
+      "name": "VentureBeat",
+      "type": "rss",
+      "status": "error",
+      "article_count": 0,
+      "failure_streak": 14,
+      "error_message": "Failed to fetch RSS feed [VentureBeat]: Status code 429"
+    },
+    {
+      "name": "Forbes Tech",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 25,
+      "failure_streak": 0
+    },
+    {
+      "name": "Newsweek World",
+      "type": "rss",
+      "status": "error",
+      "article_count": 0,
+      "failure_streak": 6,
+      "error_message": "Failed to fetch RSS feed [Newsweek World]: Status code 406"
+    },
+    {
+      "name": "BBC News World",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 23,
+      "failure_streak": 0
+    },
+    {
+      "name": "The Conversation Global",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 4,
+      "failure_streak": 0
+    }
+  ],
+  "extraction": {
+    "attempted": 30,
+    "failed": 0,
+    "fallback": 0
+  },
+  "prompts": {
+    "triage": "triage_v1.md@e1c77255",
+    "map": "map_v1.md@4a8618b4",
+    "reduce": "reduce_ja_v1.md@417380db"
+  },
+  "triage": {
+    "status": "ok",
+    "candidates": 90,
+    "kept": 30,
+    "dropped_irrelevant": 33,
+    "dropped_duplicate": 2,
+    "dropped_over_limit": 25,
+    "batches": 1
+  },
+  "map_attempted": 12,
+  "map_succeeded": 12,
+  "quality_score": 98.85714285714286,
+  "run_status": "success",
+  "status_reasons": [],
+  "finished_at": "2026-11-05T00:01:20.582Z",
+  "duration_ms": 273253
+}

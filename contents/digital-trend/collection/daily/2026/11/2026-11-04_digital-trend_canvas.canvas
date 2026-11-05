@@ -1,0 +1,272 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-11-04 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n[Suppressing Misaligned Behaviors in Language Models, Durably](https://arxiv.org/abs/2611.05358v1)\n\n[出典リンク](https://arxiv.org/abs/2611.05358v1)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/OpenAI|OpenAI]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/GPT|GPT]]\n- [[Technologies/MoE|MoE]]\n- [[Technologies/attention|attention]]\n- [[Technologies/agentic|agentic]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **5件**"
+    },
+    {
+      "id": "art_ai_research_a6ab6b9c",
+      "type": "text",
+      "x": 940,
+      "y": -450,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Suppressing Misaligned Behaviors in Language Models, Durably](https://arxiv.org/abs/2611.05358v1)**\n_Score: 80.95_"
+    },
+    {
+      "id": "art_ai_research_7c477ebf",
+      "type": "text",
+      "x": 940,
+      "y": -350,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Adversarial Speculative Reasoning Improves Long Horizon Agents](https://arxiv.org/abs/2611.05345v1)**\n_Score: 80.95_"
+    },
+    {
+      "id": "art_ai_research_38c9578c",
+      "type": "text",
+      "x": 940,
+      "y": -250,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[A Circuit for In-Context Learning](https://arxiv.org/abs/2611.05344v1)**\n_Score: 80.95_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_ai_dev_tools_8ad616b5",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Anil-matcha/open-duet](https://github.com/Anil-matcha/open-duet)**\n_Score: 80.95_"
+    },
+    {
+      "id": "art_ai_dev_tools_5b34811c",
+      "type": "text",
+      "x": 940,
+      "y": -90,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding](https://www.ricursive.com/ripple)**\n_Score: 80.9_"
+    },
+    {
+      "id": "art_ai_dev_tools_e9f9f9bb",
+      "type": "text",
+      "x": 940,
+      "y": 10,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Oracle Deep Trust AI Brings Agent Governance To The Database](https://www.forbes.com/sites/stevemcdowell/2026/11/04/oracle-deep-trust-ai-brings-agent-governance-to-the-database/)**\n_Score: 80.9_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_business_6ae380fc",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[OpenAI to acquire Pierre Computer Company](https://openai.com/index/openai-to-acquire-pierre/)**\n_Score: 80.9_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_c46e6d9d",
+      "type": "text",
+      "x": 940,
+      "y": 330,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Donald Trump’s Republicans suffer landslide defeat – what this means for the world](https://theconversation.com/donald-trumps-republicans-suffer-landslide-defeat-what-this-means-for-the-world-295769)**\n_Score: 80.9_"
+    },
+    {
+      "id": "art_geopolitics_73cecb0a",
+      "type": "text",
+      "x": 940,
+      "y": 430,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[US midterm results a 'victory' for Canadians hopeful of tariff relief](https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo)**\n_Score: 70.85_"
+    },
+    {
+      "id": "art_geopolitics_4eb74b0c",
+      "type": "text",
+      "x": 940,
+      "y": 530,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Iran's chief negotiator says Americans voted 'no to war'](https://www.bbc.co.uk/news/articles/c6d934npl9y8o)**\n_Score: 70.85_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_32084198",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_7e389d27",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_a99da688",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_a6ab6b9c",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_b9166b8a",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_7c477ebf",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_935159fc",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_38c9578c",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_7c772dd2",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_a45cae2c",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_8ad616b5",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_1469a2d3",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_5b34811c",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_75444171",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_e9f9f9bb",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_34f915d6",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_b86b9e11",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_6ae380fc",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_109fc7a5",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_58e52ad3",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_c46e6d9d",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_f713e6d1",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_73cecb0a",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_4cab90b5",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_4eb74b0c",
+      "toSide": "left"
+    }
+  ]
+}
