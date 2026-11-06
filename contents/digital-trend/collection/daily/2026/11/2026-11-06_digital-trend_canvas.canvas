@@ -1,0 +1,255 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-11-06 デイリートレンド\n\n**🔥 本日の最重要ニュース**\nSwarmEvolve: 潜在空間KVキャッシュ共有による進化的エージェント群の探索・最適化\n\n[出典リンク](https://arxiv.org/abs/2611.08483v1)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/Google|Google]]\n- [[Entities/Anthropic|Anthropic]]\n- [[Entities/NVIDIA|NVIDIA]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/GPT|GPT]]\n- [[Technologies/RAG|RAG]]\n- [[Technologies/embedding|embedding]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **5件**"
+    },
+    {
+      "id": "art_ai_research_635b0604",
+      "type": "text",
+      "x": 940,
+      "y": -450,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization](https://arxiv.org/abs/2611.08483v1)**\n_Score: 80.9_"
+    },
+    {
+      "id": "art_ai_research_0f718410",
+      "type": "text",
+      "x": 940,
+      "y": -350,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Unpacking the Compute Efficiency of Strong-to-Weak OPD against GRPO](https://arxiv.org/abs/2611.08453v1)**\n_Score: 80.9_"
+    },
+    {
+      "id": "art_ai_research_d6adeaa0",
+      "type": "text",
+      "x": 940,
+      "y": -250,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[User Embeddings are Superpositions of Interpretable Behavioral Modes](https://arxiv.org/abs/2611.08487v1)**\n_Score: 70.85_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_ai_dev_tools_8c0c55b9",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)**\n_Score: 70.85_"
+    },
+    {
+      "id": "art_ai_dev_tools_44996bd5",
+      "type": "text",
+      "x": 940,
+      "y": -90,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[mlflow/mlflow](https://github.com/mlflow/mlflow)**\n_Score: 70.85_"
+    },
+    {
+      "id": "art_ai_dev_tools_fb1ed3ed",
+      "type": "text",
+      "x": 940,
+      "y": 10,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[pipeshub-ai/pipeshub-ai](https://github.com/pipeshub-ai/pipeshub-ai)**\n_Score: 70.8_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_business_0a8b4e1e",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Anthropic IPO buyers see valuation as low as $1.1T](https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout)**\n_Score: 80.75_"
+    },
+    {
+      "id": "art_business_da531674",
+      "type": "text",
+      "x": 940,
+      "y": 170,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[AI stocks climb after trillions wiped from market values](https://www.bbc.co.uk/news/articles/c35ynnpzdq51o)**\n_Score: 70.75_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_geopolitics_90532efc",
+      "type": "text",
+      "x": 940,
+      "y": 330,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Don’t Be Mean To Claude: And Other New Rules From Anthropic](https://www.forbes.com/sites/johnwerner/2026/11/06/dont-be-mean-to-claude-and-other-new-rules-from-anthropic/)**\n_Score: 60.8_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_d558f52b",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_161e54c6",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_b816c3e1",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_635b0604",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_a5da8371",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_0f718410",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_43d221bc",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_d6adeaa0",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_df2991fa",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_aaff8c0b",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_8c0c55b9",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_110c20c5",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_44996bd5",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_42ca3719",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_fb1ed3ed",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_f98ee947",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_947e0d69",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_0a8b4e1e",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_e5ad5eb9",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_da531674",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_026ede06",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_a024dcc8",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_90532efc",
+      "toSide": "left"
+    }
+  ]
+}
