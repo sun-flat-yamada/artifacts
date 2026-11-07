@@ -1,0 +1,153 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-11-07 デイリートレンド\n\n**🔥 本日の最重要ニュース**\nマイクロソフトが「AI Frontiers」研究グループを解体・再編：スケーリング至上主義へのシフトが示唆する基盤技術研究の転換点\n\n[出典リンク](https://www.bbc.co.uk/news/articles/c6d091ev3p0jo)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/OpenAI|OpenAI]]\n- [[Entities/Microsoft|Microsoft]]\n- [[Entities/AWS|AWS]]\n\n### ⚙️ 注目技術\n- [[Technologies/transformer|transformer]]\n- [[Technologies/LLM|LLM]]"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_business_9bb4afcc",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[The end of Microsoft Research's AI Frontiers group](https://hunch.net/?p=13764006)**\n_Score: 70.75_"
+    },
+    {
+      "id": "art_business_3bb3e5c9",
+      "type": "text",
+      "x": 940,
+      "y": -90,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Figure CEO Brett Adcock: Every Major Announcement From Company Meeting](https://www.forbes.com/sites/johnkoetsier/2026/11/06/figure-ceo-brett-adcock-every-major-announcement-from-company-meeting/)**\n_Score: 70.75_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_1ff3f64e",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[US offers $20m reward for information about Iran's nuclear programme](https://www.bbc.co.uk/news/articles/c6d091ev3p0jo)**\n_Score: 80.85_"
+    },
+    {
+      "id": "art_geopolitics_23ef1454",
+      "type": "text",
+      "x": 940,
+      "y": 170,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Houthis say at least 25 killed in Saudi air strike](https://www.bbc.co.uk/news/articles/c65yn1v99ypmo)**\n_Score: 70.8_"
+    },
+    {
+      "id": "art_geopolitics_e01e7984",
+      "type": "text",
+      "x": 940,
+      "y": 270,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[UK cannot 'cherry pick' EU single market deal, Barnier tells BBC](https://www.bbc.co.uk/news/articles/c9kgjj206nzpo)**\n_Score: 70.8_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_a01a1e86",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_9f8e042d",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_f2bdd703",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_9bb4afcc",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_2a327a1d",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_3bb3e5c9",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_8cb7de49",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_0a86a3e7",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_1ff3f64e",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_acb7f1b1",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_23ef1454",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_34559a8d",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_e01e7984",
+      "toSide": "left"
+    }
+  ]
+}

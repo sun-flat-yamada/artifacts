@@ -1,0 +1,233 @@
+{
+  "run_id": "23e00ef7-cde6-4689-91ff-1cec5e13f41d",
+  "date": "2026-11-07",
+  "started_at": "2026-11-07T22:19:35.132Z",
+  "articles_ingested": 87,
+  "articles_skipped_evaluated": 12,
+  "articles_scored": 23,
+  "articles_selected": 7,
+  "articles_by_purpose": {
+    "🌍 政治・地政学": 3,
+    "💼 ビジネス動向": 2
+  },
+  "llm_calls": [
+    {
+      "phase": "triage",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 5978,
+      "output_tokens": 4352,
+      "latency_ms": 8241,
+      "estimated_cost_usd": 0.012673
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2897,
+      "output_tokens": 188,
+      "latency_ms": 1204,
+      "estimated_cost_usd": 0.001339
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 1438,
+      "output_tokens": 206,
+      "latency_ms": 1147,
+      "estimated_cost_usd": 0.000946
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2900,
+      "output_tokens": 205,
+      "latency_ms": 1097,
+      "estimated_cost_usd": 0.001382
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2954,
+      "output_tokens": 189,
+      "latency_ms": 1057,
+      "estimated_cost_usd": 0.001359
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 384,
+      "output_tokens": 126,
+      "latency_ms": 877,
+      "estimated_cost_usd": 0.00043
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 385,
+      "output_tokens": 88,
+      "latency_ms": 1021,
+      "estimated_cost_usd": 0.000335
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 389,
+      "output_tokens": 90,
+      "latency_ms": 1604,
+      "estimated_cost_usd": 0.000342
+    },
+    {
+      "phase": "reduce",
+      "model": "gemini-3.8-flash",
+      "input_tokens": 1457,
+      "output_tokens": 2126,
+      "latency_ms": 160531,
+      "estimated_cost_usd": 0.009065
+    }
+  ],
+  "total_tokens": {
+    "input": 18782,
+    "output": 7570
+  },
+  "total_cost_usd": 0.027870999999999996,
+  "errors": [
+    "Source \"VentureBeat\": Failed to fetch RSS feed [VentureBeat]: Status code 429",
+    "Source \"Newsweek World\": Failed to fetch RSS feed [Newsweek World]: Status code 406",
+    "Map failed for https://www.forbes.com/sites/murtuza-merchant/2026/11/06/banks-face-crypto-security-checks-after-binances-6-billion-hack/: Map response contained no usable facts",
+    "Map failed for https://www.forbes.com/sites/stevebanker/2026/11/07/coherent-moves-trade-compliance-ai-agents-to-the-front-of-the-process/: Map response contained no usable facts"
+  ],
+  "sources_status": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "type": "rss",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "enabled: false in config.yml"
+    },
+    {
+      "name": "Bluesky AI Trends",
+      "type": "bluesky",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "enabled: false in config.yml"
+    },
+    {
+      "name": "X (旧Twitter) AI Trends via Grok",
+      "type": "xai_grok",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "X/Grok ingestion is disabled until it uses the x_search tool (generated post URLs cannot be verified)"
+    },
+    {
+      "name": "Reddit r/LocalLLaMA",
+      "type": "reddit",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "enabled: false in config.yml"
+    },
+    {
+      "name": "Reuters Technology",
+      "type": "rss",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "enabled: false in config.yml"
+    },
+    {
+      "name": "Ledge.ai (LEDGE)",
+      "type": "rss",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "enabled: false in config.yml"
+    },
+    {
+      "name": "Raindrop Inbox (手動クリップ)",
+      "type": "raindrop",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "RAINDROP_TEST_TOKEN not set"
+    },
+    {
+      "name": "arXiv AI Papers",
+      "type": "arxiv",
+      "status": "ok",
+      "article_count": 10,
+      "failure_streak": 0
+    },
+    {
+      "name": "Hacker News Top Stories",
+      "type": "hackernews",
+      "status": "ok",
+      "article_count": 15,
+      "failure_streak": 0
+    },
+    {
+      "name": "GitHub Trending (Python)",
+      "type": "github_trending",
+      "status": "ok",
+      "article_count": 11,
+      "failure_streak": 0
+    },
+    {
+      "name": "VentureBeat",
+      "type": "rss",
+      "status": "error",
+      "article_count": 0,
+      "failure_streak": 14,
+      "error_message": "Failed to fetch RSS feed [VentureBeat]: Status code 429"
+    },
+    {
+      "name": "Forbes Tech",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 25,
+      "failure_streak": 0
+    },
+    {
+      "name": "Newsweek World",
+      "type": "rss",
+      "status": "error",
+      "article_count": 0,
+      "failure_streak": 9,
+      "error_message": "Failed to fetch RSS feed [Newsweek World]: Status code 406"
+    },
+    {
+      "name": "BBC News World",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 23,
+      "failure_streak": 0
+    },
+    {
+      "name": "The Conversation Global",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 15,
+      "failure_streak": 0
+    }
+  ],
+  "extraction": {
+    "attempted": 26,
+    "failed": 0,
+    "fallback": 3
+  },
+  "prompts": {
+    "triage": "triage_v1.md@e1c77255",
+    "map": "map_v1.md@4a8618b4",
+    "reduce": "reduce_ja_v1.md@417380db"
+  },
+  "triage": {
+    "status": "ok",
+    "candidates": 87,
+    "kept": 26,
+    "dropped_irrelevant": 60,
+    "dropped_duplicate": 1,
+    "dropped_over_limit": 0,
+    "batches": 1
+  },
+  "map_attempted": 7,
+  "map_succeeded": 5,
+  "quality_score": 100,
+  "run_status": "success",
+  "status_reasons": [],
+  "finished_at": "2026-11-07T22:24:49.450Z",
+  "duration_ms": 314318
+}
