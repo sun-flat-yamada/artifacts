@@ -1,0 +1,170 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-11-08 デイリートレンド\n\n**🔥 本日の最重要ニュース**\nゴールドマン・サックスが非エンジニアの「Claude Code」利用を禁止：自律型AIコーディングツールの統制とシャドーITリスクの境界線\n\n[出典リンク](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/Anthropic|Anthropic]]\n- [[Entities/Microsoft|Microsoft]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/transformer|transformer]]\n- [[Technologies/LLM|LLM]]\n- [[Technologies/RAG|RAG]]\n- [[Technologies/MoE|MoE]]\n- [[Technologies/quantization|quantization]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_ai_research_2756de2e",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip)**\n_Score: 70.85_"
+    },
+    {
+      "id": "art_ai_research_120751a1",
+      "type": "text",
+      "x": 940,
+      "y": -90,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[MaxxBench – \"Nice DeepSWE score. But is it true?\"](https://maxxbench.unlap.ai/research/why-maxxbench/)**\n_Score: 70.85_"
+    },
+    {
+      "id": "art_ai_research_220807b1",
+      "type": "text",
+      "x": 940,
+      "y": 10,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[neuml/txtai](https://github.com/neuml/txtai)**\n_Score: 60.85_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **4件**"
+    },
+    {
+      "id": "art_ai_dev_tools_a523a407",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Goldman Sachs is pulling Claude Code from its bankers and traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers)**\n_Score: 80.9_"
+    },
+    {
+      "id": "art_ai_dev_tools_68715db1",
+      "type": "text",
+      "x": 940,
+      "y": 170,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again)**\n_Score: 80.9_"
+    },
+    {
+      "id": "art_ai_dev_tools_a14dcbe5",
+      "type": "text",
+      "x": 940,
+      "y": 270,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent)**\n_Score: 80.9_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_14ac6e47",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_3a0e1bf2",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_ac290767",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_2756de2e",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_b91fbd1a",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_120751a1",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_1ebab716",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_220807b1",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_f3a41e8e",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_e9eefe38",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_a523a407",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_90c8b5be",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_68715db1",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_c7ad7a37",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_a14dcbe5",
+      "toSide": "left"
+    }
+  ]
+}
