@@ -8,7 +8,7 @@
       "width": 440,
       "height": 220,
       "color": "1",
-      "text": "# 📅 2026-11-10 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n[Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far](https://artificialanalysis.ai/models/claude-fable-5-2)\n\n[出典リンク](https://artificialanalysis.ai/models/claude-fable-5-2)"
+      "text": "# 📅 2026-11-10 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n[Anthropic IPO Targets $1.3 Trillion Valuation And A $90 Billion Raise](https://www.forbes.com/sites/gabrielalinzainescu/2026/11/10/anthropic-ipo-targets-13-trillion-valuation-904-billion-raise/)\n\n[出典リンク](https://www.forbes.com/sites/gabrielalinzainescu/2026/11/10/anthropic-ipo-targets-13-trillion-valuation-904-billion-raise/)"
     },
     {
       "id": "entities_summary",
@@ -18,7 +18,7 @@
       "width": 380,
       "height": 320,
       "color": "3",
-      "text": "### 🏢 注目企業\n- [[Entities/NVIDIA|NVIDIA]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/agentic|agentic]]"
+      "text": "### 🏢 注目企業\n- [[Entities/OpenAI|OpenAI]]\n- [[Entities/Google|Google]]\n- [[Entities/Anthropic|Anthropic]]\n- [[Entities/NVIDIA|NVIDIA]]\n- [[Entities/DeepMind|DeepMind]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/Kubernetes|Kubernetes]]\n- [[Technologies/Docker|Docker]]"
     },
     {
       "id": "purpose_ai_research",
@@ -31,34 +31,34 @@
       "text": "## 🔬 AI・LLM 研究\n\n収集件数: **5件**"
     },
     {
-      "id": "art_ai_research_d3891215",
+      "id": "art_ai_research_5b214662",
       "type": "text",
       "x": 940,
       "y": -450,
       "width": 380,
       "height": 85,
       "color": "6",
-      "text": "**[Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far](https://artificialanalysis.ai/models/claude-fable-5-2)**\n_Score: 80.9_"
+      "text": "**[What the Loss Curve Misses: FP4 Pretraining Slows the Acquisition of Rare Facts](https://arxiv.org/abs/2611.12832v1)**\n_Score: 80.95_"
     },
     {
-      "id": "art_ai_research_97c1bcf2",
+      "id": "art_ai_research_2e8e3e0b",
       "type": "text",
       "x": 940,
       "y": -350,
       "width": 380,
       "height": 85,
       "color": "6",
-      "text": "**[On Agentic Manipulation Policies](https://arxiv.org/abs/2611.09892v1)**\n_Score: 70.95_"
+      "text": "**[AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/)**\n_Score: 80.8_"
     },
     {
-      "id": "art_ai_research_45c5a2d0",
+      "id": "art_ai_research_70e15f18",
       "type": "text",
       "x": 940,
       "y": -250,
       "width": 380,
       "height": 85,
       "color": "6",
-      "text": "**[CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse](https://arxiv.org/abs/2611.09891v1)**\n_Score: 70.95_"
+      "text": "**[Guiding Data Allocation for Robust Subpopulation Generalization](https://arxiv.org/abs/2611.12884v1)**\n_Score: 70.95_"
     },
     {
       "id": "purpose_ai_dev_tools",
@@ -68,27 +68,37 @@
       "width": 320,
       "height": 180,
       "color": "4",
-      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **2件**"
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **4件**"
     },
     {
-      "id": "art_ai_dev_tools_3eadffdd",
+      "id": "art_ai_dev_tools_f5013cb1",
       "type": "text",
       "x": 940,
       "y": -190,
       "width": 380,
       "height": 85,
       "color": "6",
-      "text": "**[Is Opus 5.5 nerfed? Thinking patterns changed on November 3](https://twitter.com/shanemelaugh/status/2119192075505893695)**\n_Score: 70.85_"
+      "text": "**[homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp)**\n_Score: 70.9_"
     },
     {
-      "id": "art_ai_dev_tools_4b66815a",
+      "id": "art_ai_dev_tools_13cd30b2",
       "type": "text",
       "x": 940,
       "y": -90,
       "width": 380,
       "height": 85,
       "color": "6",
-      "text": "**[How TD SYNNEX Is Preparing Employees To Work Alongside AI Agents](https://www.forbes.com/sites/peterhigh/2026/11/09/how-td-synnex-is-preparing-employees-to-work-alongside-ai-agents/)**\n_Score: 70.85_"
+      "text": "**[opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox)**\n_Score: 70.9_"
+    },
+    {
+      "id": "art_ai_dev_tools_84a36a1e",
+      "type": "text",
+      "x": 940,
+      "y": 10,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)**\n_Score: 60.85_"
     },
     {
       "id": "purpose_business",
@@ -101,24 +111,24 @@
       "text": "## 💼 ビジネス動向\n\n収集件数: **2件**"
     },
     {
-      "id": "art_business_264f2712",
+      "id": "art_business_5db8195f",
       "type": "text",
       "x": 940,
       "y": 70,
       "width": 380,
       "height": 85,
       "color": "6",
-      "text": "**[Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy](https://www.bbc.co.uk/news/articles/c6zxjx01vyleo)**\n_Score: 80.85_"
+      "text": "**[Anthropic IPO Targets $1.3 Trillion Valuation And A $90 Billion Raise](https://www.forbes.com/sites/gabrielalinzainescu/2026/11/10/anthropic-ipo-targets-13-trillion-valuation-904-billion-raise/)**\n_Score: 90.95_"
     },
     {
-      "id": "art_business_ce95fe2f",
+      "id": "art_business_e6c1553b",
       "type": "text",
       "x": 940,
       "y": 170,
       "width": 380,
       "height": 85,
       "color": "6",
-      "text": "**[Galaxy S27 Price: Samsung's Extra AI Subscription Was Always The Plan](https://www.forbes.com/sites/jaymcgregor/2026/11/09/samsung-galaxy-s27-price-galaxy-ai-premium-subscription-cost/)**\n_Score: 70.85_"
+      "text": "**[Why is Nvidia so powerful in the AI world, and what could Jensen Huang’s scandal really cost?](https://theconversation.com/why-is-nvidia-so-powerful-in-the-ai-world-and-what-could-jensen-huangs-scandal-really-cost-296257)**\n_Score: 70.85_"
     },
     {
       "id": "purpose_geopolitics",
@@ -128,42 +138,32 @@
       "width": 320,
       "height": 180,
       "color": "4",
-      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+      "text": "## 🌍 政治・地政学\n\n収集件数: **2件**"
     },
     {
-      "id": "art_geopolitics_2ae4402b",
+      "id": "art_geopolitics_4379194c",
       "type": "text",
       "x": 940,
       "y": 330,
       "width": 380,
       "height": 85,
       "color": "6",
-      "text": "**[Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy](https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o)**\n_Score: 80.8_"
+      "text": "**[Australia considers criminal penalties for rogue AI in wake of OpenAI hack ](https://www.bbc.co.uk/news/articles/cmp3g37l566po)**\n_Score: 80.95_"
     },
     {
-      "id": "art_geopolitics_07dd255b",
+      "id": "art_geopolitics_aaea7526",
       "type": "text",
       "x": 940,
       "y": 430,
       "width": 380,
       "height": 85,
       "color": "6",
-      "text": "**[The superpower battle over energy – and what it means for your bills](https://www.bbc.co.uk/news/articles/cw62y2z53pg1o)**\n_Score: 80.8_"
-    },
-    {
-      "id": "art_geopolitics_0106d198",
-      "type": "text",
-      "x": 940,
-      "y": 530,
-      "width": 380,
-      "height": 85,
-      "color": "6",
-      "text": "**[Republican congressman to force impeachment vote on Defence Secretary Hegseth](https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro)**\n_Score: 70.8_"
+      "text": "**[Nvidia hires major US law firm to investigate alleged Chinese spy affair](https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go)**\n_Score: 80.85_"
     }
   ],
   "edges": [
     {
-      "id": "edge_ent_75b6f4b8",
+      "id": "edge_ent_62599688",
       "fromNode": "entities_summary",
       "fromSide": "right",
       "toNode": "root_daily",
@@ -171,101 +171,101 @@
       "label": "関連エンティティ"
     },
     {
-      "id": "edge_cat_7a4f06f7",
+      "id": "edge_cat_a311a0bd",
       "fromNode": "root_daily",
       "fromSide": "right",
       "toNode": "purpose_ai_research",
       "toSide": "left"
     },
     {
-      "id": "edge_art_ba91d26b",
+      "id": "edge_art_b305f9e0",
       "fromNode": "purpose_ai_research",
       "fromSide": "right",
-      "toNode": "art_ai_research_d3891215",
+      "toNode": "art_ai_research_5b214662",
       "toSide": "left"
     },
     {
-      "id": "edge_art_6f4fd396",
+      "id": "edge_art_ff42137b",
       "fromNode": "purpose_ai_research",
       "fromSide": "right",
-      "toNode": "art_ai_research_97c1bcf2",
+      "toNode": "art_ai_research_2e8e3e0b",
       "toSide": "left"
     },
     {
-      "id": "edge_art_afc0375b",
+      "id": "edge_art_f8042d63",
       "fromNode": "purpose_ai_research",
       "fromSide": "right",
-      "toNode": "art_ai_research_45c5a2d0",
+      "toNode": "art_ai_research_70e15f18",
       "toSide": "left"
     },
     {
-      "id": "edge_cat_7bb80f61",
+      "id": "edge_cat_333a6bd5",
       "fromNode": "root_daily",
       "fromSide": "right",
       "toNode": "purpose_ai_dev_tools",
       "toSide": "left"
     },
     {
-      "id": "edge_art_a57443e9",
+      "id": "edge_art_67d122f4",
       "fromNode": "purpose_ai_dev_tools",
       "fromSide": "right",
-      "toNode": "art_ai_dev_tools_3eadffdd",
+      "toNode": "art_ai_dev_tools_f5013cb1",
       "toSide": "left"
     },
     {
-      "id": "edge_art_57ad43cf",
+      "id": "edge_art_db8d9cdc",
       "fromNode": "purpose_ai_dev_tools",
       "fromSide": "right",
-      "toNode": "art_ai_dev_tools_4b66815a",
+      "toNode": "art_ai_dev_tools_13cd30b2",
       "toSide": "left"
     },
     {
-      "id": "edge_cat_765c8a72",
+      "id": "edge_art_1af8e42a",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_84a36a1e",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_116ae4d4",
       "fromNode": "root_daily",
       "fromSide": "right",
       "toNode": "purpose_business",
       "toSide": "left"
     },
     {
-      "id": "edge_art_cdba49f1",
+      "id": "edge_art_80b5a855",
       "fromNode": "purpose_business",
       "fromSide": "right",
-      "toNode": "art_business_264f2712",
+      "toNode": "art_business_5db8195f",
       "toSide": "left"
     },
     {
-      "id": "edge_art_06d1155b",
+      "id": "edge_art_a8745e70",
       "fromNode": "purpose_business",
       "fromSide": "right",
-      "toNode": "art_business_ce95fe2f",
+      "toNode": "art_business_e6c1553b",
       "toSide": "left"
     },
     {
-      "id": "edge_cat_ec9013a1",
+      "id": "edge_cat_efd28115",
       "fromNode": "root_daily",
       "fromSide": "right",
       "toNode": "purpose_geopolitics",
       "toSide": "left"
     },
     {
-      "id": "edge_art_b52077db",
+      "id": "edge_art_1e45e6d6",
       "fromNode": "purpose_geopolitics",
       "fromSide": "right",
-      "toNode": "art_geopolitics_2ae4402b",
+      "toNode": "art_geopolitics_4379194c",
       "toSide": "left"
     },
     {
-      "id": "edge_art_43b39cc0",
+      "id": "edge_art_9b39d18b",
       "fromNode": "purpose_geopolitics",
       "fromSide": "right",
-      "toNode": "art_geopolitics_07dd255b",
-      "toSide": "left"
-    },
-    {
-      "id": "edge_art_350e8371",
-      "fromNode": "purpose_geopolitics",
-      "fromSide": "right",
-      "toNode": "art_geopolitics_0106d198",
+      "toNode": "art_geopolitics_aaea7526",
       "toSide": "left"
     }
   ]

@@ -9,34 +9,36 @@ generated_by: digital-trend-flow
 ### 📈 上昇トレンド
 - **paper**: 18日で言及（前半 7 → 後半 11）
 - **transformer**: 11日で言及（前半 4 → 後半 7）
-- **summit**: 8日で言及（前半 3 → 後半 5）
+- **IDE**: 7日で言及（前半 2 → 後半 5）
 - **Microsoft**: 7日で言及（前半 2 → 後半 5）
-- **IDE**: 6日で言及（前半 2 → 後半 4）
 - **AWS**: 4日で言及（前半 1 → 後半 3）
 - **Amazon**: 3日で言及（前半 1 → 後半 2）
+- **Kubernetes**: 3日で言及（前半 1 → 後半 2）
 
 ### 🆕 新規トピック
-- **IPO**: 5日で言及（期間の後半に初出）
+- **IPO**: 6日で言及（期間の後半に初出）
+- **valuation**: 3日で言及（期間の後半に初出）
 - **acquisition**: 2日で言及（期間の後半に初出）
-- **valuation**: 2日で言及（期間の後半に初出）
+- **Docker**: 2日で言及（期間の後半に初出）
+- **funding**: 2日で言及（期間の後半に初出）
 
 ### 📉 下降トレンド
 - **sanctions**: 14日で言及（前半 10 → 後半 4）
 - **fine-tuning**: 9日で言及（前半 7 → 後半 2）
-- **agentic**: 7日で言及（前半 5 → 後半 2）
+- **agentic**: 6日で言及（前半 5 → 後半 1）
 - **Meta**: 5日で言及（前半 4 → 後半 1）
 - **BERT**: 3日で言及（前半 3 → 後半 0）
 
 ## 🔑 キーワード追加の候補
 | 語 | 記事数 | 比率 | 目的 | 重み |
 |:---|:---:|:---:|:---|:---:|
-| Learning | 11 | 3.7 | ai_research | 8 |
-| Modeling | 6 | 6.5 | ai_research | 8 |
-| Reasoning | 7 | 3.7 | ai_research | 8 |
-| language | 8 | 2.8 | ai_research | 8 |
-| Robot | 5 | 5.6 | ai_research | 8 |
-| Agentic | 7 | 2.5 | ai_research | 8 |
-| Model | 7 | 2.5 | ai_research | 8 |
+| Learning | 12 | 3.9 | ai_research | 8 |
+| Reasoning | 8 | 4.1 | ai_research | 8 |
+| Agentic | 9 | 3 | ai_research | 8 |
+| Modeling | 6 | 6.4 | ai_research | 8 |
+| language | 8 | 2.7 | ai_research | 8 |
+| Robot | 5 | 5.5 | ai_research | 8 |
+| Model | 7 | 2.4 | ai_research | 8 |
 | Canadian | 4 | 4.6 | geopolitics | 6 |
 | generation | 4 | 4.6 | ai_research | 8 |
 | Humanoid | 4 | 4.6 | ai_research | 8 |
