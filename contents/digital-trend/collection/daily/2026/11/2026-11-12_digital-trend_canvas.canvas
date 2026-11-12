@@ -1,0 +1,204 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-11-12 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n[Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says](https://www.bbc.co.uk/news/articles/c3rryrryk59zo)\n\n[出典リンク](https://www.bbc.co.uk/news/articles/c3rryrryk59zo)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/Apple|Apple]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **5件**"
+    },
+    {
+      "id": "art_ai_research_226550c7",
+      "type": "text",
+      "x": 940,
+      "y": -320,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models](https://arxiv.org/abs/2611.14515v1)**\n_Score: 70.96_"
+    },
+    {
+      "id": "art_ai_research_26ced3cd",
+      "type": "text",
+      "x": 940,
+      "y": -220,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training](https://arxiv.org/abs/2611.14519v1)**\n_Score: 70.95_"
+    },
+    {
+      "id": "art_ai_research_c74c4c7f",
+      "type": "text",
+      "x": 940,
+      "y": -120,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations](https://arxiv.org/abs/2611.14514v1)**\n_Score: 70.95_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": 0,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_ai_dev_tools_7d5aca12",
+      "type": "text",
+      "x": 940,
+      "y": -60,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Apple has new Mac app coming to make running local AI models easy](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/)**\n_Score: 70.8_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_bd85b960",
+      "type": "text",
+      "x": 940,
+      "y": 200,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says](https://www.bbc.co.uk/news/articles/c3rryrryk59zo)**\n_Score: 80.82_"
+    },
+    {
+      "id": "art_geopolitics_bc74fc6d",
+      "type": "text",
+      "x": 940,
+      "y": 300,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Russia-Ukraine talks turn to post-war security but end without breakthrough](https://www.bbc.co.uk/news/articles/ck792we7zrz4o)**\n_Score: 80.8_"
+    },
+    {
+      "id": "art_geopolitics_381351e2",
+      "type": "text",
+      "x": 940,
+      "y": 400,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Economic coercion once ousted Iran’s leader – but that was the 1950s; don’t expect a repeat today](https://theconversation.com/economic-coercion-once-ousted-irans-leader-but-that-was-the-1950s-dont-expect-a-repeat-today-294628)**\n_Score: 70.82_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_6f130bbd",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_323cf39e",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_0c73a62d",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_226550c7",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_cd6a2454",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_26ced3cd",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_8a758ba6",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_c74c4c7f",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_79aa6e96",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_5227e7d5",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_7d5aca12",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_d4cf7b8e",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_62f5c721",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_bd85b960",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_763fc02f",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_bc74fc6d",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_dd43a63f",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_381351e2",
+      "toSide": "left"
+    }
+  ]
+}
