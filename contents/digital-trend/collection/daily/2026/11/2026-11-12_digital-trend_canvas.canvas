@@ -8,7 +8,7 @@
       "width": 440,
       "height": 220,
       "color": "1",
-      "text": "# 📅 2026-11-12 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n[Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says](https://www.bbc.co.uk/news/articles/c3rryrryk59zo)\n\n[出典リンク](https://www.bbc.co.uk/news/articles/c3rryrryk59zo)"
+      "text": "# 📅 2026-11-12 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n[Jensen Huang has resigned, what's next for Nvidia?](https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo)\n\n[出典リンク](https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo)"
     },
     {
       "id": "entities_summary",
@@ -18,7 +18,7 @@
       "width": 380,
       "height": 320,
       "color": "3",
-      "text": "### 🏢 注目企業\n- [[Entities/Apple|Apple]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]"
+      "text": "### 🏢 注目企業\n- [[Entities/OpenAI|OpenAI]]\n- [[Entities/Google|Google]]\n- [[Entities/Anthropic|Anthropic]]\n- [[Entities/NVIDIA|NVIDIA]]\n- [[Entities/Hugging Face|Hugging Face]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/transformer|transformer]]\n- [[Technologies/LLM|LLM]]"
     },
     {
       "id": "purpose_ai_research",
@@ -28,37 +28,37 @@
       "width": 320,
       "height": 180,
       "color": "4",
-      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **5件**"
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **4件**"
     },
     {
-      "id": "art_ai_research_226550c7",
+      "id": "art_ai_research_b541e4c7",
       "type": "text",
       "x": 940,
       "y": -320,
       "width": 380,
       "height": 85,
       "color": "6",
-      "text": "**[AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models](https://arxiv.org/abs/2611.14515v1)**\n_Score: 70.96_"
+      "text": "**[huggingface/transformers](https://github.com/huggingface/transformers)**\n_Score: 80.95_"
     },
     {
-      "id": "art_ai_research_26ced3cd",
+      "id": "art_ai_research_367011ee",
       "type": "text",
       "x": 940,
       "y": -220,
       "width": 380,
       "height": 85,
       "color": "6",
-      "text": "**[Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training](https://arxiv.org/abs/2611.14519v1)**\n_Score: 70.95_"
+      "text": "**[I'm making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing/)**\n_Score: 70.9_"
     },
     {
-      "id": "art_ai_research_c74c4c7f",
+      "id": "art_ai_research_0c4b0292",
       "type": "text",
       "x": 940,
       "y": -120,
       "width": 380,
       "height": 85,
       "color": "6",
-      "text": "**[Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations](https://arxiv.org/abs/2611.14514v1)**\n_Score: 70.95_"
+      "text": "**[openai/whisper](https://github.com/openai/whisper)**\n_Score: 70.9_"
     },
     {
       "id": "purpose_ai_dev_tools",
@@ -68,62 +68,82 @@
       "width": 320,
       "height": 180,
       "color": "4",
-      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **1件**"
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **4件**"
     },
     {
-      "id": "art_ai_dev_tools_7d5aca12",
+      "id": "art_ai_dev_tools_da1878c0",
       "type": "text",
       "x": 940,
       "y": -60,
       "width": 380,
       "height": 85,
       "color": "6",
-      "text": "**[Apple has new Mac app coming to make running local AI models easy](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/)**\n_Score: 70.8_"
+      "text": "**[davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)**\n_Score: 70.95_"
     },
     {
-      "id": "purpose_geopolitics",
+      "id": "art_ai_dev_tools_bbeb6fd8",
+      "type": "text",
+      "x": 940,
+      "y": 40,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/)**\n_Score: 70.9_"
+    },
+    {
+      "id": "art_ai_dev_tools_70d00528",
+      "type": "text",
+      "x": 940,
+      "y": 140,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator)**\n_Score: 70.9_"
+    },
+    {
+      "id": "purpose_business",
       "type": "text",
       "x": 540,
       "y": 260,
       "width": 320,
       "height": 180,
       "color": "4",
-      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+      "text": "## 💼 ビジネス動向\n\n収集件数: **3件**"
     },
     {
-      "id": "art_geopolitics_bd85b960",
+      "id": "art_business_f6e571af",
       "type": "text",
       "x": 940,
       "y": 200,
       "width": 380,
       "height": 85,
       "color": "6",
-      "text": "**[Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says](https://www.bbc.co.uk/news/articles/c3rryrryk59zo)**\n_Score: 80.82_"
+      "text": "**[Jensen Huang has resigned, what's next for Nvidia?](https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo)**\n_Score: 90.95_"
     },
     {
-      "id": "art_geopolitics_bc74fc6d",
+      "id": "art_business_45ff7b57",
       "type": "text",
       "x": 940,
       "y": 300,
       "width": 380,
       "height": 85,
       "color": "6",
-      "text": "**[Russia-Ukraine talks turn to post-war security but end without breakthrough](https://www.bbc.co.uk/news/articles/ck792we7zrz4o)**\n_Score: 80.8_"
+      "text": "**[Anthropic IPO](https://ipo.anthropic.com/us/)**\n_Score: 80.9_"
     },
     {
-      "id": "art_geopolitics_381351e2",
+      "id": "art_business_8b919f69",
       "type": "text",
       "x": 940,
       "y": 400,
       "width": 380,
       "height": 85,
       "color": "6",
-      "text": "**[Economic coercion once ousted Iran’s leader – but that was the 1950s; don’t expect a repeat today](https://theconversation.com/economic-coercion-once-ousted-irans-leader-but-that-was-the-1950s-dont-expect-a-repeat-today-294628)**\n_Score: 70.82_"
+      "text": "**[Jensen Huang's Exit From Nvidia Puts The Sovereign AI Race To The Test](https://www.forbes.com/sites/ronschmelzer/2026/11/12/jensen-huangs-exit-from-nvidia-puts-the-sovereign-ai-race-to-the-test/)**\n_Score: 80.85_"
     }
   ],
   "edges": [
     {
-      "id": "edge_ent_6f130bbd",
+      "id": "edge_ent_e2194b9f",
       "fromNode": "entities_summary",
       "fromSide": "right",
       "toNode": "root_daily",
@@ -131,73 +151,87 @@
       "label": "関連エンティティ"
     },
     {
-      "id": "edge_cat_323cf39e",
+      "id": "edge_cat_bf80f1ba",
       "fromNode": "root_daily",
       "fromSide": "right",
       "toNode": "purpose_ai_research",
       "toSide": "left"
     },
     {
-      "id": "edge_art_0c73a62d",
+      "id": "edge_art_97877bac",
       "fromNode": "purpose_ai_research",
       "fromSide": "right",
-      "toNode": "art_ai_research_226550c7",
+      "toNode": "art_ai_research_b541e4c7",
       "toSide": "left"
     },
     {
-      "id": "edge_art_cd6a2454",
+      "id": "edge_art_5eff6ca5",
       "fromNode": "purpose_ai_research",
       "fromSide": "right",
-      "toNode": "art_ai_research_26ced3cd",
+      "toNode": "art_ai_research_367011ee",
       "toSide": "left"
     },
     {
-      "id": "edge_art_8a758ba6",
+      "id": "edge_art_d4957dd7",
       "fromNode": "purpose_ai_research",
       "fromSide": "right",
-      "toNode": "art_ai_research_c74c4c7f",
+      "toNode": "art_ai_research_0c4b0292",
       "toSide": "left"
     },
     {
-      "id": "edge_cat_79aa6e96",
+      "id": "edge_cat_eed4e5bd",
       "fromNode": "root_daily",
       "fromSide": "right",
       "toNode": "purpose_ai_dev_tools",
       "toSide": "left"
     },
     {
-      "id": "edge_art_5227e7d5",
+      "id": "edge_art_0a576d93",
       "fromNode": "purpose_ai_dev_tools",
       "fromSide": "right",
-      "toNode": "art_ai_dev_tools_7d5aca12",
+      "toNode": "art_ai_dev_tools_da1878c0",
       "toSide": "left"
     },
     {
-      "id": "edge_cat_d4cf7b8e",
+      "id": "edge_art_c1944a3f",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_bbeb6fd8",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_f5978aa3",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_70d00528",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_dc442682",
       "fromNode": "root_daily",
       "fromSide": "right",
-      "toNode": "purpose_geopolitics",
+      "toNode": "purpose_business",
       "toSide": "left"
     },
     {
-      "id": "edge_art_62f5c721",
-      "fromNode": "purpose_geopolitics",
+      "id": "edge_art_e4cee0cd",
+      "fromNode": "purpose_business",
       "fromSide": "right",
-      "toNode": "art_geopolitics_bd85b960",
+      "toNode": "art_business_f6e571af",
       "toSide": "left"
     },
     {
-      "id": "edge_art_763fc02f",
-      "fromNode": "purpose_geopolitics",
+      "id": "edge_art_051a7ded",
+      "fromNode": "purpose_business",
       "fromSide": "right",
-      "toNode": "art_geopolitics_bc74fc6d",
+      "toNode": "art_business_45ff7b57",
       "toSide": "left"
     },
     {
-      "id": "edge_art_dd43a63f",
-      "fromNode": "purpose_geopolitics",
+      "id": "edge_art_22b38050",
+      "fromNode": "purpose_business",
       "fromSide": "right",
-      "toNode": "art_geopolitics_381351e2",
+      "toNode": "art_business_8b919f69",
       "toSide": "left"
     }
   ]
