@@ -1,0 +1,238 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-11-14 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n[Trump, Putin, and Xi Plan Historic Joint Meeting in Shenzhen](https://www.bbc.co.uk/news/articles/ckz74jzpy18do)\n\n[出典リンク](https://www.bbc.co.uk/news/articles/ckz74jzpy18do)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/Meta|Meta]]\n- [[Entities/NVIDIA|NVIDIA]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **4件**"
+    },
+    {
+      "id": "art_ai_research_24f15c3f",
+      "type": "text",
+      "x": 940,
+      "y": -450,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Quantifying structural stability of transparent models for general insurance pricing](https://arxiv.org/abs/2611.17308v1)**\n_Score: 60.85_"
+    },
+    {
+      "id": "art_ai_research_7733e8cf",
+      "type": "text",
+      "x": 940,
+      "y": -350,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[pnnbao97/VieNeu-TTS](https://github.com/pnnbao97/VieNeu-TTS)**\n_Score: 60.8_"
+    },
+    {
+      "id": "art_ai_research_64879a60",
+      "type": "text",
+      "x": 940,
+      "y": -250,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[FLEX-LBP: Learning Local Binary Patterns with Exact Binary Inference for Texture Classification](https://arxiv.org/abs/2611.17302v1)**\n_Score: 50.8_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_ai_dev_tools_53ff6c5a",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)**\n_Score: 70.9_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_business_6e1a48f4",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Best Practices For Smart Business Owners Wanting To Make Optimal Use Of OpenAI’s New ‘Businesses In ChatGPT’](https://www.forbes.com/sites/lanceeliot/2026/11/13/best-practices-for-smart-business-owners-wanting-to-make-optimal-use-of-openais-new-businesses-in-chatgpt/)**\n_Score: 70.85_"
+    },
+    {
+      "id": "art_business_21a5da32",
+      "type": "text",
+      "x": 940,
+      "y": 170,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[From ancient Asia to the AI age: Has China’s ‘beauty stratagem’ found a new victim in Nvidia’s Jensen Huang?](https://theconversation.com/from-ancient-asia-to-the-ai-age-has-chinas-beauty-stratagem-found-a-new-victim-in-nvidias-jensen-huang-296393)**\n_Score: 60.7_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_geopolitics_688c594f",
+      "type": "text",
+      "x": 940,
+      "y": 330,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Trump, Putin and Xi plan historic joint meeting in China next week, White House says](https://www.bbc.co.uk/news/articles/ckz74jzpy18do)**\n_Score: 80.6_"
+    },
+    {
+      "id": "art_geopolitics_e5822606",
+      "type": "text",
+      "x": 940,
+      "y": 430,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Italy fines Meta €805m over accessing users' photos](https://www.bbc.co.uk/news/articles/cwn83gxemk35o)**\n_Score: 70.8_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_3bfb8171",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_328e6efb",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_3e1d4f51",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_24f15c3f",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_03db5c28",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_7733e8cf",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_b24b574e",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_64879a60",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_ff844e9e",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_3496b292",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_53ff6c5a",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_40e61f06",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_100629cd",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_6e1a48f4",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_f3532395",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_21a5da32",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_664b9a0e",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_c3e18c0e",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_688c594f",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_e9e4e3b8",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_e5822606",
+      "toSide": "left"
+    }
+  ]
+}
