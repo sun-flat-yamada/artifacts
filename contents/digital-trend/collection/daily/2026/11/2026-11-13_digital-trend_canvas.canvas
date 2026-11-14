@@ -1,0 +1,272 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-11-13 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n[NVIDIAスキャンダルの波紋拡大：商務省のAIチップ輸出管理責任を巡り財務長官が同僚を非難](https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro)\n\n[出典リンク](https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/OpenAI|OpenAI]]\n- [[Entities/Anthropic|Anthropic]]\n- [[Entities/Microsoft|Microsoft]]\n- [[Entities/NVIDIA|NVIDIA]]\n- [[Entities/xAI|xAI]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **5件**"
+    },
+    {
+      "id": "art_ai_research_70b54361",
+      "type": "text",
+      "x": 940,
+      "y": -450,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Unbundling Multimodal Vision Encoding](https://arxiv.org/abs/2611.17334v1)**\n_Score: 70.95_"
+    },
+    {
+      "id": "art_ai_research_2a416a90",
+      "type": "text",
+      "x": 940,
+      "y": -350,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research](https://arxiv.org/abs/2611.17332v1)**\n_Score: 70.95_"
+    },
+    {
+      "id": "art_ai_research_60aed78b",
+      "type": "text",
+      "x": 940,
+      "y": -250,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[AgentSSL: Can MLE Agents Leverage Unlabeled Data?](https://arxiv.org/abs/2611.17323v1)**\n_Score: 70.95_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **4件**"
+    },
+    {
+      "id": "art_ai_dev_tools_1c336b1f",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)**\n_Score: 70.95_"
+    },
+    {
+      "id": "art_ai_dev_tools_c1981236",
+      "type": "text",
+      "x": 940,
+      "y": -90,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Elevated errors on claude.ai, Claude Code, and platform.claude.com](https://status.claude.com/incidents/nn11wk485zfn)**\n_Score: 70.9_"
+    },
+    {
+      "id": "art_ai_dev_tools_4a639a3f",
+      "type": "text",
+      "x": 940,
+      "y": 10,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)**\n_Score: 60.95_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_business_53368951",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Microsoft has suffered a global outage. A tech expert explains what went wrong](https://theconversation.com/microsoft-has-suffered-a-global-outage-a-tech-expert-explains-what-went-wrong-296588)**\n_Score: 80.75_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_b6bb102a",
+      "type": "text",
+      "x": 940,
+      "y": 330,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague](https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro)**\n_Score: 80.85_"
+    },
+    {
+      "id": "art_geopolitics_50a70d27",
+      "type": "text",
+      "x": 940,
+      "y": 430,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[This Ain’t Ethernet: New Data Center Espionage Vector Raises Concerns](https://www.forbes.com/sites/johnwerner/2026/11/13/this-aint-ethernet-new-data-center-espionage-vector-raises-concerns/)**\n_Score: 70.85_"
+    },
+    {
+      "id": "art_geopolitics_5821e2f9",
+      "type": "text",
+      "x": 940,
+      "y": 530,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[German spies handed new powers to tackle 'hybrid threats' from abroad](https://www.bbc.co.uk/news/articles/c6jre3z03w4go)**\n_Score: 70.85_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_1683a75d",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_eaa9cad1",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_825fa520",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_70b54361",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_cd13d28b",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_2a416a90",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_3de3c340",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_60aed78b",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_7bc8d43a",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_2b2e7626",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_1c336b1f",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_83c6b2d0",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_c1981236",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_b64b6ea2",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_4a639a3f",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_a50b8ce1",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_ad44e2f9",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_53368951",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_b79e6982",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_bf50ec5a",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_b6bb102a",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_00666484",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_50a70d27",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_095e89ad",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_5821e2f9",
+      "toSide": "left"
+    }
+  ]
+}
