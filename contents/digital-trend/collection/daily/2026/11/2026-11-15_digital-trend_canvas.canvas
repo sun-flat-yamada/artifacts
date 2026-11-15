@@ -1,0 +1,221 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-11-15 デイリートレンド\n\n**🔥 本日の最重要ニュース**\nウクライナが米政府とマスク氏にStarshieldの速度制限解除を要請：民間防衛テックとプラットフォーム依存の限界\n\n[出典リンク](https://www.bbc.co.uk/news/articles/c6m25zg88k45o)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/NVIDIA|NVIDIA]]\n- [[Entities/Databricks|Databricks]]\n- [[Entities/Snowflake|Snowflake]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_ai_research_bfe9ff0b",
+      "type": "text",
+      "x": 940,
+      "y": -450,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Needs For Robotic Design And Mastery](https://www.forbes.com/sites/johnwerner/2026/11/15/needs-for-robotic-design-and-mastery/)**\n_Score: 70.85_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **4件**"
+    },
+    {
+      "id": "art_ai_dev_tools_94d67835",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Canner/WrenAI](https://github.com/Canner/WrenAI)**\n_Score: 70.9_"
+    },
+    {
+      "id": "art_ai_dev_tools_8ad956aa",
+      "type": "text",
+      "x": 940,
+      "y": -90,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[huytieu/COG-second-brain](https://github.com/huytieu/COG-second-brain)**\n_Score: 70.85_"
+    },
+    {
+      "id": "art_ai_dev_tools_9513678f",
+      "type": "text",
+      "x": 940,
+      "y": 10,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)**\n_Score: 70.85_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_business_4b81f268",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Court denies motion to dismiss DRAM price fixing case](https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal)**\n_Score: 70.75_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_geopolitics_1e5b9fdb",
+      "type": "text",
+      "x": 940,
+      "y": 330,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'](https://www.bbc.co.uk/news/articles/c6m25zg88k45o)**\n_Score: 80.85_"
+    },
+    {
+      "id": "art_geopolitics_b446d0da",
+      "type": "text",
+      "x": 940,
+      "y": 430,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says ](https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo)**\n_Score: 70.8_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_608d6898",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_52b93126",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_971a8d91",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_bfe9ff0b",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_56cdb658",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_138c7aa3",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_94d67835",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_276e0e2c",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_8ad956aa",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_4b6acb21",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_9513678f",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_8f8f63bc",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_c620c119",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_4b81f268",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_b8c718bd",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_ba2bf7ba",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_1e5b9fdb",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_cc497eca",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_b446d0da",
+      "toSide": "left"
+    }
+  ]
+}
