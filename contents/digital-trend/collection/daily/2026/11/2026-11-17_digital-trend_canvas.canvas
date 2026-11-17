@@ -1,0 +1,272 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-11-17 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n[Training Reasoning Models in Simulation to Natively Use Real Robots](https://arxiv.org/abs/2611.18562v1)\n\n[出典リンク](https://arxiv.org/abs/2611.18562v1)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/Microsoft|Microsoft]]\n- [[Entities/NVIDIA|NVIDIA]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/GPT|GPT]]\n- [[Technologies/agentic|agentic]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **5件**"
+    },
+    {
+      "id": "art_ai_research_d3e7b42e",
+      "type": "text",
+      "x": 940,
+      "y": -450,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Training Reasoning Models in Simulation to Natively Use Real Robots](https://arxiv.org/abs/2611.18562v1)**\n_Score: 80.92_"
+    },
+    {
+      "id": "art_ai_research_26a31f9a",
+      "type": "text",
+      "x": 940,
+      "y": -350,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[google-research/paper-orchestra](https://github.com/google-research/paper-orchestra)**\n_Score: 70.95_"
+    },
+    {
+      "id": "art_ai_research_4c498baf",
+      "type": "text",
+      "x": 940,
+      "y": -250,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[WeightBench: Evaluating Language Models as Weight-Space Programmers](https://arxiv.org/abs/2611.18553v1)**\n_Score: 70.9_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_ai_dev_tools_2d337578",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[superdesigndev/treg](https://github.com/superdesigndev/treg)**\n_Score: 60.8_"
+    },
+    {
+      "id": "art_ai_dev_tools_3234e5f1",
+      "type": "text",
+      "x": 940,
+      "y": -90,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://xusheng.dev/posts/windows-coding-agent-telemetry/)**\n_Score: 60.75_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_business_6ece6673",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Nvidia Is Fueling The Rise Of Alternative AI Networks](https://www.forbes.com/sites/murtuza-merchant/2026/11/16/decentralized-ai-is-cashing-in-on-nvidias-chaos-but-watch-the-tokens/)**\n_Score: 70.8_"
+    },
+    {
+      "id": "art_business_1ca5ede1",
+      "type": "text",
+      "x": 940,
+      "y": 170,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Build And Buy: Why Billion-Dollar Startups Like Function Health Are Going Shopping](https://www.forbes.com/sites/shimiteobialo/2026/11/16/build-and-buy-why-billion-dollar-startups-like-function-health-are-going-shopping/)**\n_Score: 60.75_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_82345670",
+      "type": "text",
+      "x": 940,
+      "y": 330,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO](https://www.bbc.co.uk/news/articles/cry49plv8v3go)**\n_Score: 70.75_"
+    },
+    {
+      "id": "art_geopolitics_d7652997",
+      "type": "text",
+      "x": 940,
+      "y": 430,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war](https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o)**\n_Score: 70.7_"
+    },
+    {
+      "id": "art_geopolitics_a8d3ce2b",
+      "type": "text",
+      "x": 940,
+      "y": 530,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Estonia to close Russia border crossings after attempted drone factory arson attack](https://www.bbc.co.uk/news/articles/cqp83nk673reo)**\n_Score: 60.75_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_c57b98b9",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_c37bb9c2",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_6e46b97c",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_d3e7b42e",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_c8e738b2",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_26a31f9a",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_837c17a4",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_4c498baf",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_289d6a98",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_84fe56d6",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_2d337578",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_8ba8df3b",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_3234e5f1",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_13dc7d12",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_d8ec01ae",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_6ece6673",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_1a205927",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_1ca5ede1",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_c637c215",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_89c8e2d1",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_82345670",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_4ebaebc7",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_d7652997",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_d14981fe",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_a8d3ce2b",
+      "toSide": "left"
+    }
+  ]
+}
