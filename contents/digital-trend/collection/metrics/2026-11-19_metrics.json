@@ -1,0 +1,309 @@
+{
+  "run_id": "41d46fae-4153-43cf-964a-4d0bf57989b7",
+  "date": "2026-11-19",
+  "started_at": "2026-11-19T00:45:02.808Z",
+  "articles_ingested": 101,
+  "articles_skipped_evaluated": 2,
+  "articles_scored": 25,
+  "articles_selected": 16,
+  "articles_by_purpose": {
+    "💼 ビジネス動向": 2,
+    "🔬 AI・LLM 研究": 5,
+    "🌍 政治・地政学": 3,
+    "🛠️ 開発ツール・IDE統合": 3
+  },
+  "llm_calls": [
+    {
+      "phase": "triage",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 7039,
+      "output_tokens": 5140,
+      "latency_ms": 9435,
+      "estimated_cost_usd": 0.014962
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 1494,
+      "output_tokens": 208,
+      "latency_ms": 1010,
+      "estimated_cost_usd": 0.000968
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2255,
+      "output_tokens": 265,
+      "latency_ms": 1197,
+      "estimated_cost_usd": 0.001339
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 763,
+      "output_tokens": 195,
+      "latency_ms": 1057,
+      "estimated_cost_usd": 0.000716
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 372,
+      "output_tokens": 82,
+      "latency_ms": 1122,
+      "estimated_cost_usd": 0.000317
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2250,
+      "output_tokens": 183,
+      "latency_ms": 946,
+      "estimated_cost_usd": 0.001132
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 397,
+      "output_tokens": 95,
+      "latency_ms": 1040,
+      "estimated_cost_usd": 0.000357
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2580,
+      "output_tokens": 257,
+      "latency_ms": 1349,
+      "estimated_cost_usd": 0.001417
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 1429,
+      "output_tokens": 283,
+      "latency_ms": 1104,
+      "estimated_cost_usd": 0.001136
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2329,
+      "output_tokens": 216,
+      "latency_ms": 1398,
+      "estimated_cost_usd": 0.001239
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 716,
+      "output_tokens": 192,
+      "latency_ms": 1061,
+      "estimated_cost_usd": 0.000695
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 803,
+      "output_tokens": 238,
+      "latency_ms": 1041,
+      "estimated_cost_usd": 0.000836
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 884,
+      "output_tokens": 215,
+      "latency_ms": 1170,
+      "estimated_cost_usd": 0.000803
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2584,
+      "output_tokens": 252,
+      "latency_ms": 1131,
+      "estimated_cost_usd": 0.001405
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2915,
+      "output_tokens": 224,
+      "latency_ms": 1114,
+      "estimated_cost_usd": 0.001435
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 1883,
+      "output_tokens": 317,
+      "latency_ms": 1275,
+      "estimated_cost_usd": 0.001357
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 411,
+      "output_tokens": 106,
+      "latency_ms": 979,
+      "estimated_cost_usd": 0.000388
+    },
+    {
+      "phase": "reduce",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 3235,
+      "output_tokens": 1940,
+      "latency_ms": 6144,
+      "estimated_cost_usd": 0.005821
+    }
+  ],
+  "total_tokens": {
+    "input": 34339,
+    "output": 10408
+  },
+  "total_cost_usd": 0.03632300000000001,
+  "errors": [
+    "Source \"VentureBeat\": Failed to fetch RSS feed [VentureBeat]: Status code 429",
+    "Source \"Newsweek World\": Failed to fetch RSS feed [Newsweek World]: Status code 406",
+    "Map failed for https://www.forbes.com/sites/saibala/2026/11/18/openai-is-launching-computer-use-agents-for-healthcare/: Map response contained no usable facts",
+    "Map failed for https://www.forbes.com/sites/richardnieva/2026/11/18/google-and-amazon-will-own-more-anthropic-stock-than-all-cofounders-combined/: Map response contained no usable facts",
+    "Map failed for https://www.forbes.com/sites/johnkoetsier/2026/11/18/physical-ai-startup-humyn-hits-50-million-arr-in-6-months-raises-47-million/: Map response contained no usable facts",
+    "[reduce] google/latest-flash: {\"error\":{\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}}"
+  ],
+  "sources_status": [
+    {
+      "name": "Hugging Face Daily Papers",
+      "type": "rss",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "enabled: false in config.yml"
+    },
+    {
+      "name": "Bluesky AI Trends",
+      "type": "bluesky",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "enabled: false in config.yml"
+    },
+    {
+      "name": "X (旧Twitter) AI Trends via Grok",
+      "type": "xai_grok",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "X/Grok ingestion is disabled until it uses the x_search tool (generated post URLs cannot be verified)"
+    },
+    {
+      "name": "Reddit r/LocalLLaMA",
+      "type": "reddit",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "enabled: false in config.yml"
+    },
+    {
+      "name": "Reuters Technology",
+      "type": "rss",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "enabled: false in config.yml"
+    },
+    {
+      "name": "Ledge.ai (LEDGE)",
+      "type": "rss",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "enabled: false in config.yml"
+    },
+    {
+      "name": "Raindrop Inbox (手動クリップ)",
+      "type": "raindrop",
+      "status": "disabled",
+      "article_count": 0,
+      "error_message": "RAINDROP_TEST_TOKEN not set"
+    },
+    {
+      "name": "arXiv AI Papers",
+      "type": "arxiv",
+      "status": "ok",
+      "article_count": 15,
+      "failure_streak": 0
+    },
+    {
+      "name": "Hacker News Top Stories",
+      "type": "hackernews",
+      "status": "ok",
+      "article_count": 13,
+      "failure_streak": 0
+    },
+    {
+      "name": "GitHub Trending (Python)",
+      "type": "github_trending",
+      "status": "ok",
+      "article_count": 11,
+      "failure_streak": 0
+    },
+    {
+      "name": "VentureBeat",
+      "type": "rss",
+      "status": "error",
+      "article_count": 0,
+      "failure_streak": 14,
+      "error_message": "Failed to fetch RSS feed [VentureBeat]: Status code 429"
+    },
+    {
+      "name": "Forbes Tech",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 25,
+      "failure_streak": 0
+    },
+    {
+      "name": "Newsweek World",
+      "type": "rss",
+      "status": "error",
+      "article_count": 0,
+      "failure_streak": 14,
+      "error_message": "Failed to fetch RSS feed [Newsweek World]: Status code 406"
+    },
+    {
+      "name": "BBC News World",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 32,
+      "failure_streak": 0
+    },
+    {
+      "name": "The Conversation Global",
+      "type": "rss",
+      "status": "ok",
+      "article_count": 7,
+      "failure_streak": 0
+    }
+  ],
+  "extraction": {
+    "attempted": 30,
+    "failed": 0,
+    "fallback": 0
+  },
+  "prompts": {
+    "triage": "triage_v1.md@e1c77255",
+    "map": "map_v1.md@4a8618b4",
+    "reduce": "reduce_ja_v1.md@417380db"
+  },
+  "triage": {
+    "status": "ok",
+    "candidates": 101,
+    "kept": 30,
+    "dropped_irrelevant": 41,
+    "dropped_duplicate": 6,
+    "dropped_over_limit": 24,
+    "batches": 1
+  },
+  "map_attempted": 16,
+  "map_succeeded": 13,
+  "quality_score": 98.85714285714286,
+  "run_status": "success",
+  "status_reasons": [],
+  "finished_at": "2026-11-19T00:53:33.065Z",
+  "duration_ms": 510257
+}
