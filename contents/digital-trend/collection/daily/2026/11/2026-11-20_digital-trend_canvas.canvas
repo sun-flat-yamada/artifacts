@@ -1,0 +1,238 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-11-20 デイリートレンド\n\n**🔥 本日の最重要ニュース**\nClaudeがブラックホール物理学における2つの未解決問題を解決：AIによる自律的科学探究のマイルストーン\n\n[出典リンク](https://www.bbc.co.uk/news/articles/c623j4ln97x7o)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/OpenAI|OpenAI]]\n- [[Entities/Anthropic|Anthropic]]\n- [[Entities/Apple|Apple]]\n- [[Entities/AWS|AWS]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/GPT|GPT]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **5件**"
+    },
+    {
+      "id": "art_ai_research_1cfc2d69",
+      "type": "text",
+      "x": 940,
+      "y": -320,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Claude solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics)**\n_Score: 80.9_"
+    },
+    {
+      "id": "art_ai_research_627cb95c",
+      "type": "text",
+      "x": 940,
+      "y": -220,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Jailbreak Detection on Large Language Models via Contrastive Prototype Structures](https://arxiv.org/abs/2611.24936v1)**\n_Score: 70.95_"
+    },
+    {
+      "id": "art_ai_research_9bc8aed1",
+      "type": "text",
+      "x": 940,
+      "y": -120,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Who are you? The Personal Imitation Game](https://arxiv.org/abs/2611.24888v1)**\n_Score: 70.95_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": 0,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_ai_dev_tools_e61d56f0",
+      "type": "text",
+      "x": 940,
+      "y": -60,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[awslabs/cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator)**\n_Score: 70.95_"
+    },
+    {
+      "id": "art_ai_dev_tools_0e3e9af9",
+      "type": "text",
+      "x": 940,
+      "y": 40,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[phone-harness/phone-harness](https://github.com/phone-harness/phone-harness)**\n_Score: 70.9_"
+    },
+    {
+      "id": "art_ai_dev_tools_a8c40794",
+      "type": "text",
+      "x": 940,
+      "y": 140,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope)**\n_Score: 70.9_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 260,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_3106fe05",
+      "type": "text",
+      "x": 940,
+      "y": 200,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Trump, Putin and Xi release 'peace declaration' after historic meeting](https://www.bbc.co.uk/news/articles/c623j4ln97x7o)**\n_Score: 90.9_"
+    },
+    {
+      "id": "art_geopolitics_28212286",
+      "type": "text",
+      "x": 940,
+      "y": 300,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[UK government forced to admit it issued Apple a secret encryption order](https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/)**\n_Score: 80.9_"
+    },
+    {
+      "id": "art_geopolitics_0b11a7b1",
+      "type": "text",
+      "x": 940,
+      "y": 400,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[OpenAI And ChatGPT Get Hammered By California As Legally Being A Public Nuisance Due To Unsafe AI](https://www.forbes.com/sites/lanceeliot/2026/11/19/openai-and-chatgpt-get-hammered-by-california-as-legally-being-a-public-nuisance-due-to-unsafe-ai/)**\n_Score: 80.9_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_67267a8b",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_9f97e70d",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_7d994b49",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_1cfc2d69",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_3627d122",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_627cb95c",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_203de184",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_9bc8aed1",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_aff2bbe4",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_fd80957f",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_e61d56f0",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_67c915c5",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_0e3e9af9",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_79be46b4",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_a8c40794",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_52732d52",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_eaa8dc9e",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_3106fe05",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_9ded9fc8",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_28212286",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_5d33022f",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_0b11a7b1",
+      "toSide": "left"
+    }
+  ]
+}
