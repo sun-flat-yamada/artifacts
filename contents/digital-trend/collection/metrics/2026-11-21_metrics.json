@@ -1,140 +1,108 @@
 {
-  "run_id": "56807c29-3410-46c1-9980-1d45cb0f7224",
+  "run_id": "eb4baaf8-a4d2-4911-860a-9717411f1efc",
   "date": "2026-11-21",
-  "started_at": "2026-11-21T00:16:15.687Z",
-  "articles_ingested": 97,
-  "articles_skipped_evaluated": 2,
-  "articles_scored": 28,
-  "articles_selected": 12,
+  "started_at": "2026-11-21T23:37:02.679Z",
+  "articles_ingested": 80,
+  "articles_skipped_evaluated": 16,
+  "articles_scored": 21,
+  "articles_selected": 8,
   "articles_by_purpose": {
     "💼 ビジネス動向": 3,
-    "🔬 AI・LLM 研究": 5,
-    "🌍 政治・地政学": 1,
-    "🛠️ 開発ツール・IDE統合": 2
+    "🌍 政治・地政学": 3,
+    "🛠️ 開発ツール・IDE統合": 1,
+    "🔬 AI・LLM 研究": 1
   },
   "llm_calls": [
     {
       "phase": "triage",
       "model": "gemini-3.5-flash-lite",
-      "input_tokens": 6599,
-      "output_tokens": 3617,
-      "latency_ms": 10968,
-      "estimated_cost_usd": 0.011022
+      "input_tokens": 5560,
+      "output_tokens": 4011,
+      "latency_ms": 7532,
+      "estimated_cost_usd": 0.011696
     },
     {
       "phase": "map",
       "model": "gemini-3.5-flash-lite",
-      "input_tokens": 384,
+      "input_tokens": 1709,
+      "output_tokens": 321,
+      "latency_ms": 1372,
+      "estimated_cost_usd": 0.001315
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2872,
+      "output_tokens": 197,
+      "latency_ms": 1127,
+      "estimated_cost_usd": 0.001354
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 3095,
+      "output_tokens": 252,
+      "latency_ms": 1221,
+      "estimated_cost_usd": 0.001559
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 3795,
+      "output_tokens": 233,
+      "latency_ms": 1140,
+      "estimated_cost_usd": 0.001721
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 1755,
+      "output_tokens": 279,
+      "latency_ms": 1178,
+      "estimated_cost_usd": 0.001224
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2102,
+      "output_tokens": 301,
+      "latency_ms": 1685,
+      "estimated_cost_usd": 0.001383
+    },
+    {
+      "phase": "map",
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 385,
       "output_tokens": 106,
-      "latency_ms": 9086,
-      "estimated_cost_usd": 0.00038
+      "latency_ms": 839,
+      "estimated_cost_usd": 0.000381
     },
     {
       "phase": "map",
       "model": "gemini-3.5-flash-lite",
-      "input_tokens": 2145,
-      "output_tokens": 236,
-      "latency_ms": 8746,
-      "estimated_cost_usd": 0.001234
-    },
-    {
-      "phase": "map",
-      "model": "gemini-3.5-flash-lite",
-      "input_tokens": 831,
-      "output_tokens": 253,
-      "latency_ms": 7357,
-      "estimated_cost_usd": 0.000882
-    },
-    {
-      "phase": "map",
-      "model": "gemini-3.5-flash-lite",
-      "input_tokens": 1161,
-      "output_tokens": 238,
-      "latency_ms": 8546,
-      "estimated_cost_usd": 0.000943
-    },
-    {
-      "phase": "map",
-      "model": "gemini-3.5-flash-lite",
-      "input_tokens": 5045,
-      "output_tokens": 216,
-      "latency_ms": 10789,
-      "estimated_cost_usd": 0.002053
-    },
-    {
-      "phase": "map",
-      "model": "gemini-3.5-flash-lite",
-      "input_tokens": 785,
-      "output_tokens": 216,
-      "latency_ms": 8236,
-      "estimated_cost_usd": 0.000775
-    },
-    {
-      "phase": "map",
-      "model": "gemini-3.5-flash-lite",
-      "input_tokens": 1006,
-      "output_tokens": 186,
-      "latency_ms": 7815,
-      "estimated_cost_usd": 0.000767
-    },
-    {
-      "phase": "map",
-      "model": "gemini-3.5-flash-lite",
-      "input_tokens": 2366,
-      "output_tokens": 230,
-      "latency_ms": 7500,
-      "estimated_cost_usd": 0.001285
-    },
-    {
-      "phase": "map",
-      "model": "gemini-3.5-flash-lite",
-      "input_tokens": 397,
-      "output_tokens": 112,
-      "latency_ms": 9997,
-      "estimated_cost_usd": 0.000399
-    },
-    {
-      "phase": "map",
-      "model": "gemini-3.5-flash-lite",
-      "input_tokens": 1410,
-      "output_tokens": 290,
-      "latency_ms": 6161,
-      "estimated_cost_usd": 0.001148
-    },
-    {
-      "phase": "map",
-      "model": "gemini-3.5-flash-lite",
-      "input_tokens": 2776,
-      "output_tokens": 247,
-      "latency_ms": 8542,
-      "estimated_cost_usd": 0.00145
-    },
-    {
-      "phase": "map",
-      "model": "gemini-3.5-flash-lite",
-      "input_tokens": 403,
-      "output_tokens": 89,
-      "latency_ms": 3601,
-      "estimated_cost_usd": 0.000343
+      "input_tokens": 1787,
+      "output_tokens": 283,
+      "latency_ms": 1325,
+      "estimated_cost_usd": 0.001244
     },
     {
       "phase": "reduce",
-      "model": "gemini-3.8-flash",
-      "input_tokens": 2691,
-      "output_tokens": 2407,
-      "latency_ms": 29562,
-      "estimated_cost_usd": 0.011044
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2447,
+      "output_tokens": 1921,
+      "latency_ms": 6731,
+      "estimated_cost_usd": 0.005537
     }
   ],
   "total_tokens": {
-    "input": 27999,
-    "output": 8443
+    "input": 25507,
+    "output": 7904
   },
-  "total_cost_usd": 0.033725000000000005,
+  "total_cost_usd": 0.027413999999999997,
   "errors": [
     "Source \"VentureBeat\": Failed to fetch RSS feed [VentureBeat]: Status code 429",
     "Source \"Newsweek World\": Failed to fetch RSS feed [Newsweek World]: Status code 406",
-    "Map failed for https://www.forbes.com/sites/karlfreund/2026/11/20/nextsilicon-offers-a-yaca-yet-another-computing-architecture-for-ai/: Map response contained no usable facts"
+    "[reduce] google/latest-flash: {\"error\":{\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}}"
   ],
   "sources_status": [
     {
@@ -190,21 +158,21 @@
       "name": "arXiv AI Papers",
       "type": "arxiv",
       "status": "ok",
-      "article_count": 15,
+      "article_count": 13,
       "failure_streak": 0
     },
     {
       "name": "Hacker News Top Stories",
       "type": "hackernews",
       "status": "ok",
-      "article_count": 16,
+      "article_count": 18,
       "failure_streak": 0
     },
     {
       "name": "GitHub Trending (Python)",
       "type": "github_trending",
       "status": "ok",
-      "article_count": 10,
+      "article_count": 8,
       "failure_streak": 0
     },
     {
@@ -234,7 +202,7 @@
       "name": "BBC News World",
       "type": "rss",
       "status": "ok",
-      "article_count": 25,
+      "article_count": 24,
       "failure_streak": 0
     },
     {
@@ -246,9 +214,9 @@
     }
   ],
   "extraction": {
-    "attempted": 30,
+    "attempted": 23,
     "failed": 0,
-    "fallback": 0
+    "fallback": 1
   },
   "prompts": {
     "triage": "triage_v1.md@e1c77255",
@@ -257,18 +225,18 @@
   },
   "triage": {
     "status": "ok",
-    "candidates": 97,
-    "kept": 30,
-    "dropped_irrelevant": 52,
-    "dropped_duplicate": 2,
-    "dropped_over_limit": 13,
+    "candidates": 80,
+    "kept": 23,
+    "dropped_irrelevant": 53,
+    "dropped_duplicate": 4,
+    "dropped_over_limit": 0,
     "batches": 1
   },
-  "map_attempted": 12,
-  "map_succeeded": 11,
-  "quality_score": 100,
+  "map_attempted": 8,
+  "map_succeeded": 8,
+  "quality_score": 98.28571428571429,
   "run_status": "success",
   "status_reasons": [],
-  "finished_at": "2026-11-21T00:21:52.510Z",
-  "duration_ms": 336823
+  "finished_at": "2026-11-21T23:46:08.000Z",
+  "duration_ms": 545321
 }
