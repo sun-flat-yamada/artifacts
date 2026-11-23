@@ -1,0 +1,221 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-11-22 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n[Data Processing Incidents on Inference Providers: Data Policy Violations and Endpoint Security](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/)\n\n[出典リンク](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/OpenAI|OpenAI]]\n- [[Entities/Anthropic|Anthropic]]\n- [[Entities/NVIDIA|NVIDIA]]\n- [[Entities/Perplexity|Perplexity]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/GPT|GPT]]\n- [[Technologies/DPO|DPO]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_ai_research_2ac3f738",
+      "type": "text",
+      "x": 940,
+      "y": -450,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend)**\n_Score: 60.85_"
+    },
+    {
+      "id": "art_ai_research_360265f5",
+      "type": "text",
+      "x": 940,
+      "y": -350,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[The Machine Knows Itself: Higher-Order Science For New System Thinking](https://www.forbes.com/sites/johnwerner/2026/11/22/the-machine-knows-itself-higher-order-science-for-new-system-thinking/)**\n_Score: 60.7_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_ai_dev_tools_c8099ebe",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Data Processing Incidents on Inference Providers](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/)**\n_Score: 70.8_"
+    },
+    {
+      "id": "art_ai_dev_tools_583519da",
+      "type": "text",
+      "x": 940,
+      "y": -90,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Show HN: I built a game where you are an LLM's subagent](https://github.com/gulivan/worker755)**\n_Score: 60.85_"
+    },
+    {
+      "id": "art_ai_dev_tools_8ab8aad3",
+      "type": "text",
+      "x": 940,
+      "y": 10,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence/)**\n_Score: 50.75_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_business_3b9140a9",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[87% of the Anthropic power will come from gas and 11% from coal in 2028](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/)**\n_Score: 60.7_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_geopolitics_a906db75",
+      "type": "text",
+      "x": 940,
+      "y": 330,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[COP31 fails to reach major climate deal as talks expose deep divisions](https://www.bbc.co.uk/news/articles/cqwy06zrd26lo)**\n_Score: 60.75_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_50108e51",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_8e930e9d",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_94009ff4",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_2ac3f738",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_2f150387",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_360265f5",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_6ca794d1",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_26e3e005",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_c8099ebe",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_05a0cfa1",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_583519da",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_cac793c6",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_8ab8aad3",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_3aec7829",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_8fdd8837",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_3b9140a9",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_1158f966",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_6b789bde",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_a906db75",
+      "toSide": "left"
+    }
+  ]
+}
