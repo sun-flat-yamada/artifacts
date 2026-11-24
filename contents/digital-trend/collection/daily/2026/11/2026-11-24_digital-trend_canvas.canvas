@@ -1,0 +1,255 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-11-24 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n[GLM-5.4: 750Bパラメータ級の性能を「Loop Transformer」で省リソース化](https://z.ai/blog/glm-5.4)\n\n[出典リンク](https://z.ai/blog/glm-5.4)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/NVIDIA|NVIDIA]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/transformer|transformer]]\n- [[Technologies/fine-tuning|fine-tuning]]\n- [[Technologies/LLM|LLM]]\n- [[Technologies/diffusion|diffusion]]\n- [[Technologies/LoRA|LoRA]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **5件**"
+    },
+    {
+      "id": "art_ai_research_d01472e0",
+      "type": "text",
+      "x": 940,
+      "y": -450,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[GLM-5.4: Toward generalized coding with our first loop transformer](https://z.ai/blog/glm-5.4)**\n_Score: 80.9_"
+    },
+    {
+      "id": "art_ai_research_762d3502",
+      "type": "text",
+      "x": 940,
+      "y": -350,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[When Does Fine-Tuning Beat Prompting for Qiskit-to-CUDA-Q Translation? An Execution-Verified Study](https://arxiv.org/abs/2611.29793v1)**\n_Score: 70.95_"
+    },
+    {
+      "id": "art_ai_research_72b71c57",
+      "type": "text",
+      "x": 940,
+      "y": -250,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Constrained Diffusion from Binary Evaluations via Learned Doob h-Functions](https://arxiv.org/abs/2611.29779v1)**\n_Score: 70.95_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_ai_dev_tools_9cf0edec",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp)**\n_Score: 60.7_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_business_9843e5d8",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)**\n_Score: 80.85_"
+    },
+    {
+      "id": "art_business_e22578f5",
+      "type": "text",
+      "x": 940,
+      "y": 170,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[San Francisco is enjoying an AI boom, but worries about a crash are growing](https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o)**\n_Score: 70.8_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_cac7c7fa",
+      "type": "text",
+      "x": 940,
+      "y": 330,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[US to blacklist Asian AI firm Megaspeed after Nvidia scandal](https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo)**\n_Score: 80.85_"
+    },
+    {
+      "id": "art_geopolitics_7d1d3b66",
+      "type": "text",
+      "x": 940,
+      "y": 430,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Nato chief vows defence against space threat after Russian nuclear satellite reports](https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo)**\n_Score: 70.85_"
+    },
+    {
+      "id": "art_geopolitics_af234001",
+      "type": "text",
+      "x": 940,
+      "y": 530,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[UK sanctions top Myanmar military leaders after Rohingya genocide ruling](https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo)**\n_Score: 70.85_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_f37b5cdb",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_a6299406",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_a370755a",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_d01472e0",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_0832973a",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_762d3502",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_10f69000",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_72b71c57",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_f510db07",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_9da20d8c",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_9cf0edec",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_55838b39",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_93ce52fb",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_9843e5d8",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_36ba2f11",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_e22578f5",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_e916c2f9",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_efefa6ec",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_cac7c7fa",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_6e2e4045",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_7d1d3b66",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_4bc3fe76",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_af234001",
+      "toSide": "left"
+    }
+  ]
+}
