@@ -1,0 +1,255 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-11-25 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n[LLM Agents Work for Their Parent Companies, Not for You](https://michaelharley.net/posts/2026/01/llm-agents-work-for-their-parent-companies-not-for-you/)\n\n[出典リンク](https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/OpenAI|OpenAI]]\n- [[Entities/Anthropic|Anthropic]]\n- [[Entities/Apple|Apple]]\n- [[Entities/NVIDIA|NVIDIA]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/GPT|GPT]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **5件**"
+    },
+    {
+      "id": "art_ai_research_d161b84d",
+      "type": "text",
+      "x": 940,
+      "y": -450,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/)**\n_Score: 80.85_"
+    },
+    {
+      "id": "art_ai_research_068098d2",
+      "type": "text",
+      "x": 940,
+      "y": -350,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action](https://arxiv.org/abs/2611.31240v1)**\n_Score: 70.95_"
+    },
+    {
+      "id": "art_ai_research_da2e91ee",
+      "type": "text",
+      "x": 940,
+      "y": -250,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Let Vision-Language Models Generate Images through Their Representations](https://arxiv.org/abs/2611.31237v1)**\n_Score: 70.95_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_ai_dev_tools_d20686f3",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[LLM agents work for their parent companies, not for you](https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/)**\n_Score: 80.9_"
+    },
+    {
+      "id": "art_ai_dev_tools_355190b0",
+      "type": "text",
+      "x": 940,
+      "y": -90,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[A training engine for your local model, using your idle compute](https://github.com/sous-labs/songe)**\n_Score: 70.8_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_business_0f3dca79",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Huawei found guilty of stealing trade secrets but acquitted of racketeering](https://www.bbc.co.uk/news/articles/cmy49ngydqzpo)**\n_Score: 80.8_"
+    },
+    {
+      "id": "art_business_19076cf9",
+      "type": "text",
+      "x": 940,
+      "y": 170,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Anthropic breaks below $83 IPO price](https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading)**\n_Score: 70.85_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_geopolitics_0df00d9f",
+      "type": "text",
+      "x": 940,
+      "y": 330,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[US attorney general dodges questions about Nvidia investigation](https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo)**\n_Score: 80.85_"
+    },
+    {
+      "id": "art_geopolitics_f019c263",
+      "type": "text",
+      "x": 940,
+      "y": 430,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Trump had 4 reasons to ‘convince’ Nvidia to rehire Jensen Huang. Here’s why it matters globally](https://theconversation.com/trump-had-4-reasons-to-convince-nvidia-to-rehire-jensen-huang-heres-why-it-matters-globally-297377)**\n_Score: 80.85_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_a1582b53",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_2c832ae9",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_76363fc0",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_d161b84d",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_957701c3",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_068098d2",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_c864faad",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_da2e91ee",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_38d32e8b",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_280940e3",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_d20686f3",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_64b5319e",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_355190b0",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_51eeb150",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_41277e95",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_0f3dca79",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_33a76f8e",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_19076cf9",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_edbbea38",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_b610f339",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_0df00d9f",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_a20969c9",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_f019c263",
+      "toSide": "left"
+    }
+  ]
+}
