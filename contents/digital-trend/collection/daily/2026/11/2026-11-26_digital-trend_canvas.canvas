@@ -1,0 +1,238 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-11-26 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n[OmniAct: One Policy, One Million Embodiments](https://arxiv.org/abs/2611.33158v1)\n\n[出典リンク](https://arxiv.org/abs/2611.33158v1)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/NVIDIA|NVIDIA]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/GPT|GPT]]\n- [[Technologies/chain-of-thought|chain-of-thought]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **5件**"
+    },
+    {
+      "id": "art_ai_research_206ca5e7",
+      "type": "text",
+      "x": 940,
+      "y": -450,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[OmniAct: One Policy, One Million Embodiments](https://arxiv.org/abs/2611.33158v1)**\n_Score: 80.95_"
+    },
+    {
+      "id": "art_ai_research_a5696e9c",
+      "type": "text",
+      "x": 940,
+      "y": -350,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning](https://arxiv.org/abs/2611.33153v1)**\n_Score: 80.95_"
+    },
+    {
+      "id": "art_ai_research_ba4bc36a",
+      "type": "text",
+      "x": 940,
+      "y": -250,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles](https://arxiv.org/abs/2611.33151v1)**\n_Score: 80.95_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_ai_dev_tools_818fe59d",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Amazon’s CSO Warns About AI Agent Attacks That Take Just Minutes](https://www.forbes.com/sites/timkeary/2026/11/25/amazons-cso-warns-about-ai-agent-attacks-that-take-just-minutes/)**\n_Score: 70.85_"
+    },
+    {
+      "id": "art_ai_dev_tools_eed141a7",
+      "type": "text",
+      "x": 940,
+      "y": -90,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[The New York Times warns photographers not to update Photoshop over AI features](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features)**\n_Score: 60.8_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_business_932229a6",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[US stocks fall further as fears over AI intensify](https://www.bbc.co.uk/news/articles/cq0md8g14zryo)**\n_Score: 70.8_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_geopolitics_0bbf77b7",
+      "type": "text",
+      "x": 940,
+      "y": 330,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[US announces new tariffs on host of countries including China](https://www.bbc.co.uk/news/articles/c893r9ke5p97o)**\n_Score: 80.85_"
+    },
+    {
+      "id": "art_geopolitics_6188652d",
+      "type": "text",
+      "x": 940,
+      "y": 430,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Climate summits need radical reform – here’s how to transform global negotiations](https://theconversation.com/climate-summits-need-radical-reform-heres-how-to-transform-global-negotiations-297316)**\n_Score: 70.8_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_b7b32dd9",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_b4478240",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_017270c5",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_206ca5e7",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_ea0db496",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_a5696e9c",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_5489dd66",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_ba4bc36a",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_9569bca6",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_16a3e7ac",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_818fe59d",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_67689deb",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_eed141a7",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_62403e14",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_27532e28",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_932229a6",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_fbfa6b3d",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_8d413e2a",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_0bbf77b7",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_4e75cd0d",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_6188652d",
+      "toSide": "left"
+    }
+  ]
+}
