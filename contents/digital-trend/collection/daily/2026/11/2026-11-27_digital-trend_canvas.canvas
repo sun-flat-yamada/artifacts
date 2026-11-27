@@ -1,0 +1,289 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-11-27 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n[Mixture-of-Loops Transformer](https://arxiv.org/abs/2611.34923v1)\n\n[出典リンク](https://arxiv.org/abs/2611.34923v1)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/OpenAI|OpenAI]]\n- [[Entities/Google|Google]]\n- [[Entities/NVIDIA|NVIDIA]]\n- [[Entities/GitHub|GitHub]]\n\n### ⚙️ 注目技術\n- [[Technologies/transformer|transformer]]\n- [[Technologies/LLM|LLM]]\n- [[Technologies/GPT|GPT]]\n- [[Technologies/MoE|MoE]]\n- [[Technologies/attention|attention]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **5件**"
+    },
+    {
+      "id": "art_ai_research_5826379a",
+      "type": "text",
+      "x": 940,
+      "y": -450,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Mixture-of-Loops Transformer](https://arxiv.org/abs/2611.34923v1)**\n_Score: 80.9_"
+    },
+    {
+      "id": "art_ai_research_c5d8ee37",
+      "type": "text",
+      "x": 940,
+      "y": -350,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Attack Policy Selection can Mislead Monitor Evaluators](https://arxiv.org/abs/2611.34934v1)**\n_Score: 70.9_"
+    },
+    {
+      "id": "art_ai_research_a5297b31",
+      "type": "text",
+      "x": 940,
+      "y": -250,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Diverse Alternative Reasoning Traces for Hard Math Problems](https://arxiv.org/abs/2611.34928v1)**\n_Score: 70.9_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **4件**"
+    },
+    {
+      "id": "art_ai_dev_tools_d8190a99",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email](https://techstackups.com/articles/google-workspace-ai-agents-mcp/)**\n_Score: 80.85_"
+    },
+    {
+      "id": "art_ai_dev_tools_65a1ff95",
+      "type": "text",
+      "x": 940,
+      "y": -90,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[How Much Do Coding Agents Over-Edit, and Why? An Empirical Study of Unneeded Edits in Repository-Level Agent Patches](https://arxiv.org/abs/2611.34875v1)**\n_Score: 70.85_"
+    },
+    {
+      "id": "art_ai_dev_tools_d4fda990",
+      "type": "text",
+      "x": 940,
+      "y": 10,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Moat: OpenRouter replacement](https://commandcode.ai/moat)**\n_Score: 70.8_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **4件**"
+    },
+    {
+      "id": "art_business_680fd069",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[OpenAI may be in cost control mode](https://micjm.com/blog/openai-is-in-cost-control-mode/)**\n_Score: 80.85_"
+    },
+    {
+      "id": "art_business_97c060fe",
+      "type": "text",
+      "x": 940,
+      "y": 170,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Enjoy The AI Feast Till It Lasts](https://www.forbes.com/sites/sanjitsinghdang/2026/11/26/enjoy-the-ai-feast-till-it-lasts/)**\n_Score: 80.85_"
+    },
+    {
+      "id": "art_business_b42d06b2",
+      "type": "text",
+      "x": 940,
+      "y": 270,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Jensen Huang’s controversial return to Nvidia poses the question – what’s the point of a board?](https://theconversation.com/jensen-huangs-controversial-return-to-nvidia-poses-the-question-whats-the-point-of-a-board-297386)**\n_Score: 70.8_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **2件**"
+    },
+    {
+      "id": "art_geopolitics_b7b00ddd",
+      "type": "text",
+      "x": 940,
+      "y": 330,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Can the International Criminal Court survive Trump’s attacks – and hold world leaders to account?](https://theconversation.com/can-the-international-criminal-court-survive-trumps-attacks-and-hold-world-leaders-to-account-297530)**\n_Score: 70.8_"
+    },
+    {
+      "id": "art_geopolitics_68443bc8",
+      "type": "text",
+      "x": 940,
+      "y": 430,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Justice is elusive for the Rohingya even after the ICJ’s landmark genocide ruling against Myanmar](https://theconversation.com/justice-is-elusive-for-the-rohingya-even-after-the-icjs-landmark-genocide-ruling-against-myanmar-297125)**\n_Score: 70.8_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_bb682501",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_f3e0813d",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_329b9570",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_5826379a",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_9245b7c0",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_c5d8ee37",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_800a5d8d",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_a5297b31",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_c5fedcae",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_7beb5e2d",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_d8190a99",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_a08a0bea",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_65a1ff95",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_bd4db9ca",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_d4fda990",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_5f0e0ba0",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_31e213f8",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_680fd069",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_c27a9132",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_97c060fe",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_c7f481b6",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_b42d06b2",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_206bc9e4",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_3f86ddc4",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_b7b00ddd",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_3738e030",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_68443bc8",
+      "toSide": "left"
+    }
+  ]
+}
