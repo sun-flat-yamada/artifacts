@@ -1,0 +1,272 @@
+{
+  "nodes": [
+    {
+      "id": "root_daily",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 220,
+      "color": "1",
+      "text": "# 📅 2026-11-28 デイリートレンド\n\n**🔥 本日の最重要ニュース**\n未発表モデル「GPT-6.2 Astra」が歴史的未解決問題を22分で解明：超長文推論と自律的リサーチエージェントの到達点\n\n[出典リンク](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical)"
+    },
+    {
+      "id": "entities_summary",
+      "type": "text",
+      "x": -480,
+      "y": -50,
+      "width": 380,
+      "height": 320,
+      "color": "3",
+      "text": "### 🏢 注目企業\n- [[Entities/OpenAI|OpenAI]]\n- [[Entities/xAI|xAI]]\n\n### ⚙️ 注目技術\n- [[Technologies/LLM|LLM]]\n- [[Technologies/GPT|GPT]]"
+    },
+    {
+      "id": "purpose_ai_research",
+      "type": "text",
+      "x": 540,
+      "y": -390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🔬 AI・LLM 研究\n\n収集件数: **4件**"
+    },
+    {
+      "id": "art_ai_research_e74799ef",
+      "type": "text",
+      "x": 940,
+      "y": -450,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[GPT 6.2 Astra Solves a Historical Mystery](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical)**\n_Score: 70.88_"
+    },
+    {
+      "id": "art_ai_research_5de344be",
+      "type": "text",
+      "x": 940,
+      "y": -350,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Former xAI Founders Built A Time Machine For AI Agents. Will It Help Them Predict The Future?](https://www.forbes.com/sites/anishasircar/2026/11/27/former-xai-founders-built-a-time-machine-for-ai-agents-will-it-help-them-predict-the-future/)**\n_Score: 70.82_"
+    },
+    {
+      "id": "art_ai_research_c1de05e2",
+      "type": "text",
+      "x": 940,
+      "y": -250,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Shape-Aware Three-Way Merge for RDF Knowledge Graphs: The schema defines the conflict: an implementation and evaluation](https://arxiv.org/abs/2611.34870v1)**\n_Score: 60.92_"
+    },
+    {
+      "id": "purpose_ai_dev_tools",
+      "type": "text",
+      "x": 540,
+      "y": -130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🛠️ 開発ツール・IDE統合\n\n収集件数: **4件**"
+    },
+    {
+      "id": "art_ai_dev_tools_4e19f7f0",
+      "type": "text",
+      "x": 940,
+      "y": -190,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Claude sabotaging ML research tasks?](https://twitter.com/RealAstropulse/status/2126119408997466389)**\n_Score: 60.85_"
+    },
+    {
+      "id": "art_ai_dev_tools_e096cefe",
+      "type": "text",
+      "x": 940,
+      "y": -90,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Group chat where your AI talks behind your back](https://construct22.com/)**\n_Score: 50.75_"
+    },
+    {
+      "id": "art_ai_dev_tools_ad107396",
+      "type": "text",
+      "x": 940,
+      "y": 10,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting)**\n_Score: 50.72_"
+    },
+    {
+      "id": "purpose_business",
+      "type": "text",
+      "x": 540,
+      "y": 130,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 💼 ビジネス動向\n\n収集件数: **1件**"
+    },
+    {
+      "id": "art_business_40c09939",
+      "type": "text",
+      "x": 940,
+      "y": 70,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Holiday Cyber Risks: Protecting Identities From AI Attacks And Fraud](https://www.forbes.com/sites/chuckbrooks/2026/11/27/holiday-cyber-risks-protecting-identities-from-ai-attacks-and-fraud/)**\n_Score: 40.6_"
+    },
+    {
+      "id": "purpose_geopolitics",
+      "type": "text",
+      "x": 540,
+      "y": 390,
+      "width": 320,
+      "height": 180,
+      "color": "4",
+      "text": "## 🌍 政治・地政学\n\n収集件数: **3件**"
+    },
+    {
+      "id": "art_geopolitics_be989bf6",
+      "type": "text",
+      "x": 940,
+      "y": 330,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[States sue SpaceX to stop Grok from generating child sex images, revenge porn](https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform)**\n_Score: 70.8_"
+    },
+    {
+      "id": "art_geopolitics_37e10b60",
+      "type": "text",
+      "x": 940,
+      "y": 430,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Elon Musk has approval to launch 1 million satellites. An astronomer explains how this would impact the sky](https://theconversation.com/elon-musk-has-approval-to-launch-1-million-satellites-an-astronomer-explains-how-this-would-impact-the-sky-297646)**\n_Score: 70.8_"
+    },
+    {
+      "id": "art_geopolitics_b8e9631d",
+      "type": "text",
+      "x": 940,
+      "y": 530,
+      "width": 380,
+      "height": 85,
+      "color": "6",
+      "text": "**[Is Russia about to launch a nuclear weapon into Earth’s orbit? A space law expert explains the threat](https://theconversation.com/is-russia-about-to-launch-a-nuclear-weapon-into-earths-orbit-a-space-law-expert-explains-the-threat-297496)**\n_Score: 70.65_"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_ent_1c3b9058",
+      "fromNode": "entities_summary",
+      "fromSide": "right",
+      "toNode": "root_daily",
+      "toSide": "left",
+      "label": "関連エンティティ"
+    },
+    {
+      "id": "edge_cat_578ee124",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_research",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_cc37a17a",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_e74799ef",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_545c0d38",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_5de344be",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_896800e0",
+      "fromNode": "purpose_ai_research",
+      "fromSide": "right",
+      "toNode": "art_ai_research_c1de05e2",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_870c8528",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_ai_dev_tools",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_0ae4f09d",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_4e19f7f0",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_73111aba",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_e096cefe",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_ddcd07dc",
+      "fromNode": "purpose_ai_dev_tools",
+      "fromSide": "right",
+      "toNode": "art_ai_dev_tools_ad107396",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_608fbc1d",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_business",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_2a61d6d9",
+      "fromNode": "purpose_business",
+      "fromSide": "right",
+      "toNode": "art_business_40c09939",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_cat_ef1f5faf",
+      "fromNode": "root_daily",
+      "fromSide": "right",
+      "toNode": "purpose_geopolitics",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_b50ac816",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_be989bf6",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_de3c49e0",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_37e10b60",
+      "toSide": "left"
+    },
+    {
+      "id": "edge_art_6f2022cc",
+      "fromNode": "purpose_geopolitics",
+      "fromSide": "right",
+      "toNode": "art_geopolitics_b8e9631d",
+      "toSide": "left"
+    }
+  ]
+}
